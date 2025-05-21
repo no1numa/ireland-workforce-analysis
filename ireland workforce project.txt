@@ -1,0 +1,24 @@
+Data -> Growth, Unemployment, Work Hours
+
+Growth
+	1. Which region has seen the biggest growth in its Labour Force in the last decade?
+	2. Which economic sector has seen the biggest growth in the last decade and how the pandemic affected each?
+	3. Growth of foreign participation since the 2000s
+	4. Relation between Full-time and Part-time jobs along the years.
+	4.1 Most common reasons for work Part-time in the last year.
+	5. What are the top economic sectors in student participation in the last year? Is it any different from the year before the COVID-19 (2019)?
+	6. Growth of hybrid and Home Office models of work in the last 5 years.
+	7. Average Permanency along the years
+
+
+Unemployment
+	8. Which regions have the highest rates of Unemployment along the years?
+	9. How Marital Status affect the Unemployment?
+	10. Which gender suffers from the highest unemployment rate? Is it getting better along the years?
+	11. How Age affects the Employment status?
+	12. Does students have a higher rate of Unemployment?
+
+Work Hours
+	x. Which sectors have the highest average of Work Hours?
+	x. How much hours the Full-time and Part-time workers are actually working?
+	x. Which occupational groups have the highest average of Work Hours?
