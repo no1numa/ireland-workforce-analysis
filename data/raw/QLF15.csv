@@ -1,0 +1,2521 @@
+NUTS 3 Regions,Quarter,Statistic,value
+State,1998Q1,Persons aged 15 years and over in Employment (Thousand),1550.4
+State,1998Q1,Unemployed Persons aged 15 years and over (Thousand),150.5
+State,1998Q1,Persons aged 15 years and over in Labour Force (Thousand),1700.9
+State,1998Q1,ILO Unemployment Rate (15 - 74 years) (%),8.9
+State,1998Q1,ILO Participation Rate (15 years and over) (%),59.5
+State,1998Q2,Persons aged 15 years and over in Employment (Thousand),1572.1
+State,1998Q2,Unemployed Persons aged 15 years and over (Thousand),140.8
+State,1998Q2,Persons aged 15 years and over in Labour Force (Thousand),1712.9
+State,1998Q2,ILO Unemployment Rate (15 - 74 years) (%),8.3
+State,1998Q2,ILO Participation Rate (15 years and over) (%),59.6
+State,1998Q3,Persons aged 15 years and over in Employment (Thousand),1636.3
+State,1998Q3,Unemployed Persons aged 15 years and over (Thousand),132.9
+State,1998Q3,Persons aged 15 years and over in Labour Force (Thousand),1769.2
+State,1998Q3,ILO Unemployment Rate (15 - 74 years) (%),7.5
+State,1998Q3,ILO Participation Rate (15 years and over) (%),61.3
+State,1998Q4,Persons aged 15 years and over in Employment (Thousand),1615.9
+State,1998Q4,Unemployed Persons aged 15 years and over (Thousand),110.3
+State,1998Q4,Persons aged 15 years and over in Labour Force (Thousand),1726.2
+State,1998Q4,ILO Unemployment Rate (15 - 74 years) (%),6.4
+State,1998Q4,ILO Participation Rate (15 years and over) (%),59.5
+State,1999Q1,Persons aged 15 years and over in Employment (Thousand),1644.5
+State,1999Q1,Unemployed Persons aged 15 years and over (Thousand),110.9
+State,1999Q1,Persons aged 15 years and over in Labour Force (Thousand),1755.5
+State,1999Q1,ILO Unemployment Rate (15 - 74 years) (%),6.3
+State,1999Q1,ILO Participation Rate (15 years and over) (%),60.4
+State,1999Q2,Persons aged 15 years and over in Employment (Thousand),1679.2
+State,1999Q2,Unemployed Persons aged 15 years and over (Thousand),113.0
+State,1999Q2,Persons aged 15 years and over in Labour Force (Thousand),1792.3
+State,1999Q2,ILO Unemployment Rate (15 - 74 years) (%),6.3
+State,1999Q2,ILO Participation Rate (15 years and over) (%),61.5
+State,1999Q3,Persons aged 15 years and over in Employment (Thousand),1746.8
+State,1999Q3,Unemployed Persons aged 15 years and over (Thousand),104.9
+State,1999Q3,Persons aged 15 years and over in Labour Force (Thousand),1851.7
+State,1999Q3,ILO Unemployment Rate (15 - 74 years) (%),5.7
+State,1999Q3,ILO Participation Rate (15 years and over) (%),63.2
+State,1999Q4,Persons aged 15 years and over in Employment (Thousand),1723.1
+State,1999Q4,Unemployed Persons aged 15 years and over (Thousand),92.7
+State,1999Q4,Persons aged 15 years and over in Labour Force (Thousand),1815.8
+State,1999Q4,ILO Unemployment Rate (15 - 74 years) (%),5.1
+State,1999Q4,ILO Participation Rate (15 years and over) (%),61.6
+State,2000Q1,Persons aged 15 years and over in Employment (Thousand),1726.8
+State,2000Q1,Unemployed Persons aged 15 years and over (Thousand),87.9
+State,2000Q1,Persons aged 15 years and over in Labour Force (Thousand),1814.7
+State,2000Q1,ILO Unemployment Rate (15 - 74 years) (%),4.9
+State,2000Q1,ILO Participation Rate (15 years and over) (%),61.4
+State,2000Q2,Persons aged 15 years and over in Employment (Thousand),1758.4
+State,2000Q2,Unemployed Persons aged 15 years and over (Thousand),90.2
+State,2000Q2,Persons aged 15 years and over in Labour Force (Thousand),1848.6
+State,2000Q2,ILO Unemployment Rate (15 - 74 years) (%),4.9
+State,2000Q2,ILO Participation Rate (15 years and over) (%),62.3
+State,2000Q3,Persons aged 15 years and over in Employment (Thousand),1818.6
+State,2000Q3,Unemployed Persons aged 15 years and over (Thousand),84.8
+State,2000Q3,Persons aged 15 years and over in Labour Force (Thousand),1903.4
+State,2000Q3,ILO Unemployment Rate (15 - 74 years) (%),4.5
+State,2000Q3,ILO Participation Rate (15 years and over) (%),63.8
+State,2000Q4,Persons aged 15 years and over in Employment (Thousand),1787.8
+State,2000Q4,Unemployed Persons aged 15 years and over (Thousand),69.9
+State,2000Q4,Persons aged 15 years and over in Labour Force (Thousand),1857.7
+State,2000Q4,ILO Unemployment Rate (15 - 74 years) (%),3.8
+State,2000Q4,ILO Participation Rate (15 years and over) (%),61.8
+State,2001Q1,Persons aged 15 years and over in Employment (Thousand),1780.5
+State,2001Q1,Unemployed Persons aged 15 years and over (Thousand),72.9
+State,2001Q1,Persons aged 15 years and over in Labour Force (Thousand),1853.4
+State,2001Q1,ILO Unemployment Rate (15 - 74 years) (%),3.9
+State,2001Q1,ILO Participation Rate (15 years and over) (%),61.5
+State,2001Q2,Persons aged 15 years and over in Employment (Thousand),1809.8
+State,2001Q2,Unemployed Persons aged 15 years and over (Thousand),77.8
+State,2001Q2,Persons aged 15 years and over in Labour Force (Thousand),1887.6
+State,2001Q2,ILO Unemployment Rate (15 - 74 years) (%),4.1
+State,2001Q2,ILO Participation Rate (15 years and over) (%),62.4
+State,2001Q3,Persons aged 15 years and over in Employment (Thousand),1866.9
+State,2001Q3,Unemployed Persons aged 15 years and over (Thousand),87.8
+State,2001Q3,Persons aged 15 years and over in Labour Force (Thousand),1954.7
+State,2001Q3,ILO Unemployment Rate (15 - 74 years) (%),4.5
+State,2001Q3,ILO Participation Rate (15 years and over) (%),64.2
+State,2001Q4,Persons aged 15 years and over in Employment (Thousand),1833.2
+State,2001Q4,Unemployed Persons aged 15 years and over (Thousand),79.7
+State,2001Q4,Persons aged 15 years and over in Labour Force (Thousand),1912.9
+State,2001Q4,ILO Unemployment Rate (15 - 74 years) (%),4.2
+State,2001Q4,ILO Participation Rate (15 years and over) (%),62.4
+State,2002Q1,Persons aged 15 years and over in Employment (Thousand),1825.3
+State,2002Q1,Unemployed Persons aged 15 years and over (Thousand),85.7
+State,2002Q1,Persons aged 15 years and over in Labour Force (Thousand),1911.0
+State,2002Q1,ILO Unemployment Rate (15 - 74 years) (%),4.5
+State,2002Q1,ILO Participation Rate (15 years and over) (%),62.1
+State,2002Q2,Persons aged 15 years and over in Employment (Thousand),1840.3
+State,2002Q2,Unemployed Persons aged 15 years and over (Thousand),91.8
+State,2002Q2,Persons aged 15 years and over in Labour Force (Thousand),1932.1
+State,2002Q2,ILO Unemployment Rate (15 - 74 years) (%),4.8
+State,2002Q2,ILO Participation Rate (15 years and over) (%),62.4
+State,2002Q3,Persons aged 15 years and over in Employment (Thousand),1883.6
+State,2002Q3,Unemployed Persons aged 15 years and over (Thousand),91.2
+State,2002Q3,Persons aged 15 years and over in Labour Force (Thousand),1974.7
+State,2002Q3,ILO Unemployment Rate (15 - 74 years) (%),4.6
+State,2002Q3,ILO Participation Rate (15 years and over) (%),63.5
+State,2002Q4,Persons aged 15 years and over in Employment (Thousand),1850.3
+State,2002Q4,Unemployed Persons aged 15 years and over (Thousand),97.2
+State,2002Q4,Persons aged 15 years and over in Labour Force (Thousand),1947.6
+State,2002Q4,ILO Unemployment Rate (15 - 74 years) (%),5.0
+State,2002Q4,ILO Participation Rate (15 years and over) (%),62.3
+State,2003Q1,Persons aged 15 years and over in Employment (Thousand),1855.7
+State,2003Q1,Unemployed Persons aged 15 years and over (Thousand),93.2
+State,2003Q1,Persons aged 15 years and over in Labour Force (Thousand),1948.9
+State,2003Q1,ILO Unemployment Rate (15 - 74 years) (%),4.8
+State,2003Q1,ILO Participation Rate (15 years and over) (%),62.1
+State,2003Q2,Persons aged 15 years and over in Employment (Thousand),1874.0
+State,2003Q2,Unemployed Persons aged 15 years and over (Thousand),96.7
+State,2003Q2,Persons aged 15 years and over in Labour Force (Thousand),1970.7
+State,2003Q2,ILO Unemployment Rate (15 - 74 years) (%),4.9
+State,2003Q2,ILO Participation Rate (15 years and over) (%),62.6
+State,2003Q3,Persons aged 15 years and over in Employment (Thousand),1912.9
+State,2003Q3,Unemployed Persons aged 15 years and over (Thousand),103.9
+State,2003Q3,Persons aged 15 years and over in Labour Force (Thousand),2016.8
+State,2003Q3,ILO Unemployment Rate (15 - 74 years) (%),5.2
+State,2003Q3,ILO Participation Rate (15 years and over) (%),63.7
+State,2003Q4,Persons aged 15 years and over in Employment (Thousand),1899.5
+State,2003Q4,Unemployed Persons aged 15 years and over (Thousand),89.3
+State,2003Q4,Persons aged 15 years and over in Labour Force (Thousand),1988.9
+State,2003Q4,ILO Unemployment Rate (15 - 74 years) (%),4.5
+State,2003Q4,ILO Participation Rate (15 years and over) (%),62.5
+State,2004Q1,Persons aged 15 years and over in Employment (Thousand),1902.4
+State,2004Q1,Unemployed Persons aged 15 years and over (Thousand),101.8
+State,2004Q1,Persons aged 15 years and over in Labour Force (Thousand),2004.2
+State,2004Q1,ILO Unemployment Rate (15 - 74 years) (%),5.1
+State,2004Q1,ILO Participation Rate (15 years and over) (%),62.7
+State,2004Q2,Persons aged 15 years and over in Employment (Thousand),1925.9
+State,2004Q2,Unemployed Persons aged 15 years and over (Thousand),97.0
+State,2004Q2,Persons aged 15 years and over in Labour Force (Thousand),2022.9
+State,2004Q2,ILO Unemployment Rate (15 - 74 years) (%),4.8
+State,2004Q2,ILO Participation Rate (15 years and over) (%),63.1
+State,2004Q3,Persons aged 15 years and over in Employment (Thousand),1984.2
+State,2004Q3,Unemployed Persons aged 15 years and over (Thousand),96.6
+State,2004Q3,Persons aged 15 years and over in Labour Force (Thousand),2080.8
+State,2004Q3,ILO Unemployment Rate (15 - 74 years) (%),4.7
+State,2004Q3,ILO Participation Rate (15 years and over) (%),64.4
+State,2004Q4,Persons aged 15 years and over in Employment (Thousand),1973.8
+State,2004Q4,Unemployed Persons aged 15 years and over (Thousand),90.9
+State,2004Q4,Persons aged 15 years and over in Labour Force (Thousand),2064.7
+State,2004Q4,ILO Unemployment Rate (15 - 74 years) (%),4.4
+State,2004Q4,ILO Participation Rate (15 years and over) (%),63.5
+State,2005Q1,Persons aged 15 years and over in Employment (Thousand),1989.7
+State,2005Q1,Unemployed Persons aged 15 years and over (Thousand),91.2
+State,2005Q1,Persons aged 15 years and over in Labour Force (Thousand),2080.9
+State,2005Q1,ILO Unemployment Rate (15 - 74 years) (%),4.4
+State,2005Q1,ILO Participation Rate (15 years and over) (%),63.6
+State,2005Q2,Persons aged 15 years and over in Employment (Thousand),2018.1
+State,2005Q2,Unemployed Persons aged 15 years and over (Thousand),106.3
+State,2005Q2,Persons aged 15 years and over in Labour Force (Thousand),2124.3
+State,2005Q2,ILO Unemployment Rate (15 - 74 years) (%),5.0
+State,2005Q2,ILO Participation Rate (15 years and over) (%),64.6
+State,2005Q3,Persons aged 15 years and over in Employment (Thousand),2073.5
+State,2005Q3,Unemployed Persons aged 15 years and over (Thousand),106.0
+State,2005Q3,Persons aged 15 years and over in Labour Force (Thousand),2179.5
+State,2005Q3,ILO Unemployment Rate (15 - 74 years) (%),4.9
+State,2005Q3,ILO Participation Rate (15 years and over) (%),65.8
+State,2005Q4,Persons aged 15 years and over in Employment (Thousand),2070.1
+State,2005Q4,Unemployed Persons aged 15 years and over (Thousand),91.9
+State,2005Q4,Persons aged 15 years and over in Labour Force (Thousand),2162.0
+State,2005Q4,ILO Unemployment Rate (15 - 74 years) (%),4.3
+State,2005Q4,ILO Participation Rate (15 years and over) (%),64.7
+State,2006Q1,Persons aged 15 years and over in Employment (Thousand),2083.1
+State,2006Q1,Unemployed Persons aged 15 years and over (Thousand),101.5
+State,2006Q1,Persons aged 15 years and over in Labour Force (Thousand),2184.6
+State,2006Q1,ILO Unemployment Rate (15 - 74 years) (%),4.7
+State,2006Q1,ILO Participation Rate (15 years and over) (%),65.0
+State,2006Q2,Persons aged 15 years and over in Employment (Thousand),2110.5
+State,2006Q2,Unemployed Persons aged 15 years and over (Thousand),108.7
+State,2006Q2,Persons aged 15 years and over in Labour Force (Thousand),2219.1
+State,2006Q2,ILO Unemployment Rate (15 - 74 years) (%),4.9
+State,2006Q2,ILO Participation Rate (15 years and over) (%),65.7
+State,2006Q3,Persons aged 15 years and over in Employment (Thousand),2159.6
+State,2006Q3,Unemployed Persons aged 15 years and over (Thousand),116.8
+State,2006Q3,Persons aged 15 years and over in Labour Force (Thousand),2276.5
+State,2006Q3,ILO Unemployment Rate (15 - 74 years) (%),5.1
+State,2006Q3,ILO Participation Rate (15 years and over) (%),66.7
+State,2006Q4,Persons aged 15 years and over in Employment (Thousand),2167.6
+State,2006Q4,Unemployed Persons aged 15 years and over (Thousand),98.3
+State,2006Q4,Persons aged 15 years and over in Labour Force (Thousand),2265.9
+State,2006Q4,ILO Unemployment Rate (15 - 74 years) (%),4.4
+State,2006Q4,ILO Participation Rate (15 years and over) (%),65.7
+State,2007Q1,Persons aged 15 years and over in Employment (Thousand),2186.9
+State,2007Q1,Unemployed Persons aged 15 years and over (Thousand),111.2
+State,2007Q1,Persons aged 15 years and over in Labour Force (Thousand),2298.2
+State,2007Q1,ILO Unemployment Rate (15 - 74 years) (%),4.9
+State,2007Q1,ILO Participation Rate (15 years and over) (%),66.2
+State,2007Q2,Persons aged 15 years and over in Employment (Thousand),2213.4
+State,2007Q2,Unemployed Persons aged 15 years and over (Thousand),120.1
+State,2007Q2,Persons aged 15 years and over in Labour Force (Thousand),2333.5
+State,2007Q2,ILO Unemployment Rate (15 - 74 years) (%),5.2
+State,2007Q2,ILO Participation Rate (15 years and over) (%),66.7
+State,2007Q3,Persons aged 15 years and over in Employment (Thousand),2252.2
+State,2007Q3,Unemployed Persons aged 15 years and over (Thousand),119.7
+State,2007Q3,Persons aged 15 years and over in Labour Force (Thousand),2371.9
+State,2007Q3,ILO Unemployment Rate (15 - 74 years) (%),5.1
+State,2007Q3,ILO Participation Rate (15 years and over) (%),67.4
+State,2007Q4,Persons aged 15 years and over in Employment (Thousand),2232.9
+State,2007Q4,Unemployed Persons aged 15 years and over (Thousand),114.7
+State,2007Q4,Persons aged 15 years and over in Labour Force (Thousand),2347.6
+State,2007Q4,ILO Unemployment Rate (15 - 74 years) (%),4.9
+State,2007Q4,ILO Participation Rate (15 years and over) (%),66.2
+State,2008Q1,Persons aged 15 years and over in Employment (Thousand),2219.5
+State,2008Q1,Unemployed Persons aged 15 years and over (Thousand),124.4
+State,2008Q1,Persons aged 15 years and over in Labour Force (Thousand),2343.9
+State,2008Q1,ILO Unemployment Rate (15 - 74 years) (%),5.3
+State,2008Q1,ILO Participation Rate (15 years and over) (%),65.8
+State,2008Q2,Persons aged 15 years and over in Employment (Thousand),2220.1
+State,2008Q2,Unemployed Persons aged 15 years and over (Thousand),144.5
+State,2008Q2,Persons aged 15 years and over in Labour Force (Thousand),2364.6
+State,2008Q2,ILO Unemployment Rate (15 - 74 years) (%),6.1
+State,2008Q2,ILO Participation Rate (15 years and over) (%),66.1
+State,2008Q3,Persons aged 15 years and over in Employment (Thousand),2209.8
+State,2008Q3,Unemployed Persons aged 15 years and over (Thousand),180.9
+State,2008Q3,Persons aged 15 years and over in Labour Force (Thousand),2390.7
+State,2008Q3,ILO Unemployment Rate (15 - 74 years) (%),7.6
+State,2008Q3,ILO Participation Rate (15 years and over) (%),66.7
+State,2008Q4,Persons aged 15 years and over in Employment (Thousand),2146.6
+State,2008Q4,Unemployed Persons aged 15 years and over (Thousand),189.4
+State,2008Q4,Persons aged 15 years and over in Labour Force (Thousand),2336.0
+State,2008Q4,ILO Unemployment Rate (15 - 74 years) (%),8.1
+State,2008Q4,ILO Participation Rate (15 years and over) (%),65.1
+State,2009Q1,Persons aged 15 years and over in Employment (Thousand),2054.1
+State,2009Q1,Unemployed Persons aged 15 years and over (Thousand),247.6
+State,2009Q1,Persons aged 15 years and over in Labour Force (Thousand),2301.8
+State,2009Q1,ILO Unemployment Rate (15 - 74 years) (%),10.8
+State,2009Q1,ILO Participation Rate (15 years and over) (%),64.0
+State,2009Q2,Persons aged 15 years and over in Employment (Thousand),2029.3
+State,2009Q2,Unemployed Persons aged 15 years and over (Thousand),299.4
+State,2009Q2,Persons aged 15 years and over in Labour Force (Thousand),2328.8
+State,2009Q2,ILO Unemployment Rate (15 - 74 years) (%),12.9
+State,2009Q2,ILO Participation Rate (15 years and over) (%),64.7
+State,2009Q3,Persons aged 15 years and over in Employment (Thousand),2006.8
+State,2009Q3,Unemployed Persons aged 15 years and over (Thousand),315.1
+State,2009Q3,Persons aged 15 years and over in Labour Force (Thousand),2321.8
+State,2009Q3,ILO Unemployment Rate (15 - 74 years) (%),13.6
+State,2009Q3,ILO Participation Rate (15 years and over) (%),64.5
+State,2009Q4,Persons aged 15 years and over in Employment (Thousand),1970.4
+State,2009Q4,Unemployed Persons aged 15 years and over (Thousand),300.9
+State,2009Q4,Persons aged 15 years and over in Labour Force (Thousand),2271.3
+State,2009Q4,ILO Unemployment Rate (15 - 74 years) (%),13.3
+State,2009Q4,ILO Participation Rate (15 years and over) (%),63.1
+State,2010Q1,Persons aged 15 years and over in Employment (Thousand),1936.0
+State,2010Q1,Unemployed Persons aged 15 years and over (Thousand),306.2
+State,2010Q1,Persons aged 15 years and over in Labour Force (Thousand),2242.2
+State,2010Q1,ILO Unemployment Rate (15 - 74 years) (%),13.7
+State,2010Q1,ILO Participation Rate (15 years and over) (%),62.3
+State,2010Q2,Persons aged 15 years and over in Employment (Thousand),1938.0
+State,2010Q2,Unemployed Persons aged 15 years and over (Thousand),331.0
+State,2010Q2,Persons aged 15 years and over in Labour Force (Thousand),2269.1
+State,2010Q2,ILO Unemployment Rate (15 - 74 years) (%),14.6
+State,2010Q2,ILO Participation Rate (15 years and over) (%),63.1
+State,2010Q3,Persons aged 15 years and over in Employment (Thousand),1930.6
+State,2010Q3,Unemployed Persons aged 15 years and over (Thousand),336.8
+State,2010Q3,Persons aged 15 years and over in Labour Force (Thousand),2267.4
+State,2010Q3,ILO Unemployment Rate (15 - 74 years) (%),14.9
+State,2010Q3,ILO Participation Rate (15 years and over) (%),63.0
+State,2010Q4,Persons aged 15 years and over in Employment (Thousand),1897.7
+State,2010Q4,Unemployed Persons aged 15 years and over (Thousand),335.7
+State,2010Q4,Persons aged 15 years and over in Labour Force (Thousand),2233.3
+State,2010Q4,ILO Unemployment Rate (15 - 74 years) (%),15.1
+State,2010Q4,ILO Participation Rate (15 years and over) (%),62.1
+State,2011Q1,Persons aged 15 years and over in Employment (Thousand),1880.4
+State,2011Q1,Unemployed Persons aged 15 years and over (Thousand),331.1
+State,2011Q1,Persons aged 15 years and over in Labour Force (Thousand),2211.5
+State,2011Q1,ILO Unemployment Rate (15 - 74 years) (%),15.0
+State,2011Q1,ILO Participation Rate (15 years and over) (%),61.4
+State,2011Q2,Persons aged 15 years and over in Employment (Thousand),1900.1
+State,2011Q2,Unemployed Persons aged 15 years and over (Thousand),342.6
+State,2011Q2,Persons aged 15 years and over in Labour Force (Thousand),2242.7
+State,2011Q2,ILO Unemployment Rate (15 - 74 years) (%),15.3
+State,2011Q2,ILO Participation Rate (15 years and over) (%),62.3
+State,2011Q3,Persons aged 15 years and over in Employment (Thousand),1885.2
+State,2011Q3,Unemployed Persons aged 15 years and over (Thousand),356.2
+State,2011Q3,Persons aged 15 years and over in Labour Force (Thousand),2241.4
+State,2011Q3,ILO Unemployment Rate (15 - 74 years) (%),15.9
+State,2011Q3,ILO Participation Rate (15 years and over) (%),62.3
+State,2011Q4,Persons aged 15 years and over in Employment (Thousand),1888.2
+State,2011Q4,Unemployed Persons aged 15 years and over (Thousand),340.1
+State,2011Q4,Persons aged 15 years and over in Labour Force (Thousand),2228.3
+State,2011Q4,ILO Unemployment Rate (15 - 74 years) (%),15.3
+State,2011Q4,ILO Participation Rate (15 years and over) (%),61.9
+Border,1998Q1,Persons aged 15 years and over in Employment (Thousand),163.0
+Border,1998Q1,Unemployed Persons aged 15 years and over (Thousand),17.6
+Border,1998Q1,Persons aged 15 years and over in Labour Force (Thousand),180.6
+Border,1998Q1,ILO Unemployment Rate (15 - 74 years) (%),9.8
+Border,1998Q1,ILO Participation Rate (15 years and over) (%),57.6
+Border,1998Q2,Persons aged 15 years and over in Employment (Thousand),166.2
+Border,1998Q2,Unemployed Persons aged 15 years and over (Thousand),15.3
+Border,1998Q2,Persons aged 15 years and over in Labour Force (Thousand),181.5
+Border,1998Q2,ILO Unemployment Rate (15 - 74 years) (%),8.5
+Border,1998Q2,ILO Participation Rate (15 years and over) (%),57.7
+Border,1998Q3,Persons aged 15 years and over in Employment (Thousand),171.5
+Border,1998Q3,Unemployed Persons aged 15 years and over (Thousand),13.9
+Border,1998Q3,Persons aged 15 years and over in Labour Force (Thousand),185.4
+Border,1998Q3,ILO Unemployment Rate (15 - 74 years) (%),7.5
+Border,1998Q3,ILO Participation Rate (15 years and over) (%),58.6
+Border,1998Q4,Persons aged 15 years and over in Employment (Thousand),171.4
+Border,1998Q4,Unemployed Persons aged 15 years and over (Thousand),13.5
+Border,1998Q4,Persons aged 15 years and over in Labour Force (Thousand),184.9
+Border,1998Q4,ILO Unemployment Rate (15 - 74 years) (%),7.3
+Border,1998Q4,ILO Participation Rate (15 years and over) (%),58.2
+Border,1999Q1,Persons aged 15 years and over in Employment (Thousand),176.1
+Border,1999Q1,Unemployed Persons aged 15 years and over (Thousand),14.4
+Border,1999Q1,Persons aged 15 years and over in Labour Force (Thousand),190.5
+Border,1999Q1,ILO Unemployment Rate (15 - 74 years) (%),7.6
+Border,1999Q1,ILO Participation Rate (15 years and over) (%),59.9
+Border,1999Q2,Persons aged 15 years and over in Employment (Thousand),179.0
+Border,1999Q2,Unemployed Persons aged 15 years and over (Thousand),14.4
+Border,1999Q2,Persons aged 15 years and over in Labour Force (Thousand),193.4
+Border,1999Q2,ILO Unemployment Rate (15 - 74 years) (%),7.5
+Border,1999Q2,ILO Participation Rate (15 years and over) (%),60.6
+Border,1999Q3,Persons aged 15 years and over in Employment (Thousand),183.1
+Border,1999Q3,Unemployed Persons aged 15 years and over (Thousand),13.8
+Border,1999Q3,Persons aged 15 years and over in Labour Force (Thousand),196.9
+Border,1999Q3,ILO Unemployment Rate (15 - 74 years) (%),7.0
+Border,1999Q3,ILO Participation Rate (15 years and over) (%),61.4
+Border,1999Q4,Persons aged 15 years and over in Employment (Thousand),180.5
+Border,1999Q4,Unemployed Persons aged 15 years and over (Thousand),12.7
+Border,1999Q4,Persons aged 15 years and over in Labour Force (Thousand),193.2
+Border,1999Q4,ILO Unemployment Rate (15 - 74 years) (%),6.6
+Border,1999Q4,ILO Participation Rate (15 years and over) (%),59.9
+Border,2000Q1,Persons aged 15 years and over in Employment (Thousand),181.1
+Border,2000Q1,Unemployed Persons aged 15 years and over (Thousand),11.4
+Border,2000Q1,Persons aged 15 years and over in Labour Force (Thousand),192.5
+Border,2000Q1,ILO Unemployment Rate (15 - 74 years) (%),5.9
+Border,2000Q1,ILO Participation Rate (15 years and over) (%),59.6
+Border,2000Q2,Persons aged 15 years and over in Employment (Thousand),186.5
+Border,2000Q2,Unemployed Persons aged 15 years and over (Thousand),11.4
+Border,2000Q2,Persons aged 15 years and over in Labour Force (Thousand),197.9
+Border,2000Q2,ILO Unemployment Rate (15 - 74 years) (%),5.8
+Border,2000Q2,ILO Participation Rate (15 years and over) (%),61.0
+Border,2000Q3,Persons aged 15 years and over in Employment (Thousand),191.9
+Border,2000Q3,Unemployed Persons aged 15 years and over (Thousand),9.6
+Border,2000Q3,Persons aged 15 years and over in Labour Force (Thousand),201.5
+Border,2000Q3,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Border,2000Q3,ILO Participation Rate (15 years and over) (%),61.9
+Border,2000Q4,Persons aged 15 years and over in Employment (Thousand),192.0
+Border,2000Q4,Unemployed Persons aged 15 years and over (Thousand),8.7
+Border,2000Q4,Persons aged 15 years and over in Labour Force (Thousand),200.7
+Border,2000Q4,ILO Unemployment Rate (15 - 74 years) (%),4.3
+Border,2000Q4,ILO Participation Rate (15 years and over) (%),61.3
+Border,2001Q1,Persons aged 15 years and over in Employment (Thousand),191.1
+Border,2001Q1,Unemployed Persons aged 15 years and over (Thousand),9.7
+Border,2001Q1,Persons aged 15 years and over in Labour Force (Thousand),200.8
+Border,2001Q1,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Border,2001Q1,ILO Participation Rate (15 years and over) (%),61.3
+Border,2001Q2,Persons aged 15 years and over in Employment (Thousand),195.4
+Border,2001Q2,Unemployed Persons aged 15 years and over (Thousand),10.2
+Border,2001Q2,Persons aged 15 years and over in Labour Force (Thousand),205.7
+Border,2001Q2,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Border,2001Q2,ILO Participation Rate (15 years and over) (%),62.5
+Border,2001Q3,Persons aged 15 years and over in Employment (Thousand),197.4
+Border,2001Q3,Unemployed Persons aged 15 years and over (Thousand),11.6
+Border,2001Q3,Persons aged 15 years and over in Labour Force (Thousand),209.0
+Border,2001Q3,ILO Unemployment Rate (15 - 74 years) (%),5.6
+Border,2001Q3,ILO Participation Rate (15 years and over) (%),63.2
+Border,2001Q4,Persons aged 15 years and over in Employment (Thousand),195.1
+Border,2001Q4,Unemployed Persons aged 15 years and over (Thousand),10.8
+Border,2001Q4,Persons aged 15 years and over in Labour Force (Thousand),205.9
+Border,2001Q4,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Border,2001Q4,ILO Participation Rate (15 years and over) (%),61.9
+Border,2002Q1,Persons aged 15 years and over in Employment (Thousand),193.1
+Border,2002Q1,Unemployed Persons aged 15 years and over (Thousand),11.3
+Border,2002Q1,Persons aged 15 years and over in Labour Force (Thousand),204.4
+Border,2002Q1,ILO Unemployment Rate (15 - 74 years) (%),5.5
+Border,2002Q1,ILO Participation Rate (15 years and over) (%),61.2
+Border,2002Q2,Persons aged 15 years and over in Employment (Thousand),194.9
+Border,2002Q2,Unemployed Persons aged 15 years and over (Thousand),12.5
+Border,2002Q2,Persons aged 15 years and over in Labour Force (Thousand),207.4
+Border,2002Q2,ILO Unemployment Rate (15 - 74 years) (%),6.0
+Border,2002Q2,ILO Participation Rate (15 years and over) (%),61.8
+Border,2002Q3,Persons aged 15 years and over in Employment (Thousand),199.1
+Border,2002Q3,Unemployed Persons aged 15 years and over (Thousand),11.1
+Border,2002Q3,Persons aged 15 years and over in Labour Force (Thousand),210.2
+Border,2002Q3,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Border,2002Q3,ILO Participation Rate (15 years and over) (%),62.3
+Border,2002Q4,Persons aged 15 years and over in Employment (Thousand),199.1
+Border,2002Q4,Unemployed Persons aged 15 years and over (Thousand),12.3
+Border,2002Q4,Persons aged 15 years and over in Labour Force (Thousand),211.5
+Border,2002Q4,ILO Unemployment Rate (15 - 74 years) (%),5.9
+Border,2002Q4,ILO Participation Rate (15 years and over) (%),62.3
+Border,2003Q1,Persons aged 15 years and over in Employment (Thousand),197.7
+Border,2003Q1,Unemployed Persons aged 15 years and over (Thousand),11.8
+Border,2003Q1,Persons aged 15 years and over in Labour Force (Thousand),209.4
+Border,2003Q1,ILO Unemployment Rate (15 - 74 years) (%),5.7
+Border,2003Q1,ILO Participation Rate (15 years and over) (%),61.4
+Border,2003Q2,Persons aged 15 years and over in Employment (Thousand),200.9
+Border,2003Q2,Unemployed Persons aged 15 years and over (Thousand),11.1
+Border,2003Q2,Persons aged 15 years and over in Labour Force (Thousand),212.0
+Border,2003Q2,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Border,2003Q2,ILO Participation Rate (15 years and over) (%),61.9
+Border,2003Q3,Persons aged 15 years and over in Employment (Thousand),207.1
+Border,2003Q3,Unemployed Persons aged 15 years and over (Thousand),11.2
+Border,2003Q3,Persons aged 15 years and over in Labour Force (Thousand),218.3
+Border,2003Q3,ILO Unemployment Rate (15 - 74 years) (%),5.2
+Border,2003Q3,ILO Participation Rate (15 years and over) (%),63.2
+Border,2003Q4,Persons aged 15 years and over in Employment (Thousand),210.1
+Border,2003Q4,Unemployed Persons aged 15 years and over (Thousand),10.3
+Border,2003Q4,Persons aged 15 years and over in Labour Force (Thousand),220.3
+Border,2003Q4,ILO Unemployment Rate (15 - 74 years) (%),4.7
+Border,2003Q4,ILO Participation Rate (15 years and over) (%),63.2
+Border,2004Q1,Persons aged 15 years and over in Employment (Thousand),212.3
+Border,2004Q1,Unemployed Persons aged 15 years and over (Thousand),10.6
+Border,2004Q1,Persons aged 15 years and over in Labour Force (Thousand),223.0
+Border,2004Q1,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Border,2004Q1,ILO Participation Rate (15 years and over) (%),63.7
+Border,2004Q2,Persons aged 15 years and over in Employment (Thousand),215.2
+Border,2004Q2,Unemployed Persons aged 15 years and over (Thousand),10.8
+Border,2004Q2,Persons aged 15 years and over in Labour Force (Thousand),225.9
+Border,2004Q2,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Border,2004Q2,ILO Participation Rate (15 years and over) (%),64.2
+Border,2004Q3,Persons aged 15 years and over in Employment (Thousand),221.8
+Border,2004Q3,Unemployed Persons aged 15 years and over (Thousand),10.5
+Border,2004Q3,Persons aged 15 years and over in Labour Force (Thousand),232.3
+Border,2004Q3,ILO Unemployment Rate (15 - 74 years) (%),4.6
+Border,2004Q3,ILO Participation Rate (15 years and over) (%),65.7
+Border,2004Q4,Persons aged 15 years and over in Employment (Thousand),220.5
+Border,2004Q4,Unemployed Persons aged 15 years and over (Thousand),9.9
+Border,2004Q4,Persons aged 15 years and over in Labour Force (Thousand),230.4
+Border,2004Q4,ILO Unemployment Rate (15 - 74 years) (%),4.3
+Border,2004Q4,ILO Participation Rate (15 years and over) (%),64.8
+Border,2005Q1,Persons aged 15 years and over in Employment (Thousand),221.4
+Border,2005Q1,Unemployed Persons aged 15 years and over (Thousand),9.1
+Border,2005Q1,Persons aged 15 years and over in Labour Force (Thousand),230.6
+Border,2005Q1,ILO Unemployment Rate (15 - 74 years) (%),4.0
+Border,2005Q1,ILO Participation Rate (15 years and over) (%),64.6
+Border,2005Q2,Persons aged 15 years and over in Employment (Thousand),221.6
+Border,2005Q2,Unemployed Persons aged 15 years and over (Thousand),11.1
+Border,2005Q2,Persons aged 15 years and over in Labour Force (Thousand),232.6
+Border,2005Q2,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Border,2005Q2,ILO Participation Rate (15 years and over) (%),64.9
+Border,2005Q3,Persons aged 15 years and over in Employment (Thousand),226.5
+Border,2005Q3,Unemployed Persons aged 15 years and over (Thousand),10.7
+Border,2005Q3,Persons aged 15 years and over in Labour Force (Thousand),237.2
+Border,2005Q3,ILO Unemployment Rate (15 - 74 years) (%),4.5
+Border,2005Q3,ILO Participation Rate (15 years and over) (%),65.7
+Border,2005Q4,Persons aged 15 years and over in Employment (Thousand),227.7
+Border,2005Q4,Unemployed Persons aged 15 years and over (Thousand),9.7
+Border,2005Q4,Persons aged 15 years and over in Labour Force (Thousand),237.4
+Border,2005Q4,ILO Unemployment Rate (15 - 74 years) (%),4.1
+Border,2005Q4,ILO Participation Rate (15 years and over) (%),65.3
+Border,2006Q1,Persons aged 15 years and over in Employment (Thousand),229.7
+Border,2006Q1,Unemployed Persons aged 15 years and over (Thousand),9.8
+Border,2006Q1,Persons aged 15 years and over in Labour Force (Thousand),239.5
+Border,2006Q1,ILO Unemployment Rate (15 - 74 years) (%),4.1
+Border,2006Q1,ILO Participation Rate (15 years and over) (%),65.6
+Border,2006Q2,Persons aged 15 years and over in Employment (Thousand),235.1
+Border,2006Q2,Unemployed Persons aged 15 years and over (Thousand),11.6
+Border,2006Q2,Persons aged 15 years and over in Labour Force (Thousand),246.7
+Border,2006Q2,ILO Unemployment Rate (15 - 74 years) (%),4.7
+Border,2006Q2,ILO Participation Rate (15 years and over) (%),66.9
+Border,2006Q3,Persons aged 15 years and over in Employment (Thousand),239.0
+Border,2006Q3,Unemployed Persons aged 15 years and over (Thousand),13.1
+Border,2006Q3,Persons aged 15 years and over in Labour Force (Thousand),252.0
+Border,2006Q3,ILO Unemployment Rate (15 - 74 years) (%),5.2
+Border,2006Q3,ILO Participation Rate (15 years and over) (%),67.7
+Border,2006Q4,Persons aged 15 years and over in Employment (Thousand),243.0
+Border,2006Q4,Unemployed Persons aged 15 years and over (Thousand),10.2
+Border,2006Q4,Persons aged 15 years and over in Labour Force (Thousand),253.2
+Border,2006Q4,ILO Unemployment Rate (15 - 74 years) (%),4.0
+Border,2006Q4,ILO Participation Rate (15 years and over) (%),67.4
+Border,2007Q1,Persons aged 15 years and over in Employment (Thousand),243.3
+Border,2007Q1,Unemployed Persons aged 15 years and over (Thousand),12.4
+Border,2007Q1,Persons aged 15 years and over in Labour Force (Thousand),255.7
+Border,2007Q1,ILO Unemployment Rate (15 - 74 years) (%),4.9
+Border,2007Q1,ILO Participation Rate (15 years and over) (%),67.7
+Border,2007Q2,Persons aged 15 years and over in Employment (Thousand),247.6
+Border,2007Q2,Unemployed Persons aged 15 years and over (Thousand),13.1
+Border,2007Q2,Persons aged 15 years and over in Labour Force (Thousand),260.7
+Border,2007Q2,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Border,2007Q2,ILO Participation Rate (15 years and over) (%),68.5
+Border,2007Q3,Persons aged 15 years and over in Employment (Thousand),248.2
+Border,2007Q3,Unemployed Persons aged 15 years and over (Thousand),13.3
+Border,2007Q3,Persons aged 15 years and over in Labour Force (Thousand),261.4
+Border,2007Q3,ILO Unemployment Rate (15 - 74 years) (%),5.1
+Border,2007Q3,ILO Participation Rate (15 years and over) (%),68.3
+Border,2007Q4,Persons aged 15 years and over in Employment (Thousand),246.8
+Border,2007Q4,Unemployed Persons aged 15 years and over (Thousand),13.0
+Border,2007Q4,Persons aged 15 years and over in Labour Force (Thousand),259.8
+Border,2007Q4,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Border,2007Q4,ILO Participation Rate (15 years and over) (%),67.4
+Border,2008Q1,Persons aged 15 years and over in Employment (Thousand),243.7
+Border,2008Q1,Unemployed Persons aged 15 years and over (Thousand),12.6
+Border,2008Q1,Persons aged 15 years and over in Labour Force (Thousand),256.3
+Border,2008Q1,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Border,2008Q1,ILO Participation Rate (15 years and over) (%),66.2
+Border,2008Q2,Persons aged 15 years and over in Employment (Thousand),242.6
+Border,2008Q2,Unemployed Persons aged 15 years and over (Thousand),14.9
+Border,2008Q2,Persons aged 15 years and over in Labour Force (Thousand),257.5
+Border,2008Q2,ILO Unemployment Rate (15 - 74 years) (%),5.8
+Border,2008Q2,ILO Participation Rate (15 years and over) (%),66.1
+Border,2008Q3,Persons aged 15 years and over in Employment (Thousand),240.9
+Border,2008Q3,Unemployed Persons aged 15 years and over (Thousand),17.7
+Border,2008Q3,Persons aged 15 years and over in Labour Force (Thousand),258.6
+Border,2008Q3,ILO Unemployment Rate (15 - 74 years) (%),6.9
+Border,2008Q3,ILO Participation Rate (15 years and over) (%),66.0
+Border,2008Q4,Persons aged 15 years and over in Employment (Thousand),240.0
+Border,2008Q4,Unemployed Persons aged 15 years and over (Thousand),18.3
+Border,2008Q4,Persons aged 15 years and over in Labour Force (Thousand),258.3
+Border,2008Q4,ILO Unemployment Rate (15 - 74 years) (%),7.1
+Border,2008Q4,ILO Participation Rate (15 years and over) (%),65.5
+Border,2009Q1,Persons aged 15 years and over in Employment (Thousand),220.1
+Border,2009Q1,Unemployed Persons aged 15 years and over (Thousand),24.3
+Border,2009Q1,Persons aged 15 years and over in Labour Force (Thousand),244.4
+Border,2009Q1,ILO Unemployment Rate (15 - 74 years) (%),10.0
+Border,2009Q1,ILO Participation Rate (15 years and over) (%),61.7
+Border,2009Q2,Persons aged 15 years and over in Employment (Thousand),218.1
+Border,2009Q2,Unemployed Persons aged 15 years and over (Thousand),28.9
+Border,2009Q2,Persons aged 15 years and over in Labour Force (Thousand),246.9
+Border,2009Q2,ILO Unemployment Rate (15 - 74 years) (%),11.8
+Border,2009Q2,ILO Participation Rate (15 years and over) (%),62.1
+Border,2009Q3,Persons aged 15 years and over in Employment (Thousand),219.7
+Border,2009Q3,Unemployed Persons aged 15 years and over (Thousand),29.7
+Border,2009Q3,Persons aged 15 years and over in Labour Force (Thousand),249.5
+Border,2009Q3,ILO Unemployment Rate (15 - 74 years) (%),12.0
+Border,2009Q3,ILO Participation Rate (15 years and over) (%),62.7
+Border,2009Q4,Persons aged 15 years and over in Employment (Thousand),210.4
+Border,2009Q4,Unemployed Persons aged 15 years and over (Thousand),26.9
+Border,2009Q4,Persons aged 15 years and over in Labour Force (Thousand),237.3
+Border,2009Q4,ILO Unemployment Rate (15 - 74 years) (%),11.4
+Border,2009Q4,ILO Participation Rate (15 years and over) (%),59.6
+Border,2010Q1,Persons aged 15 years and over in Employment (Thousand),209.9
+Border,2010Q1,Unemployed Persons aged 15 years and over (Thousand),21.6
+Border,2010Q1,Persons aged 15 years and over in Labour Force (Thousand),231.5
+Border,2010Q1,ILO Unemployment Rate (15 - 74 years) (%),9.4
+Border,2010Q1,ILO Participation Rate (15 years and over) (%),58.1
+Border,2010Q2,Persons aged 15 years and over in Employment (Thousand),209.7
+Border,2010Q2,Unemployed Persons aged 15 years and over (Thousand),26.9
+Border,2010Q2,Persons aged 15 years and over in Labour Force (Thousand),236.5
+Border,2010Q2,ILO Unemployment Rate (15 - 74 years) (%),11.4
+Border,2010Q2,ILO Participation Rate (15 years and over) (%),59.4
+Border,2010Q3,Persons aged 15 years and over in Employment (Thousand),210.1
+Border,2010Q3,Unemployed Persons aged 15 years and over (Thousand),27.2
+Border,2010Q3,Persons aged 15 years and over in Labour Force (Thousand),237.3
+Border,2010Q3,ILO Unemployment Rate (15 - 74 years) (%),11.5
+Border,2010Q3,ILO Participation Rate (15 years and over) (%),59.5
+Border,2010Q4,Persons aged 15 years and over in Employment (Thousand),206.4
+Border,2010Q4,Unemployed Persons aged 15 years and over (Thousand),26.2
+Border,2010Q4,Persons aged 15 years and over in Labour Force (Thousand),232.6
+Border,2010Q4,ILO Unemployment Rate (15 - 74 years) (%),11.3
+Border,2010Q4,ILO Participation Rate (15 years and over) (%),58.2
+Border,2011Q1,Persons aged 15 years and over in Employment (Thousand),205.9
+Border,2011Q1,Unemployed Persons aged 15 years and over (Thousand),25.1
+Border,2011Q1,Persons aged 15 years and over in Labour Force (Thousand),231.0
+Border,2011Q1,ILO Unemployment Rate (15 - 74 years) (%),10.9
+Border,2011Q1,ILO Participation Rate (15 years and over) (%),57.8
+Border,2011Q2,Persons aged 15 years and over in Employment (Thousand),205.8
+Border,2011Q2,Unemployed Persons aged 15 years and over (Thousand),30.1
+Border,2011Q2,Persons aged 15 years and over in Labour Force (Thousand),236.0
+Border,2011Q2,ILO Unemployment Rate (15 - 74 years) (%),12.8
+Border,2011Q2,ILO Participation Rate (15 years and over) (%),59.0
+Border,2011Q3,Persons aged 15 years and over in Employment (Thousand),204.2
+Border,2011Q3,Unemployed Persons aged 15 years and over (Thousand),28.7
+Border,2011Q3,Persons aged 15 years and over in Labour Force (Thousand),232.9
+Border,2011Q3,ILO Unemployment Rate (15 - 74 years) (%),12.4
+Border,2011Q3,ILO Participation Rate (15 years and over) (%),58.3
+Border,2011Q4,Persons aged 15 years and over in Employment (Thousand),200.2
+Border,2011Q4,Unemployed Persons aged 15 years and over (Thousand),26.5
+Border,2011Q4,Persons aged 15 years and over in Labour Force (Thousand),226.7
+Border,2011Q4,ILO Unemployment Rate (15 - 74 years) (%),11.7
+Border,2011Q4,ILO Participation Rate (15 years and over) (%),56.7
+Midland,1998Q1,Persons aged 15 years and over in Employment (Thousand),73.9
+Midland,1998Q1,Unemployed Persons aged 15 years and over (Thousand),9.2
+Midland,1998Q1,Persons aged 15 years and over in Labour Force (Thousand),83.0
+Midland,1998Q1,ILO Unemployment Rate (15 - 74 years) (%),11.1
+Midland,1998Q1,ILO Participation Rate (15 years and over) (%),52.2
+Midland,1998Q2,Persons aged 15 years and over in Employment (Thousand),77.1
+Midland,1998Q2,Unemployed Persons aged 15 years and over (Thousand),8.8
+Midland,1998Q2,Persons aged 15 years and over in Labour Force (Thousand),85.9
+Midland,1998Q2,ILO Unemployment Rate (15 - 74 years) (%),10.3
+Midland,1998Q2,ILO Participation Rate (15 years and over) (%),53.6
+Midland,1998Q3,Persons aged 15 years and over in Employment (Thousand),78.0
+Midland,1998Q3,Unemployed Persons aged 15 years and over (Thousand),8.0
+Midland,1998Q3,Persons aged 15 years and over in Labour Force (Thousand),86.0
+Midland,1998Q3,ILO Unemployment Rate (15 - 74 years) (%),9.4
+Midland,1998Q3,ILO Participation Rate (15 years and over) (%),53.3
+Midland,1998Q4,Persons aged 15 years and over in Employment (Thousand),77.1
+Midland,1998Q4,Unemployed Persons aged 15 years and over (Thousand),6.9
+Midland,1998Q4,Persons aged 15 years and over in Labour Force (Thousand),84.0
+Midland,1998Q4,ILO Unemployment Rate (15 - 74 years) (%),8.3
+Midland,1998Q4,ILO Participation Rate (15 years and over) (%),51.7
+Midland,1999Q1,Persons aged 15 years and over in Employment (Thousand),78.7
+Midland,1999Q1,Unemployed Persons aged 15 years and over (Thousand),7.5
+Midland,1999Q1,Persons aged 15 years and over in Labour Force (Thousand),86.2
+Midland,1999Q1,ILO Unemployment Rate (15 - 74 years) (%),8.8
+Midland,1999Q1,ILO Participation Rate (15 years and over) (%),53.0
+Midland,1999Q2,Persons aged 15 years and over in Employment (Thousand),81.3
+Midland,1999Q2,Unemployed Persons aged 15 years and over (Thousand),7.5
+Midland,1999Q2,Persons aged 15 years and over in Labour Force (Thousand),88.9
+Midland,1999Q2,ILO Unemployment Rate (15 - 74 years) (%),8.5
+Midland,1999Q2,ILO Participation Rate (15 years and over) (%),54.4
+Midland,1999Q3,Persons aged 15 years and over in Employment (Thousand),83.8
+Midland,1999Q3,Unemployed Persons aged 15 years and over (Thousand),7.1
+Midland,1999Q3,Persons aged 15 years and over in Labour Force (Thousand),90.9
+Midland,1999Q3,ILO Unemployment Rate (15 - 74 years) (%),7.8
+Midland,1999Q3,ILO Participation Rate (15 years and over) (%),55.4
+Midland,1999Q4,Persons aged 15 years and over in Employment (Thousand),83.4
+Midland,1999Q4,Unemployed Persons aged 15 years and over (Thousand),6.8
+Midland,1999Q4,Persons aged 15 years and over in Labour Force (Thousand),90.2
+Midland,1999Q4,ILO Unemployment Rate (15 - 74 years) (%),7.6
+Midland,1999Q4,ILO Participation Rate (15 years and over) (%),54.7
+Midland,2000Q1,Persons aged 15 years and over in Employment (Thousand),84.5
+Midland,2000Q1,Unemployed Persons aged 15 years and over (Thousand),6.4
+Midland,2000Q1,Persons aged 15 years and over in Labour Force (Thousand),90.9
+Midland,2000Q1,ILO Unemployment Rate (15 - 74 years) (%),7.1
+Midland,2000Q1,ILO Participation Rate (15 years and over) (%),55.0
+Midland,2000Q2,Persons aged 15 years and over in Employment (Thousand),85.7
+Midland,2000Q2,Unemployed Persons aged 15 years and over (Thousand),6.9
+Midland,2000Q2,Persons aged 15 years and over in Labour Force (Thousand),92.5
+Midland,2000Q2,ILO Unemployment Rate (15 - 74 years) (%),7.5
+Midland,2000Q2,ILO Participation Rate (15 years and over) (%),55.8
+Midland,2000Q3,Persons aged 15 years and over in Employment (Thousand),87.6
+Midland,2000Q3,Unemployed Persons aged 15 years and over (Thousand),6.1
+Midland,2000Q3,Persons aged 15 years and over in Labour Force (Thousand),93.6
+Midland,2000Q3,ILO Unemployment Rate (15 - 74 years) (%),6.5
+Midland,2000Q3,ILO Participation Rate (15 years and over) (%),56.1
+Midland,2000Q4,Persons aged 15 years and over in Employment (Thousand),86.8
+Midland,2000Q4,Unemployed Persons aged 15 years and over (Thousand),4.5
+Midland,2000Q4,Persons aged 15 years and over in Labour Force (Thousand),91.4
+Midland,2000Q4,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Midland,2000Q4,ILO Participation Rate (15 years and over) (%),54.3
+Midland,2001Q1,Persons aged 15 years and over in Employment (Thousand),86.8
+Midland,2001Q1,Unemployed Persons aged 15 years and over (Thousand),4.7
+Midland,2001Q1,Persons aged 15 years and over in Labour Force (Thousand),91.5
+Midland,2001Q1,ILO Unemployment Rate (15 - 74 years) (%),5.1
+Midland,2001Q1,ILO Participation Rate (15 years and over) (%),54.2
+Midland,2001Q2,Persons aged 15 years and over in Employment (Thousand),89.3
+Midland,2001Q2,Unemployed Persons aged 15 years and over (Thousand),4.9
+Midland,2001Q2,Persons aged 15 years and over in Labour Force (Thousand),94.3
+Midland,2001Q2,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Midland,2001Q2,ILO Participation Rate (15 years and over) (%),55.6
+Midland,2001Q3,Persons aged 15 years and over in Employment (Thousand),90.9
+Midland,2001Q3,Unemployed Persons aged 15 years and over (Thousand),5.0
+Midland,2001Q3,Persons aged 15 years and over in Labour Force (Thousand),95.9
+Midland,2001Q3,ILO Unemployment Rate (15 - 74 years) (%),5.2
+Midland,2001Q3,ILO Participation Rate (15 years and over) (%),56.2
+Midland,2001Q4,Persons aged 15 years and over in Employment (Thousand),89.8
+Midland,2001Q4,Unemployed Persons aged 15 years and over (Thousand),4.6
+Midland,2001Q4,Persons aged 15 years and over in Labour Force (Thousand),94.4
+Midland,2001Q4,ILO Unemployment Rate (15 - 74 years) (%),4.9
+Midland,2001Q4,ILO Participation Rate (15 years and over) (%),54.9
+Midland,2002Q1,Persons aged 15 years and over in Employment (Thousand),90.9
+Midland,2002Q1,Unemployed Persons aged 15 years and over (Thousand),4.9
+Midland,2002Q1,Persons aged 15 years and over in Labour Force (Thousand),95.8
+Midland,2002Q1,ILO Unemployment Rate (15 - 74 years) (%),5.1
+Midland,2002Q1,ILO Participation Rate (15 years and over) (%),55.4
+Midland,2002Q2,Persons aged 15 years and over in Employment (Thousand),95.4
+Midland,2002Q2,Unemployed Persons aged 15 years and over (Thousand),5.1
+Midland,2002Q2,Persons aged 15 years and over in Labour Force (Thousand),100.5
+Midland,2002Q2,ILO Unemployment Rate (15 - 74 years) (%),5.1
+Midland,2002Q2,ILO Participation Rate (15 years and over) (%),57.8
+Midland,2002Q3,Persons aged 15 years and over in Employment (Thousand),94.1
+Midland,2002Q3,Unemployed Persons aged 15 years and over (Thousand),4.9
+Midland,2002Q3,Persons aged 15 years and over in Labour Force (Thousand),98.9
+Midland,2002Q3,ILO Unemployment Rate (15 - 74 years) (%),4.9
+Midland,2002Q3,ILO Participation Rate (15 years and over) (%),56.5
+Midland,2002Q4,Persons aged 15 years and over in Employment (Thousand),94.7
+Midland,2002Q4,Unemployed Persons aged 15 years and over (Thousand),5.1
+Midland,2002Q4,Persons aged 15 years and over in Labour Force (Thousand),99.9
+Midland,2002Q4,ILO Unemployment Rate (15 - 74 years) (%),5.2
+Midland,2002Q4,ILO Participation Rate (15 years and over) (%),56.6
+Midland,2003Q1,Persons aged 15 years and over in Employment (Thousand),96.2
+Midland,2003Q1,Unemployed Persons aged 15 years and over (Thousand),5.8
+Midland,2003Q1,Persons aged 15 years and over in Labour Force (Thousand),102.0
+Midland,2003Q1,ILO Unemployment Rate (15 - 74 years) (%),5.7
+Midland,2003Q1,ILO Participation Rate (15 years and over) (%),57.5
+Midland,2003Q2,Persons aged 15 years and over in Employment (Thousand),96.7
+Midland,2003Q2,Unemployed Persons aged 15 years and over (Thousand),6.8
+Midland,2003Q2,Persons aged 15 years and over in Labour Force (Thousand),103.4
+Midland,2003Q2,ILO Unemployment Rate (15 - 74 years) (%),6.6
+Midland,2003Q2,ILO Participation Rate (15 years and over) (%),58.1
+Midland,2003Q3,Persons aged 15 years and over in Employment (Thousand),98.6
+Midland,2003Q3,Unemployed Persons aged 15 years and over (Thousand),5.6
+Midland,2003Q3,Persons aged 15 years and over in Labour Force (Thousand),104.1
+Midland,2003Q3,ILO Unemployment Rate (15 - 74 years) (%),5.4
+Midland,2003Q3,ILO Participation Rate (15 years and over) (%),58.1
+Midland,2003Q4,Persons aged 15 years and over in Employment (Thousand),98.0
+Midland,2003Q4,Unemployed Persons aged 15 years and over (Thousand),4.9
+Midland,2003Q4,Persons aged 15 years and over in Labour Force (Thousand),102.9
+Midland,2003Q4,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Midland,2003Q4,ILO Participation Rate (15 years and over) (%),56.9
+Midland,2004Q1,Persons aged 15 years and over in Employment (Thousand),98.7
+Midland,2004Q1,Unemployed Persons aged 15 years and over (Thousand),6.0
+Midland,2004Q1,Persons aged 15 years and over in Labour Force (Thousand),104.7
+Midland,2004Q1,ILO Unemployment Rate (15 - 74 years) (%),5.7
+Midland,2004Q1,ILO Participation Rate (15 years and over) (%),57.6
+Midland,2004Q2,Persons aged 15 years and over in Employment (Thousand),99.9
+Midland,2004Q2,Unemployed Persons aged 15 years and over (Thousand),6.8
+Midland,2004Q2,Persons aged 15 years and over in Labour Force (Thousand),106.8
+Midland,2004Q2,ILO Unemployment Rate (15 - 74 years) (%),6.4
+Midland,2004Q2,ILO Participation Rate (15 years and over) (%),58.4
+Midland,2004Q3,Persons aged 15 years and over in Employment (Thousand),104.3
+Midland,2004Q3,Unemployed Persons aged 15 years and over (Thousand),5.9
+Midland,2004Q3,Persons aged 15 years and over in Labour Force (Thousand),110.2
+Midland,2004Q3,ILO Unemployment Rate (15 - 74 years) (%),5.4
+Midland,2004Q3,ILO Participation Rate (15 years and over) (%),59.9
+Midland,2004Q4,Persons aged 15 years and over in Employment (Thousand),101.6
+Midland,2004Q4,Unemployed Persons aged 15 years and over (Thousand),5.6
+Midland,2004Q4,Persons aged 15 years and over in Labour Force (Thousand),107.2
+Midland,2004Q4,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Midland,2004Q4,ILO Participation Rate (15 years and over) (%),57.8
+Midland,2005Q1,Persons aged 15 years and over in Employment (Thousand),104.3
+Midland,2005Q1,Unemployed Persons aged 15 years and over (Thousand),4.7
+Midland,2005Q1,Persons aged 15 years and over in Labour Force (Thousand),109.0
+Midland,2005Q1,ILO Unemployment Rate (15 - 74 years) (%),4.3
+Midland,2005Q1,ILO Participation Rate (15 years and over) (%),58.4
+Midland,2005Q2,Persons aged 15 years and over in Employment (Thousand),105.4
+Midland,2005Q2,Unemployed Persons aged 15 years and over (Thousand),6.4
+Midland,2005Q2,Persons aged 15 years and over in Labour Force (Thousand),111.9
+Midland,2005Q2,ILO Unemployment Rate (15 - 74 years) (%),5.8
+Midland,2005Q2,ILO Participation Rate (15 years and over) (%),59.5
+Midland,2005Q3,Persons aged 15 years and over in Employment (Thousand),108.9
+Midland,2005Q3,Unemployed Persons aged 15 years and over (Thousand),5.3
+Midland,2005Q3,Persons aged 15 years and over in Labour Force (Thousand),114.2
+Midland,2005Q3,ILO Unemployment Rate (15 - 74 years) (%),4.7
+Midland,2005Q3,ILO Participation Rate (15 years and over) (%),60.1
+Midland,2005Q4,Persons aged 15 years and over in Employment (Thousand),108.3
+Midland,2005Q4,Unemployed Persons aged 15 years and over (Thousand),4.8
+Midland,2005Q4,Persons aged 15 years and over in Labour Force (Thousand),113.1
+Midland,2005Q4,ILO Unemployment Rate (15 - 74 years) (%),4.3
+Midland,2005Q4,ILO Participation Rate (15 years and over) (%),58.7
+Midland,2006Q1,Persons aged 15 years and over in Employment (Thousand),109.4
+Midland,2006Q1,Unemployed Persons aged 15 years and over (Thousand),4.9
+Midland,2006Q1,Persons aged 15 years and over in Labour Force (Thousand),114.3
+Midland,2006Q1,ILO Unemployment Rate (15 - 74 years) (%),4.3
+Midland,2006Q1,ILO Participation Rate (15 years and over) (%),58.8
+Midland,2006Q2,Persons aged 15 years and over in Employment (Thousand),111.0
+Midland,2006Q2,Unemployed Persons aged 15 years and over (Thousand),5.8
+Midland,2006Q2,Persons aged 15 years and over in Labour Force (Thousand),116.8
+Midland,2006Q2,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Midland,2006Q2,ILO Participation Rate (15 years and over) (%),59.5
+Midland,2006Q3,Persons aged 15 years and over in Employment (Thousand),115.1
+Midland,2006Q3,Unemployed Persons aged 15 years and over (Thousand),6.9
+Midland,2006Q3,Persons aged 15 years and over in Labour Force (Thousand),122.0
+Midland,2006Q3,ILO Unemployment Rate (15 - 74 years) (%),5.7
+Midland,2006Q3,ILO Participation Rate (15 years and over) (%),61.4
+Midland,2006Q4,Persons aged 15 years and over in Employment (Thousand),114.5
+Midland,2006Q4,Unemployed Persons aged 15 years and over (Thousand),4.4
+Midland,2006Q4,Persons aged 15 years and over in Labour Force (Thousand),118.9
+Midland,2006Q4,ILO Unemployment Rate (15 - 74 years) (%),3.7
+Midland,2006Q4,ILO Participation Rate (15 years and over) (%),59.2
+Midland,2007Q1,Persons aged 15 years and over in Employment (Thousand),115.8
+Midland,2007Q1,Unemployed Persons aged 15 years and over (Thousand),6.4
+Midland,2007Q1,Persons aged 15 years and over in Labour Force (Thousand),122.2
+Midland,2007Q1,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Midland,2007Q1,ILO Participation Rate (15 years and over) (%),60.3
+Midland,2007Q2,Persons aged 15 years and over in Employment (Thousand),118.2
+Midland,2007Q2,Unemployed Persons aged 15 years and over (Thousand),6.8
+Midland,2007Q2,Persons aged 15 years and over in Labour Force (Thousand),125.0
+Midland,2007Q2,ILO Unemployment Rate (15 - 74 years) (%),5.4
+Midland,2007Q2,ILO Participation Rate (15 years and over) (%),61.1
+Midland,2007Q3,Persons aged 15 years and over in Employment (Thousand),122.0
+Midland,2007Q3,Unemployed Persons aged 15 years and over (Thousand),6.0
+Midland,2007Q3,Persons aged 15 years and over in Labour Force (Thousand),128.0
+Midland,2007Q3,ILO Unemployment Rate (15 - 74 years) (%),4.7
+Midland,2007Q3,ILO Participation Rate (15 years and over) (%),62.1
+Midland,2007Q4,Persons aged 15 years and over in Employment (Thousand),120.2
+Midland,2007Q4,Unemployed Persons aged 15 years and over (Thousand),7.7
+Midland,2007Q4,Persons aged 15 years and over in Labour Force (Thousand),127.9
+Midland,2007Q4,ILO Unemployment Rate (15 - 74 years) (%),6.1
+Midland,2007Q4,ILO Participation Rate (15 years and over) (%),61.5
+Midland,2008Q1,Persons aged 15 years and over in Employment (Thousand),119.2
+Midland,2008Q1,Unemployed Persons aged 15 years and over (Thousand),7.8
+Midland,2008Q1,Persons aged 15 years and over in Labour Force (Thousand),127.0
+Midland,2008Q1,ILO Unemployment Rate (15 - 74 years) (%),6.1
+Midland,2008Q1,ILO Participation Rate (15 years and over) (%),60.6
+Midland,2008Q2,Persons aged 15 years and over in Employment (Thousand),115.5
+Midland,2008Q2,Unemployed Persons aged 15 years and over (Thousand),11.1
+Midland,2008Q2,Persons aged 15 years and over in Labour Force (Thousand),126.6
+Midland,2008Q2,ILO Unemployment Rate (15 - 74 years) (%),8.8
+Midland,2008Q2,ILO Participation Rate (15 years and over) (%),60.1
+Midland,2008Q3,Persons aged 15 years and over in Employment (Thousand),115.8
+Midland,2008Q3,Unemployed Persons aged 15 years and over (Thousand),14.0
+Midland,2008Q3,Persons aged 15 years and over in Labour Force (Thousand),129.8
+Midland,2008Q3,ILO Unemployment Rate (15 - 74 years) (%),10.9
+Midland,2008Q3,ILO Participation Rate (15 years and over) (%),61.5
+Midland,2008Q4,Persons aged 15 years and over in Employment (Thousand),112.0
+Midland,2008Q4,Unemployed Persons aged 15 years and over (Thousand),14.8
+Midland,2008Q4,Persons aged 15 years and over in Labour Force (Thousand),126.9
+Midland,2008Q4,ILO Unemployment Rate (15 - 74 years) (%),11.7
+Midland,2008Q4,ILO Participation Rate (15 years and over) (%),59.9
+Midland,2009Q1,Persons aged 15 years and over in Employment (Thousand),105.3
+Midland,2009Q1,Unemployed Persons aged 15 years and over (Thousand),17.8
+Midland,2009Q1,Persons aged 15 years and over in Labour Force (Thousand),123.1
+Midland,2009Q1,ILO Unemployment Rate (15 - 74 years) (%),14.5
+Midland,2009Q1,ILO Participation Rate (15 years and over) (%),57.9
+Midland,2009Q2,Persons aged 15 years and over in Employment (Thousand),104.8
+Midland,2009Q2,Unemployed Persons aged 15 years and over (Thousand),22.9
+Midland,2009Q2,Persons aged 15 years and over in Labour Force (Thousand),127.7
+Midland,2009Q2,ILO Unemployment Rate (15 - 74 years) (%),18.0
+Midland,2009Q2,ILO Participation Rate (15 years and over) (%),60.0
+Midland,2009Q3,Persons aged 15 years and over in Employment (Thousand),105.4
+Midland,2009Q3,Unemployed Persons aged 15 years and over (Thousand),23.3
+Midland,2009Q3,Persons aged 15 years and over in Labour Force (Thousand),128.7
+Midland,2009Q3,ILO Unemployment Rate (15 - 74 years) (%),18.2
+Midland,2009Q3,ILO Participation Rate (15 years and over) (%),60.3
+Midland,2009Q4,Persons aged 15 years and over in Employment (Thousand),103.7
+Midland,2009Q4,Unemployed Persons aged 15 years and over (Thousand),22.4
+Midland,2009Q4,Persons aged 15 years and over in Labour Force (Thousand),126.1
+Midland,2009Q4,ILO Unemployment Rate (15 - 74 years) (%),17.9
+Midland,2009Q4,ILO Participation Rate (15 years and over) (%),58.9
+Midland,2010Q1,Persons aged 15 years and over in Employment (Thousand),103.2
+Midland,2010Q1,Unemployed Persons aged 15 years and over (Thousand),22.7
+Midland,2010Q1,Persons aged 15 years and over in Labour Force (Thousand),125.9
+Midland,2010Q1,ILO Unemployment Rate (15 - 74 years) (%),18.2
+Midland,2010Q1,ILO Participation Rate (15 years and over) (%),58.7
+Midland,2010Q2,Persons aged 15 years and over in Employment (Thousand),99.1
+Midland,2010Q2,Unemployed Persons aged 15 years and over (Thousand),22.0
+Midland,2010Q2,Persons aged 15 years and over in Labour Force (Thousand),121.1
+Midland,2010Q2,ILO Unemployment Rate (15 - 74 years) (%),18.2
+Midland,2010Q2,ILO Participation Rate (15 years and over) (%),56.4
+Midland,2010Q3,Persons aged 15 years and over in Employment (Thousand),98.2
+Midland,2010Q3,Unemployed Persons aged 15 years and over (Thousand),26.6
+Midland,2010Q3,Persons aged 15 years and over in Labour Force (Thousand),124.8
+Midland,2010Q3,ILO Unemployment Rate (15 - 74 years) (%),21.4
+Midland,2010Q3,ILO Participation Rate (15 years and over) (%),58.0
+Midland,2010Q4,Persons aged 15 years and over in Employment (Thousand),97.3
+Midland,2010Q4,Unemployed Persons aged 15 years and over (Thousand),23.5
+Midland,2010Q4,Persons aged 15 years and over in Labour Force (Thousand),120.8
+Midland,2010Q4,ILO Unemployment Rate (15 - 74 years) (%),19.6
+Midland,2010Q4,ILO Participation Rate (15 years and over) (%),55.8
+Midland,2011Q1,Persons aged 15 years and over in Employment (Thousand),98.1
+Midland,2011Q1,Unemployed Persons aged 15 years and over (Thousand),24.9
+Midland,2011Q1,Persons aged 15 years and over in Labour Force (Thousand),123.1
+Midland,2011Q1,ILO Unemployment Rate (15 - 74 years) (%),20.3
+Midland,2011Q1,ILO Participation Rate (15 years and over) (%),56.8
+Midland,2011Q2,Persons aged 15 years and over in Employment (Thousand),101.9
+Midland,2011Q2,Unemployed Persons aged 15 years and over (Thousand),26.8
+Midland,2011Q2,Persons aged 15 years and over in Labour Force (Thousand),128.7
+Midland,2011Q2,ILO Unemployment Rate (15 - 74 years) (%),20.9
+Midland,2011Q2,ILO Participation Rate (15 years and over) (%),59.1
+Midland,2011Q3,Persons aged 15 years and over in Employment (Thousand),95.7
+Midland,2011Q3,Unemployed Persons aged 15 years and over (Thousand),28.9
+Midland,2011Q3,Persons aged 15 years and over in Labour Force (Thousand),124.6
+Midland,2011Q3,ILO Unemployment Rate (15 - 74 years) (%),23.2
+Midland,2011Q3,ILO Participation Rate (15 years and over) (%),57.1
+Midland,2011Q4,Persons aged 15 years and over in Employment (Thousand),96.8
+Midland,2011Q4,Unemployed Persons aged 15 years and over (Thousand),27.8
+Midland,2011Q4,Persons aged 15 years and over in Labour Force (Thousand),124.6
+Midland,2011Q4,ILO Unemployment Rate (15 - 74 years) (%),22.4
+Midland,2011Q4,ILO Participation Rate (15 years and over) (%),57.0
+West,1998Q1,Persons aged 15 years and over in Employment (Thousand),137.1
+West,1998Q1,Unemployed Persons aged 15 years and over (Thousand),11.7
+West,1998Q1,Persons aged 15 years and over in Labour Force (Thousand),148.8
+West,1998Q1,ILO Unemployment Rate (15 - 74 years) (%),7.9
+West,1998Q1,ILO Participation Rate (15 years and over) (%),54.3
+West,1998Q2,Persons aged 15 years and over in Employment (Thousand),138.8
+West,1998Q2,Unemployed Persons aged 15 years and over (Thousand),10.8
+West,1998Q2,Persons aged 15 years and over in Labour Force (Thousand),149.6
+West,1998Q2,ILO Unemployment Rate (15 - 74 years) (%),7.3
+West,1998Q2,ILO Participation Rate (15 years and over) (%),54.5
+West,1998Q3,Persons aged 15 years and over in Employment (Thousand),146.2
+West,1998Q3,Unemployed Persons aged 15 years and over (Thousand),10.2
+West,1998Q3,Persons aged 15 years and over in Labour Force (Thousand),156.5
+West,1998Q3,ILO Unemployment Rate (15 - 74 years) (%),6.6
+West,1998Q3,ILO Participation Rate (15 years and over) (%),56.8
+West,1998Q4,Persons aged 15 years and over in Employment (Thousand),144.1
+West,1998Q4,Unemployed Persons aged 15 years and over (Thousand),8.9
+West,1998Q4,Persons aged 15 years and over in Labour Force (Thousand),153.1
+West,1998Q4,ILO Unemployment Rate (15 - 74 years) (%),5.9
+West,1998Q4,ILO Participation Rate (15 years and over) (%),55.5
+West,1999Q1,Persons aged 15 years and over in Employment (Thousand),146.3
+West,1999Q1,Unemployed Persons aged 15 years and over (Thousand),8.8
+West,1999Q1,Persons aged 15 years and over in Labour Force (Thousand),155.1
+West,1999Q1,ILO Unemployment Rate (15 - 74 years) (%),5.7
+West,1999Q1,ILO Participation Rate (15 years and over) (%),56.2
+West,1999Q2,Persons aged 15 years and over in Employment (Thousand),150.3
+West,1999Q2,Unemployed Persons aged 15 years and over (Thousand),8.9
+West,1999Q2,Persons aged 15 years and over in Labour Force (Thousand),159.1
+West,1999Q2,ILO Unemployment Rate (15 - 74 years) (%),5.6
+West,1999Q2,ILO Participation Rate (15 years and over) (%),57.5
+West,1999Q3,Persons aged 15 years and over in Employment (Thousand),157.7
+West,1999Q3,Unemployed Persons aged 15 years and over (Thousand),7.4
+West,1999Q3,Persons aged 15 years and over in Labour Force (Thousand),165.1
+West,1999Q3,ILO Unemployment Rate (15 - 74 years) (%),4.5
+West,1999Q3,ILO Participation Rate (15 years and over) (%),59.3
+West,1999Q4,Persons aged 15 years and over in Employment (Thousand),155.7
+West,1999Q4,Unemployed Persons aged 15 years and over (Thousand),7.6
+West,1999Q4,Persons aged 15 years and over in Labour Force (Thousand),163.3
+West,1999Q4,ILO Unemployment Rate (15 - 74 years) (%),4.7
+West,1999Q4,ILO Participation Rate (15 years and over) (%),58.2
+West,2000Q1,Persons aged 15 years and over in Employment (Thousand),156.8
+West,2000Q1,Unemployed Persons aged 15 years and over (Thousand),7.6
+West,2000Q1,Persons aged 15 years and over in Labour Force (Thousand),164.4
+West,2000Q1,ILO Unemployment Rate (15 - 74 years) (%),4.6
+West,2000Q1,ILO Participation Rate (15 years and over) (%),58.4
+West,2000Q2,Persons aged 15 years and over in Employment (Thousand),157.1
+West,2000Q2,Unemployed Persons aged 15 years and over (Thousand),9.6
+West,2000Q2,Persons aged 15 years and over in Labour Force (Thousand),166.7
+West,2000Q2,ILO Unemployment Rate (15 - 74 years) (%),5.8
+West,2000Q2,ILO Participation Rate (15 years and over) (%),59.0
+West,2000Q3,Persons aged 15 years and over in Employment (Thousand),162.2
+West,2000Q3,Unemployed Persons aged 15 years and over (Thousand),8.6
+West,2000Q3,Persons aged 15 years and over in Labour Force (Thousand),170.9
+West,2000Q3,ILO Unemployment Rate (15 - 74 years) (%),5.1
+West,2000Q3,ILO Participation Rate (15 years and over) (%),60.0
+West,2000Q4,Persons aged 15 years and over in Employment (Thousand),160.8
+West,2000Q4,Unemployed Persons aged 15 years and over (Thousand),6.8
+West,2000Q4,Persons aged 15 years and over in Labour Force (Thousand),167.6
+West,2000Q4,ILO Unemployment Rate (15 - 74 years) (%),4.1
+West,2000Q4,ILO Participation Rate (15 years and over) (%),58.4
+West,2001Q1,Persons aged 15 years and over in Employment (Thousand),161.5
+West,2001Q1,Unemployed Persons aged 15 years and over (Thousand),7.1
+West,2001Q1,Persons aged 15 years and over in Labour Force (Thousand),168.6
+West,2001Q1,ILO Unemployment Rate (15 - 74 years) (%),4.2
+West,2001Q1,ILO Participation Rate (15 years and over) (%),58.6
+West,2001Q2,Persons aged 15 years and over in Employment (Thousand),163.3
+West,2001Q2,Unemployed Persons aged 15 years and over (Thousand),8.1
+West,2001Q2,Persons aged 15 years and over in Labour Force (Thousand),171.5
+West,2001Q2,ILO Unemployment Rate (15 - 74 years) (%),4.8
+West,2001Q2,ILO Participation Rate (15 years and over) (%),59.2
+West,2001Q3,Persons aged 15 years and over in Employment (Thousand),172.1
+West,2001Q3,Unemployed Persons aged 15 years and over (Thousand),8.1
+West,2001Q3,Persons aged 15 years and over in Labour Force (Thousand),180.1
+West,2001Q3,ILO Unemployment Rate (15 - 74 years) (%),4.5
+West,2001Q3,ILO Participation Rate (15 years and over) (%),61.6
+West,2001Q4,Persons aged 15 years and over in Employment (Thousand),168.6
+West,2001Q4,Unemployed Persons aged 15 years and over (Thousand),8.7
+West,2001Q4,Persons aged 15 years and over in Labour Force (Thousand),177.4
+West,2001Q4,ILO Unemployment Rate (15 - 74 years) (%),4.9
+West,2001Q4,ILO Participation Rate (15 years and over) (%),59.9
+West,2002Q1,Persons aged 15 years and over in Employment (Thousand),168.1
+West,2002Q1,Unemployed Persons aged 15 years and over (Thousand),9.3
+West,2002Q1,Persons aged 15 years and over in Labour Force (Thousand),177.4
+West,2002Q1,ILO Unemployment Rate (15 - 74 years) (%),5.3
+West,2002Q1,ILO Participation Rate (15 years and over) (%),59.5
+West,2002Q2,Persons aged 15 years and over in Employment (Thousand),168.8
+West,2002Q2,Unemployed Persons aged 15 years and over (Thousand),10.2
+West,2002Q2,Persons aged 15 years and over in Labour Force (Thousand),178.9
+West,2002Q2,ILO Unemployment Rate (15 - 74 years) (%),5.7
+West,2002Q2,ILO Participation Rate (15 years and over) (%),59.5
+West,2002Q3,Persons aged 15 years and over in Employment (Thousand),174.5
+West,2002Q3,Unemployed Persons aged 15 years and over (Thousand),8.2
+West,2002Q3,Persons aged 15 years and over in Labour Force (Thousand),182.7
+West,2002Q3,ILO Unemployment Rate (15 - 74 years) (%),4.5
+West,2002Q3,ILO Participation Rate (15 years and over) (%),60.3
+West,2002Q4,Persons aged 15 years and over in Employment (Thousand),171.6
+West,2002Q4,Unemployed Persons aged 15 years and over (Thousand),9.5
+West,2002Q4,Persons aged 15 years and over in Labour Force (Thousand),181.1
+West,2002Q4,ILO Unemployment Rate (15 - 74 years) (%),5.3
+West,2002Q4,ILO Participation Rate (15 years and over) (%),59.3
+West,2003Q1,Persons aged 15 years and over in Employment (Thousand),173.3
+West,2003Q1,Unemployed Persons aged 15 years and over (Thousand),8.8
+West,2003Q1,Persons aged 15 years and over in Labour Force (Thousand),182.1
+West,2003Q1,ILO Unemployment Rate (15 - 74 years) (%),4.9
+West,2003Q1,ILO Participation Rate (15 years and over) (%),59.2
+West,2003Q2,Persons aged 15 years and over in Employment (Thousand),173.7
+West,2003Q2,Unemployed Persons aged 15 years and over (Thousand),8.2
+West,2003Q2,Persons aged 15 years and over in Labour Force (Thousand),181.9
+West,2003Q2,ILO Unemployment Rate (15 - 74 years) (%),4.5
+West,2003Q2,ILO Participation Rate (15 years and over) (%),59.0
+West,2003Q3,Persons aged 15 years and over in Employment (Thousand),177.6
+West,2003Q3,Unemployed Persons aged 15 years and over (Thousand),9.7
+West,2003Q3,Persons aged 15 years and over in Labour Force (Thousand),187.3
+West,2003Q3,ILO Unemployment Rate (15 - 74 years) (%),5.2
+West,2003Q3,ILO Participation Rate (15 years and over) (%),60.4
+West,2003Q4,Persons aged 15 years and over in Employment (Thousand),178.4
+West,2003Q4,Unemployed Persons aged 15 years and over (Thousand),7.0
+West,2003Q4,Persons aged 15 years and over in Labour Force (Thousand),185.4
+West,2003Q4,ILO Unemployment Rate (15 - 74 years) (%),3.8
+West,2003Q4,ILO Participation Rate (15 years and over) (%),59.5
+West,2004Q1,Persons aged 15 years and over in Employment (Thousand),178.9
+West,2004Q1,Unemployed Persons aged 15 years and over (Thousand),8.6
+West,2004Q1,Persons aged 15 years and over in Labour Force (Thousand),187.4
+West,2004Q1,ILO Unemployment Rate (15 - 74 years) (%),4.6
+West,2004Q1,ILO Participation Rate (15 years and over) (%),60.0
+West,2004Q2,Persons aged 15 years and over in Employment (Thousand),180.1
+West,2004Q2,Unemployed Persons aged 15 years and over (Thousand),7.3
+West,2004Q2,Persons aged 15 years and over in Labour Force (Thousand),187.4
+West,2004Q2,ILO Unemployment Rate (15 - 74 years) (%),3.9
+West,2004Q2,ILO Participation Rate (15 years and over) (%),59.8
+West,2004Q3,Persons aged 15 years and over in Employment (Thousand),189.1
+West,2004Q3,Unemployed Persons aged 15 years and over (Thousand),7.9
+West,2004Q3,Persons aged 15 years and over in Labour Force (Thousand),197.0
+West,2004Q3,ILO Unemployment Rate (15 - 74 years) (%),4.0
+West,2004Q3,ILO Participation Rate (15 years and over) (%),62.2
+West,2004Q4,Persons aged 15 years and over in Employment (Thousand),186.2
+West,2004Q4,Unemployed Persons aged 15 years and over (Thousand),8.3
+West,2004Q4,Persons aged 15 years and over in Labour Force (Thousand),194.4
+West,2004Q4,ILO Unemployment Rate (15 - 74 years) (%),4.3
+West,2004Q4,ILO Participation Rate (15 years and over) (%),60.8
+West,2005Q1,Persons aged 15 years and over in Employment (Thousand),187.3
+West,2005Q1,Unemployed Persons aged 15 years and over (Thousand),8.5
+West,2005Q1,Persons aged 15 years and over in Labour Force (Thousand),195.8
+West,2005Q1,ILO Unemployment Rate (15 - 74 years) (%),4.3
+West,2005Q1,ILO Participation Rate (15 years and over) (%),60.8
+West,2005Q2,Persons aged 15 years and over in Employment (Thousand),191.5
+West,2005Q2,Unemployed Persons aged 15 years and over (Thousand),8.5
+West,2005Q2,Persons aged 15 years and over in Labour Force (Thousand),200.0
+West,2005Q2,ILO Unemployment Rate (15 - 74 years) (%),4.3
+West,2005Q2,ILO Participation Rate (15 years and over) (%),61.7
+West,2005Q3,Persons aged 15 years and over in Employment (Thousand),194.5
+West,2005Q3,Unemployed Persons aged 15 years and over (Thousand),9.0
+West,2005Q3,Persons aged 15 years and over in Labour Force (Thousand),203.4
+West,2005Q3,ILO Unemployment Rate (15 - 74 years) (%),4.4
+West,2005Q3,ILO Participation Rate (15 years and over) (%),62.4
+West,2005Q4,Persons aged 15 years and over in Employment (Thousand),193.5
+West,2005Q4,Unemployed Persons aged 15 years and over (Thousand),8.5
+West,2005Q4,Persons aged 15 years and over in Labour Force (Thousand),202.0
+West,2005Q4,ILO Unemployment Rate (15 - 74 years) (%),4.2
+West,2005Q4,ILO Participation Rate (15 years and over) (%),61.5
+West,2006Q1,Persons aged 15 years and over in Employment (Thousand),193.6
+West,2006Q1,Unemployed Persons aged 15 years and over (Thousand),10.0
+West,2006Q1,Persons aged 15 years and over in Labour Force (Thousand),203.5
+West,2006Q1,ILO Unemployment Rate (15 - 74 years) (%),4.9
+West,2006Q1,ILO Participation Rate (15 years and over) (%),61.7
+West,2006Q2,Persons aged 15 years and over in Employment (Thousand),195.6
+West,2006Q2,Unemployed Persons aged 15 years and over (Thousand),10.4
+West,2006Q2,Persons aged 15 years and over in Labour Force (Thousand),206.0
+West,2006Q2,ILO Unemployment Rate (15 - 74 years) (%),5.1
+West,2006Q2,ILO Participation Rate (15 years and over) (%),62.8
+West,2006Q3,Persons aged 15 years and over in Employment (Thousand),199.7
+West,2006Q3,Unemployed Persons aged 15 years and over (Thousand),12.3
+West,2006Q3,Persons aged 15 years and over in Labour Force (Thousand),212.0
+West,2006Q3,ILO Unemployment Rate (15 - 74 years) (%),5.8
+West,2006Q3,ILO Participation Rate (15 years and over) (%),63.9
+West,2006Q4,Persons aged 15 years and over in Employment (Thousand),198.5
+West,2006Q4,Unemployed Persons aged 15 years and over (Thousand),9.2
+West,2006Q4,Persons aged 15 years and over in Labour Force (Thousand),207.6
+West,2006Q4,ILO Unemployment Rate (15 - 74 years) (%),4.4
+West,2006Q4,ILO Participation Rate (15 years and over) (%),62.0
+West,2007Q1,Persons aged 15 years and over in Employment (Thousand),201.7
+West,2007Q1,Unemployed Persons aged 15 years and over (Thousand),8.8
+West,2007Q1,Persons aged 15 years and over in Labour Force (Thousand),210.5
+West,2007Q1,ILO Unemployment Rate (15 - 74 years) (%),4.2
+West,2007Q1,ILO Participation Rate (15 years and over) (%),62.4
+West,2007Q2,Persons aged 15 years and over in Employment (Thousand),203.3
+West,2007Q2,Unemployed Persons aged 15 years and over (Thousand),11.2
+West,2007Q2,Persons aged 15 years and over in Labour Force (Thousand),214.5
+West,2007Q2,ILO Unemployment Rate (15 - 74 years) (%),5.2
+West,2007Q2,ILO Participation Rate (15 years and over) (%),63.2
+West,2007Q3,Persons aged 15 years and over in Employment (Thousand),208.3
+West,2007Q3,Unemployed Persons aged 15 years and over (Thousand),11.2
+West,2007Q3,Persons aged 15 years and over in Labour Force (Thousand),219.5
+West,2007Q3,ILO Unemployment Rate (15 - 74 years) (%),5.1
+West,2007Q3,ILO Participation Rate (15 years and over) (%),64.4
+West,2007Q4,Persons aged 15 years and over in Employment (Thousand),207.0
+West,2007Q4,Unemployed Persons aged 15 years and over (Thousand),9.1
+West,2007Q4,Persons aged 15 years and over in Labour Force (Thousand),216.1
+West,2007Q4,ILO Unemployment Rate (15 - 74 years) (%),4.2
+West,2007Q4,ILO Participation Rate (15 years and over) (%),63.1
+West,2008Q1,Persons aged 15 years and over in Employment (Thousand),205.1
+West,2008Q1,Unemployed Persons aged 15 years and over (Thousand),13.4
+West,2008Q1,Persons aged 15 years and over in Labour Force (Thousand),218.5
+West,2008Q1,ILO Unemployment Rate (15 - 74 years) (%),6.2
+West,2008Q1,ILO Participation Rate (15 years and over) (%),63.5
+West,2008Q2,Persons aged 15 years and over in Employment (Thousand),207.6
+West,2008Q2,Unemployed Persons aged 15 years and over (Thousand),15.8
+West,2008Q2,Persons aged 15 years and over in Labour Force (Thousand),223.4
+West,2008Q2,ILO Unemployment Rate (15 - 74 years) (%),7.1
+West,2008Q2,ILO Participation Rate (15 years and over) (%),64.7
+West,2008Q3,Persons aged 15 years and over in Employment (Thousand),205.8
+West,2008Q3,Unemployed Persons aged 15 years and over (Thousand),18.1
+West,2008Q3,Persons aged 15 years and over in Labour Force (Thousand),223.8
+West,2008Q3,ILO Unemployment Rate (15 - 74 years) (%),8.1
+West,2008Q3,ILO Participation Rate (15 years and over) (%),64.6
+West,2008Q4,Persons aged 15 years and over in Employment (Thousand),198.3
+West,2008Q4,Unemployed Persons aged 15 years and over (Thousand),22.0
+West,2008Q4,Persons aged 15 years and over in Labour Force (Thousand),220.3
+West,2008Q4,ILO Unemployment Rate (15 - 74 years) (%),10.1
+West,2008Q4,ILO Participation Rate (15 years and over) (%),63.4
+West,2009Q1,Persons aged 15 years and over in Employment (Thousand),193.9
+West,2009Q1,Unemployed Persons aged 15 years and over (Thousand),25.5
+West,2009Q1,Persons aged 15 years and over in Labour Force (Thousand),219.4
+West,2009Q1,ILO Unemployment Rate (15 - 74 years) (%),11.7
+West,2009Q1,ILO Participation Rate (15 years and over) (%),63.0
+West,2009Q2,Persons aged 15 years and over in Employment (Thousand),194.3
+West,2009Q2,Unemployed Persons aged 15 years and over (Thousand),31.8
+West,2009Q2,Persons aged 15 years and over in Labour Force (Thousand),226.1
+West,2009Q2,ILO Unemployment Rate (15 - 74 years) (%),14.1
+West,2009Q2,ILO Participation Rate (15 years and over) (%),64.7
+West,2009Q3,Persons aged 15 years and over in Employment (Thousand),189.3
+West,2009Q3,Unemployed Persons aged 15 years and over (Thousand),33.7
+West,2009Q3,Persons aged 15 years and over in Labour Force (Thousand),223.0
+West,2009Q3,ILO Unemployment Rate (15 - 74 years) (%),15.2
+West,2009Q3,ILO Participation Rate (15 years and over) (%),63.9
+West,2009Q4,Persons aged 15 years and over in Employment (Thousand),185.4
+West,2009Q4,Unemployed Persons aged 15 years and over (Thousand),29.3
+West,2009Q4,Persons aged 15 years and over in Labour Force (Thousand),214.7
+West,2009Q4,ILO Unemployment Rate (15 - 74 years) (%),13.7
+West,2009Q4,ILO Participation Rate (15 years and over) (%),61.6
+West,2010Q1,Persons aged 15 years and over in Employment (Thousand),181.9
+West,2010Q1,Unemployed Persons aged 15 years and over (Thousand),30.5
+West,2010Q1,Persons aged 15 years and over in Labour Force (Thousand),212.3
+West,2010Q1,ILO Unemployment Rate (15 - 74 years) (%),14.4
+West,2010Q1,ILO Participation Rate (15 years and over) (%),60.9
+West,2010Q2,Persons aged 15 years and over in Employment (Thousand),182.7
+West,2010Q2,Unemployed Persons aged 15 years and over (Thousand),35.6
+West,2010Q2,Persons aged 15 years and over in Labour Force (Thousand),218.2
+West,2010Q2,ILO Unemployment Rate (15 - 74 years) (%),16.4
+West,2010Q2,ILO Participation Rate (15 years and over) (%),62.7
+West,2010Q3,Persons aged 15 years and over in Employment (Thousand),179.1
+West,2010Q3,Unemployed Persons aged 15 years and over (Thousand),36.4
+West,2010Q3,Persons aged 15 years and over in Labour Force (Thousand),215.5
+West,2010Q3,ILO Unemployment Rate (15 - 74 years) (%),17.0
+West,2010Q3,ILO Participation Rate (15 years and over) (%),61.9
+West,2010Q4,Persons aged 15 years and over in Employment (Thousand),179.5
+West,2010Q4,Unemployed Persons aged 15 years and over (Thousand),35.0
+West,2010Q4,Persons aged 15 years and over in Labour Force (Thousand),214.5
+West,2010Q4,ILO Unemployment Rate (15 - 74 years) (%),16.4
+West,2010Q4,ILO Participation Rate (15 years and over) (%),61.6
+West,2011Q1,Persons aged 15 years and over in Employment (Thousand),175.4
+West,2011Q1,Unemployed Persons aged 15 years and over (Thousand),37.1
+West,2011Q1,Persons aged 15 years and over in Labour Force (Thousand),212.5
+West,2011Q1,ILO Unemployment Rate (15 - 74 years) (%),17.6
+West,2011Q1,ILO Participation Rate (15 years and over) (%),61.0
+West,2011Q2,Persons aged 15 years and over in Employment (Thousand),177.5
+West,2011Q2,Unemployed Persons aged 15 years and over (Thousand),38.5
+West,2011Q2,Persons aged 15 years and over in Labour Force (Thousand),216.0
+West,2011Q2,ILO Unemployment Rate (15 - 74 years) (%),18.0
+West,2011Q2,ILO Participation Rate (15 years and over) (%),62.0
+West,2011Q3,Persons aged 15 years and over in Employment (Thousand),179.0
+West,2011Q3,Unemployed Persons aged 15 years and over (Thousand),37.6
+West,2011Q3,Persons aged 15 years and over in Labour Force (Thousand),216.6
+West,2011Q3,ILO Unemployment Rate (15 - 74 years) (%),17.5
+West,2011Q3,ILO Participation Rate (15 years and over) (%),62.3
+West,2011Q4,Persons aged 15 years and over in Employment (Thousand),177.4
+West,2011Q4,Unemployed Persons aged 15 years and over (Thousand),34.7
+West,2011Q4,Persons aged 15 years and over in Labour Force (Thousand),212.1
+West,2011Q4,ILO Unemployment Rate (15 - 74 years) (%),16.5
+West,2011Q4,ILO Participation Rate (15 years and over) (%),61.0
+Dublin,1998Q1,Persons aged 15 years and over in Employment (Thousand),493.4
+Dublin,1998Q1,Unemployed Persons aged 15 years and over (Thousand),42.5
+Dublin,1998Q1,Persons aged 15 years and over in Labour Force (Thousand),535.9
+Dublin,1998Q1,ILO Unemployment Rate (15 - 74 years) (%),8.0
+Dublin,1998Q1,ILO Participation Rate (15 years and over) (%),62.8
+Dublin,1998Q2,Persons aged 15 years and over in Employment (Thousand),496.8
+Dublin,1998Q2,Unemployed Persons aged 15 years and over (Thousand),40.5
+Dublin,1998Q2,Persons aged 15 years and over in Labour Force (Thousand),537.3
+Dublin,1998Q2,ILO Unemployment Rate (15 - 74 years) (%),7.5
+Dublin,1998Q2,ILO Participation Rate (15 years and over) (%),62.7
+Dublin,1998Q3,Persons aged 15 years and over in Employment (Thousand),515.2
+Dublin,1998Q3,Unemployed Persons aged 15 years and over (Thousand),39.8
+Dublin,1998Q3,Persons aged 15 years and over in Labour Force (Thousand),555.1
+Dublin,1998Q3,ILO Unemployment Rate (15 - 74 years) (%),7.2
+Dublin,1998Q3,ILO Participation Rate (15 years and over) (%),64.6
+Dublin,1998Q4,Persons aged 15 years and over in Employment (Thousand),509.1
+Dublin,1998Q4,Unemployed Persons aged 15 years and over (Thousand),30.1
+Dublin,1998Q4,Persons aged 15 years and over in Labour Force (Thousand),539.2
+Dublin,1998Q4,ILO Unemployment Rate (15 - 74 years) (%),5.6
+Dublin,1998Q4,ILO Participation Rate (15 years and over) (%),62.6
+Dublin,1999Q1,Persons aged 15 years and over in Employment (Thousand),517.9
+Dublin,1999Q1,Unemployed Persons aged 15 years and over (Thousand),29.6
+Dublin,1999Q1,Persons aged 15 years and over in Labour Force (Thousand),547.6
+Dublin,1999Q1,ILO Unemployment Rate (15 - 74 years) (%),5.4
+Dublin,1999Q1,ILO Participation Rate (15 years and over) (%),63.5
+Dublin,1999Q2,Persons aged 15 years and over in Employment (Thousand),527.2
+Dublin,1999Q2,Unemployed Persons aged 15 years and over (Thousand),28.6
+Dublin,1999Q2,Persons aged 15 years and over in Labour Force (Thousand),555.8
+Dublin,1999Q2,ILO Unemployment Rate (15 - 74 years) (%),5.2
+Dublin,1999Q2,ILO Participation Rate (15 years and over) (%),64.3
+Dublin,1999Q3,Persons aged 15 years and over in Employment (Thousand),542.4
+Dublin,1999Q3,Unemployed Persons aged 15 years and over (Thousand),25.9
+Dublin,1999Q3,Persons aged 15 years and over in Labour Force (Thousand),568.3
+Dublin,1999Q3,ILO Unemployment Rate (15 - 74 years) (%),4.6
+Dublin,1999Q3,ILO Participation Rate (15 years and over) (%),65.5
+Dublin,1999Q4,Persons aged 15 years and over in Employment (Thousand),537.8
+Dublin,1999Q4,Unemployed Persons aged 15 years and over (Thousand),22.5
+Dublin,1999Q4,Persons aged 15 years and over in Labour Force (Thousand),560.2
+Dublin,1999Q4,ILO Unemployment Rate (15 - 74 years) (%),4.0
+Dublin,1999Q4,ILO Participation Rate (15 years and over) (%),64.2
+Dublin,2000Q1,Persons aged 15 years and over in Employment (Thousand),539.8
+Dublin,2000Q1,Unemployed Persons aged 15 years and over (Thousand),21.6
+Dublin,2000Q1,Persons aged 15 years and over in Labour Force (Thousand),561.4
+Dublin,2000Q1,ILO Unemployment Rate (15 - 74 years) (%),3.8
+Dublin,2000Q1,ILO Participation Rate (15 years and over) (%),64.2
+Dublin,2000Q2,Persons aged 15 years and over in Employment (Thousand),548.5
+Dublin,2000Q2,Unemployed Persons aged 15 years and over (Thousand),21.5
+Dublin,2000Q2,Persons aged 15 years and over in Labour Force (Thousand),570.0
+Dublin,2000Q2,ILO Unemployment Rate (15 - 74 years) (%),3.8
+Dublin,2000Q2,ILO Participation Rate (15 years and over) (%),65.0
+Dublin,2000Q3,Persons aged 15 years and over in Employment (Thousand),567.9
+Dublin,2000Q3,Unemployed Persons aged 15 years and over (Thousand),21.2
+Dublin,2000Q3,Persons aged 15 years and over in Labour Force (Thousand),589.1
+Dublin,2000Q3,ILO Unemployment Rate (15 - 74 years) (%),3.6
+Dublin,2000Q3,ILO Participation Rate (15 years and over) (%),66.9
+Dublin,2000Q4,Persons aged 15 years and over in Employment (Thousand),561.1
+Dublin,2000Q4,Unemployed Persons aged 15 years and over (Thousand),15.6
+Dublin,2000Q4,Persons aged 15 years and over in Labour Force (Thousand),576.7
+Dublin,2000Q4,ILO Unemployment Rate (15 - 74 years) (%),2.7
+Dublin,2000Q4,ILO Participation Rate (15 years and over) (%),65.1
+Dublin,2001Q1,Persons aged 15 years and over in Employment (Thousand),559.2
+Dublin,2001Q1,Unemployed Persons aged 15 years and over (Thousand),15.8
+Dublin,2001Q1,Persons aged 15 years and over in Labour Force (Thousand),575.0
+Dublin,2001Q1,ILO Unemployment Rate (15 - 74 years) (%),2.8
+Dublin,2001Q1,ILO Participation Rate (15 years and over) (%),64.8
+Dublin,2001Q2,Persons aged 15 years and over in Employment (Thousand),560.6
+Dublin,2001Q2,Unemployed Persons aged 15 years and over (Thousand),19.3
+Dublin,2001Q2,Persons aged 15 years and over in Labour Force (Thousand),579.9
+Dublin,2001Q2,ILO Unemployment Rate (15 - 74 years) (%),3.3
+Dublin,2001Q2,ILO Participation Rate (15 years and over) (%),65.1
+Dublin,2001Q3,Persons aged 15 years and over in Employment (Thousand),573.9
+Dublin,2001Q3,Unemployed Persons aged 15 years and over (Thousand),21.5
+Dublin,2001Q3,Persons aged 15 years and over in Labour Force (Thousand),595.4
+Dublin,2001Q3,ILO Unemployment Rate (15 - 74 years) (%),3.6
+Dublin,2001Q3,ILO Participation Rate (15 years and over) (%),66.5
+Dublin,2001Q4,Persons aged 15 years and over in Employment (Thousand),566.3
+Dublin,2001Q4,Unemployed Persons aged 15 years and over (Thousand),19.4
+Dublin,2001Q4,Persons aged 15 years and over in Labour Force (Thousand),585.6
+Dublin,2001Q4,ILO Unemployment Rate (15 - 74 years) (%),3.3
+Dublin,2001Q4,ILO Participation Rate (15 years and over) (%),65.0
+Dublin,2002Q1,Persons aged 15 years and over in Employment (Thousand),561.3
+Dublin,2002Q1,Unemployed Persons aged 15 years and over (Thousand),21.7
+Dublin,2002Q1,Persons aged 15 years and over in Labour Force (Thousand),583.0
+Dublin,2002Q1,ILO Unemployment Rate (15 - 74 years) (%),3.7
+Dublin,2002Q1,ILO Participation Rate (15 years and over) (%),64.4
+Dublin,2002Q2,Persons aged 15 years and over in Employment (Thousand),560.3
+Dublin,2002Q2,Unemployed Persons aged 15 years and over (Thousand),24.5
+Dublin,2002Q2,Persons aged 15 years and over in Labour Force (Thousand),584.8
+Dublin,2002Q2,ILO Unemployment Rate (15 - 74 years) (%),4.2
+Dublin,2002Q2,ILO Participation Rate (15 years and over) (%),64.4
+Dublin,2002Q3,Persons aged 15 years and over in Employment (Thousand),568.0
+Dublin,2002Q3,Unemployed Persons aged 15 years and over (Thousand),26.3
+Dublin,2002Q3,Persons aged 15 years and over in Labour Force (Thousand),594.3
+Dublin,2002Q3,ILO Unemployment Rate (15 - 74 years) (%),4.4
+Dublin,2002Q3,ILO Participation Rate (15 years and over) (%),65.2
+Dublin,2002Q4,Persons aged 15 years and over in Employment (Thousand),562.4
+Dublin,2002Q4,Unemployed Persons aged 15 years and over (Thousand),26.3
+Dublin,2002Q4,Persons aged 15 years and over in Labour Force (Thousand),588.7
+Dublin,2002Q4,ILO Unemployment Rate (15 - 74 years) (%),4.5
+Dublin,2002Q4,ILO Participation Rate (15 years and over) (%),64.4
+Dublin,2003Q1,Persons aged 15 years and over in Employment (Thousand),559.7
+Dublin,2003Q1,Unemployed Persons aged 15 years and over (Thousand),25.8
+Dublin,2003Q1,Persons aged 15 years and over in Labour Force (Thousand),585.4
+Dublin,2003Q1,ILO Unemployment Rate (15 - 74 years) (%),4.4
+Dublin,2003Q1,ILO Participation Rate (15 years and over) (%),63.9
+Dublin,2003Q2,Persons aged 15 years and over in Employment (Thousand),565.3
+Dublin,2003Q2,Unemployed Persons aged 15 years and over (Thousand),24.5
+Dublin,2003Q2,Persons aged 15 years and over in Labour Force (Thousand),589.9
+Dublin,2003Q2,ILO Unemployment Rate (15 - 74 years) (%),4.2
+Dublin,2003Q2,ILO Participation Rate (15 years and over) (%),64.2
+Dublin,2003Q3,Persons aged 15 years and over in Employment (Thousand),568.5
+Dublin,2003Q3,Unemployed Persons aged 15 years and over (Thousand),28.7
+Dublin,2003Q3,Persons aged 15 years and over in Labour Force (Thousand),597.2
+Dublin,2003Q3,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Dublin,2003Q3,ILO Participation Rate (15 years and over) (%),64.8
+Dublin,2003Q4,Persons aged 15 years and over in Employment (Thousand),567.6
+Dublin,2003Q4,Unemployed Persons aged 15 years and over (Thousand),25.1
+Dublin,2003Q4,Persons aged 15 years and over in Labour Force (Thousand),592.7
+Dublin,2003Q4,ILO Unemployment Rate (15 - 74 years) (%),4.2
+Dublin,2003Q4,ILO Participation Rate (15 years and over) (%),64.1
+Dublin,2004Q1,Persons aged 15 years and over in Employment (Thousand),562.8
+Dublin,2004Q1,Unemployed Persons aged 15 years and over (Thousand),29.5
+Dublin,2004Q1,Persons aged 15 years and over in Labour Force (Thousand),592.3
+Dublin,2004Q1,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Dublin,2004Q1,ILO Participation Rate (15 years and over) (%),63.9
+Dublin,2004Q2,Persons aged 15 years and over in Employment (Thousand),565.2
+Dublin,2004Q2,Unemployed Persons aged 15 years and over (Thousand),26.0
+Dublin,2004Q2,Persons aged 15 years and over in Labour Force (Thousand),591.2
+Dublin,2004Q2,ILO Unemployment Rate (15 - 74 years) (%),4.4
+Dublin,2004Q2,ILO Participation Rate (15 years and over) (%),63.7
+Dublin,2004Q3,Persons aged 15 years and over in Employment (Thousand),578.9
+Dublin,2004Q3,Unemployed Persons aged 15 years and over (Thousand),27.0
+Dublin,2004Q3,Persons aged 15 years and over in Labour Force (Thousand),605.9
+Dublin,2004Q3,ILO Unemployment Rate (15 - 74 years) (%),4.5
+Dublin,2004Q3,ILO Participation Rate (15 years and over) (%),64.9
+Dublin,2004Q4,Persons aged 15 years and over in Employment (Thousand),581.0
+Dublin,2004Q4,Unemployed Persons aged 15 years and over (Thousand),24.7
+Dublin,2004Q4,Persons aged 15 years and over in Labour Force (Thousand),605.7
+Dublin,2004Q4,ILO Unemployment Rate (15 - 74 years) (%),4.1
+Dublin,2004Q4,ILO Participation Rate (15 years and over) (%),64.6
+Dublin,2005Q1,Persons aged 15 years and over in Employment (Thousand),580.7
+Dublin,2005Q1,Unemployed Persons aged 15 years and over (Thousand),26.1
+Dublin,2005Q1,Persons aged 15 years and over in Labour Force (Thousand),606.8
+Dublin,2005Q1,ILO Unemployment Rate (15 - 74 years) (%),4.3
+Dublin,2005Q1,ILO Participation Rate (15 years and over) (%),64.5
+Dublin,2005Q2,Persons aged 15 years and over in Employment (Thousand),591.0
+Dublin,2005Q2,Unemployed Persons aged 15 years and over (Thousand),30.9
+Dublin,2005Q2,Persons aged 15 years and over in Labour Force (Thousand),621.8
+Dublin,2005Q2,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Dublin,2005Q2,ILO Participation Rate (15 years and over) (%),65.8
+Dublin,2005Q3,Persons aged 15 years and over in Employment (Thousand),603.8
+Dublin,2005Q3,Unemployed Persons aged 15 years and over (Thousand),30.7
+Dublin,2005Q3,Persons aged 15 years and over in Labour Force (Thousand),634.5
+Dublin,2005Q3,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Dublin,2005Q3,ILO Participation Rate (15 years and over) (%),66.6
+Dublin,2005Q4,Persons aged 15 years and over in Employment (Thousand),605.7
+Dublin,2005Q4,Unemployed Persons aged 15 years and over (Thousand),28.7
+Dublin,2005Q4,Persons aged 15 years and over in Labour Force (Thousand),634.5
+Dublin,2005Q4,ILO Unemployment Rate (15 - 74 years) (%),4.5
+Dublin,2005Q4,ILO Participation Rate (15 years and over) (%),66.1
+Dublin,2006Q1,Persons aged 15 years and over in Employment (Thousand),611.2
+Dublin,2006Q1,Unemployed Persons aged 15 years and over (Thousand),31.0
+Dublin,2006Q1,Persons aged 15 years and over in Labour Force (Thousand),642.2
+Dublin,2006Q1,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Dublin,2006Q1,ILO Participation Rate (15 years and over) (%),66.5
+Dublin,2006Q2,Persons aged 15 years and over in Employment (Thousand),610.4
+Dublin,2006Q2,Unemployed Persons aged 15 years and over (Thousand),32.8
+Dublin,2006Q2,Persons aged 15 years and over in Labour Force (Thousand),643.1
+Dublin,2006Q2,ILO Unemployment Rate (15 - 74 years) (%),5.1
+Dublin,2006Q2,ILO Participation Rate (15 years and over) (%),66.5
+Dublin,2006Q3,Persons aged 15 years and over in Employment (Thousand),628.4
+Dublin,2006Q3,Unemployed Persons aged 15 years and over (Thousand),32.0
+Dublin,2006Q3,Persons aged 15 years and over in Labour Force (Thousand),660.4
+Dublin,2006Q3,ILO Unemployment Rate (15 - 74 years) (%),4.9
+Dublin,2006Q3,ILO Participation Rate (15 years and over) (%),67.3
+Dublin,2006Q4,Persons aged 15 years and over in Employment (Thousand),637.4
+Dublin,2006Q4,Unemployed Persons aged 15 years and over (Thousand),29.8
+Dublin,2006Q4,Persons aged 15 years and over in Labour Force (Thousand),667.2
+Dublin,2006Q4,ILO Unemployment Rate (15 - 74 years) (%),4.5
+Dublin,2006Q4,ILO Participation Rate (15 years and over) (%),67.2
+Dublin,2007Q1,Persons aged 15 years and over in Employment (Thousand),642.3
+Dublin,2007Q1,Unemployed Persons aged 15 years and over (Thousand),31.4
+Dublin,2007Q1,Persons aged 15 years and over in Labour Force (Thousand),673.7
+Dublin,2007Q1,ILO Unemployment Rate (15 - 74 years) (%),4.7
+Dublin,2007Q1,ILO Participation Rate (15 years and over) (%),67.2
+Dublin,2007Q2,Persons aged 15 years and over in Employment (Thousand),643.5
+Dublin,2007Q2,Unemployed Persons aged 15 years and over (Thousand),35.3
+Dublin,2007Q2,Persons aged 15 years and over in Labour Force (Thousand),678.8
+Dublin,2007Q2,ILO Unemployment Rate (15 - 74 years) (%),5.2
+Dublin,2007Q2,ILO Participation Rate (15 years and over) (%),67.2
+Dublin,2007Q3,Persons aged 15 years and over in Employment (Thousand),656.1
+Dublin,2007Q3,Unemployed Persons aged 15 years and over (Thousand),34.2
+Dublin,2007Q3,Persons aged 15 years and over in Labour Force (Thousand),690.3
+Dublin,2007Q3,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Dublin,2007Q3,ILO Participation Rate (15 years and over) (%),68.1
+Dublin,2007Q4,Persons aged 15 years and over in Employment (Thousand),654.1
+Dublin,2007Q4,Unemployed Persons aged 15 years and over (Thousand),32.0
+Dublin,2007Q4,Persons aged 15 years and over in Labour Force (Thousand),686.1
+Dublin,2007Q4,ILO Unemployment Rate (15 - 74 years) (%),4.7
+Dublin,2007Q4,ILO Participation Rate (15 years and over) (%),67.4
+Dublin,2008Q1,Persons aged 15 years and over in Employment (Thousand),649.4
+Dublin,2008Q1,Unemployed Persons aged 15 years and over (Thousand),34.7
+Dublin,2008Q1,Persons aged 15 years and over in Labour Force (Thousand),684.1
+Dublin,2008Q1,ILO Unemployment Rate (15 - 74 years) (%),5.1
+Dublin,2008Q1,ILO Participation Rate (15 years and over) (%),66.9
+Dublin,2008Q2,Persons aged 15 years and over in Employment (Thousand),650.6
+Dublin,2008Q2,Unemployed Persons aged 15 years and over (Thousand),36.5
+Dublin,2008Q2,Persons aged 15 years and over in Labour Force (Thousand),687.1
+Dublin,2008Q2,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Dublin,2008Q2,ILO Participation Rate (15 years and over) (%),67.1
+Dublin,2008Q3,Persons aged 15 years and over in Employment (Thousand),649.1
+Dublin,2008Q3,Unemployed Persons aged 15 years and over (Thousand),48.0
+Dublin,2008Q3,Persons aged 15 years and over in Labour Force (Thousand),697.0
+Dublin,2008Q3,ILO Unemployment Rate (15 - 74 years) (%),6.9
+Dublin,2008Q3,ILO Participation Rate (15 years and over) (%),68.0
+Dublin,2008Q4,Persons aged 15 years and over in Employment (Thousand),627.3
+Dublin,2008Q4,Unemployed Persons aged 15 years and over (Thousand),48.5
+Dublin,2008Q4,Persons aged 15 years and over in Labour Force (Thousand),675.8
+Dublin,2008Q4,ILO Unemployment Rate (15 - 74 years) (%),7.2
+Dublin,2008Q4,ILO Participation Rate (15 years and over) (%),66.0
+Dublin,2009Q1,Persons aged 15 years and over in Employment (Thousand),607.6
+Dublin,2009Q1,Unemployed Persons aged 15 years and over (Thousand),61.2
+Dublin,2009Q1,Persons aged 15 years and over in Labour Force (Thousand),668.9
+Dublin,2009Q1,ILO Unemployment Rate (15 - 74 years) (%),9.2
+Dublin,2009Q1,ILO Participation Rate (15 years and over) (%),65.3
+Dublin,2009Q2,Persons aged 15 years and over in Employment (Thousand),595.2
+Dublin,2009Q2,Unemployed Persons aged 15 years and over (Thousand),72.3
+Dublin,2009Q2,Persons aged 15 years and over in Labour Force (Thousand),667.5
+Dublin,2009Q2,ILO Unemployment Rate (15 - 74 years) (%),10.8
+Dublin,2009Q2,ILO Participation Rate (15 years and over) (%),65.1
+Dublin,2009Q3,Persons aged 15 years and over in Employment (Thousand),583.1
+Dublin,2009Q3,Unemployed Persons aged 15 years and over (Thousand),75.8
+Dublin,2009Q3,Persons aged 15 years and over in Labour Force (Thousand),658.9
+Dublin,2009Q3,ILO Unemployment Rate (15 - 74 years) (%),11.5
+Dublin,2009Q3,ILO Participation Rate (15 years and over) (%),64.4
+Dublin,2009Q4,Persons aged 15 years and over in Employment (Thousand),581.3
+Dublin,2009Q4,Unemployed Persons aged 15 years and over (Thousand),74.0
+Dublin,2009Q4,Persons aged 15 years and over in Labour Force (Thousand),655.3
+Dublin,2009Q4,ILO Unemployment Rate (15 - 74 years) (%),11.3
+Dublin,2009Q4,ILO Participation Rate (15 years and over) (%),64.2
+Dublin,2010Q1,Persons aged 15 years and over in Employment (Thousand),570.9
+Dublin,2010Q1,Unemployed Persons aged 15 years and over (Thousand),72.7
+Dublin,2010Q1,Persons aged 15 years and over in Labour Force (Thousand),643.6
+Dublin,2010Q1,ILO Unemployment Rate (15 - 74 years) (%),11.3
+Dublin,2010Q1,ILO Participation Rate (15 years and over) (%),63.1
+Dublin,2010Q2,Persons aged 15 years and over in Employment (Thousand),567.7
+Dublin,2010Q2,Unemployed Persons aged 15 years and over (Thousand),77.4
+Dublin,2010Q2,Persons aged 15 years and over in Labour Force (Thousand),645.0
+Dublin,2010Q2,ILO Unemployment Rate (15 - 74 years) (%),12.0
+Dublin,2010Q2,ILO Participation Rate (15 years and over) (%),63.3
+Dublin,2010Q3,Persons aged 15 years and over in Employment (Thousand),564.9
+Dublin,2010Q3,Unemployed Persons aged 15 years and over (Thousand),78.8
+Dublin,2010Q3,Persons aged 15 years and over in Labour Force (Thousand),643.6
+Dublin,2010Q3,ILO Unemployment Rate (15 - 74 years) (%),12.3
+Dublin,2010Q3,ILO Participation Rate (15 years and over) (%),63.2
+Dublin,2010Q4,Persons aged 15 years and over in Employment (Thousand),557.1
+Dublin,2010Q4,Unemployed Persons aged 15 years and over (Thousand),84.7
+Dublin,2010Q4,Persons aged 15 years and over in Labour Force (Thousand),641.8
+Dublin,2010Q4,ILO Unemployment Rate (15 - 74 years) (%),13.2
+Dublin,2010Q4,ILO Participation Rate (15 years and over) (%),63.1
+Dublin,2011Q1,Persons aged 15 years and over in Employment (Thousand),550.3
+Dublin,2011Q1,Unemployed Persons aged 15 years and over (Thousand),81.3
+Dublin,2011Q1,Persons aged 15 years and over in Labour Force (Thousand),631.7
+Dublin,2011Q1,ILO Unemployment Rate (15 - 74 years) (%),12.9
+Dublin,2011Q1,ILO Participation Rate (15 years and over) (%),62.1
+Dublin,2011Q2,Persons aged 15 years and over in Employment (Thousand),559.2
+Dublin,2011Q2,Unemployed Persons aged 15 years and over (Thousand),80.4
+Dublin,2011Q2,Persons aged 15 years and over in Labour Force (Thousand),639.6
+Dublin,2011Q2,ILO Unemployment Rate (15 - 74 years) (%),12.6
+Dublin,2011Q2,ILO Participation Rate (15 years and over) (%),62.9
+Dublin,2011Q3,Persons aged 15 years and over in Employment (Thousand),547.0
+Dublin,2011Q3,Unemployed Persons aged 15 years and over (Thousand),86.5
+Dublin,2011Q3,Persons aged 15 years and over in Labour Force (Thousand),633.5
+Dublin,2011Q3,ILO Unemployment Rate (15 - 74 years) (%),13.7
+Dublin,2011Q3,ILO Participation Rate (15 years and over) (%),62.4
+Dublin,2011Q4,Persons aged 15 years and over in Employment (Thousand),551.9
+Dublin,2011Q4,Unemployed Persons aged 15 years and over (Thousand),84.2
+Dublin,2011Q4,Persons aged 15 years and over in Labour Force (Thousand),636.1
+Dublin,2011Q4,ILO Unemployment Rate (15 - 74 years) (%),13.3
+Dublin,2011Q4,ILO Participation Rate (15 years and over) (%),62.7
+Mid-East,1998Q1,Persons aged 15 years and over in Employment (Thousand),160.3
+Mid-East,1998Q1,Unemployed Persons aged 15 years and over (Thousand),17.6
+Mid-East,1998Q1,Persons aged 15 years and over in Labour Force (Thousand),177.9
+Mid-East,1998Q1,ILO Unemployment Rate (15 - 74 years) (%),9.9
+Mid-East,1998Q1,ILO Participation Rate (15 years and over) (%),64.1
+Mid-East,1998Q2,Persons aged 15 years and over in Employment (Thousand),164.3
+Mid-East,1998Q2,Unemployed Persons aged 15 years and over (Thousand),16.2
+Mid-East,1998Q2,Persons aged 15 years and over in Labour Force (Thousand),180.5
+Mid-East,1998Q2,ILO Unemployment Rate (15 - 74 years) (%),9.0
+Mid-East,1998Q2,ILO Participation Rate (15 years and over) (%),64.4
+Mid-East,1998Q3,Persons aged 15 years and over in Employment (Thousand),172.2
+Mid-East,1998Q3,Unemployed Persons aged 15 years and over (Thousand),13.8
+Mid-East,1998Q3,Persons aged 15 years and over in Labour Force (Thousand),186.1
+Mid-East,1998Q3,ILO Unemployment Rate (15 - 74 years) (%),7.4
+Mid-East,1998Q3,ILO Participation Rate (15 years and over) (%),65.6
+Mid-East,1998Q4,Persons aged 15 years and over in Employment (Thousand),170.7
+Mid-East,1998Q4,Unemployed Persons aged 15 years and over (Thousand),11.1
+Mid-East,1998Q4,Persons aged 15 years and over in Labour Force (Thousand),181.8
+Mid-East,1998Q4,ILO Unemployment Rate (15 - 74 years) (%),6.1
+Mid-East,1998Q4,ILO Participation Rate (15 years and over) (%),63.6
+Mid-East,1999Q1,Persons aged 15 years and over in Employment (Thousand),174.9
+Mid-East,1999Q1,Unemployed Persons aged 15 years and over (Thousand),10.4
+Mid-East,1999Q1,Persons aged 15 years and over in Labour Force (Thousand),185.2
+Mid-East,1999Q1,ILO Unemployment Rate (15 - 74 years) (%),5.6
+Mid-East,1999Q1,ILO Participation Rate (15 years and over) (%),64.5
+Mid-East,1999Q2,Persons aged 15 years and over in Employment (Thousand),178.8
+Mid-East,1999Q2,Unemployed Persons aged 15 years and over (Thousand),11.0
+Mid-East,1999Q2,Persons aged 15 years and over in Labour Force (Thousand),189.8
+Mid-East,1999Q2,ILO Unemployment Rate (15 - 74 years) (%),5.8
+Mid-East,1999Q2,ILO Participation Rate (15 years and over) (%),65.7
+Mid-East,1999Q3,Persons aged 15 years and over in Employment (Thousand),186.5
+Mid-East,1999Q3,Unemployed Persons aged 15 years and over (Thousand),11.8
+Mid-East,1999Q3,Persons aged 15 years and over in Labour Force (Thousand),198.2
+Mid-East,1999Q3,ILO Unemployment Rate (15 - 74 years) (%),6.0
+Mid-East,1999Q3,ILO Participation Rate (15 years and over) (%),68.0
+Mid-East,1999Q4,Persons aged 15 years and over in Employment (Thousand),183.9
+Mid-East,1999Q4,Unemployed Persons aged 15 years and over (Thousand),10.3
+Mid-East,1999Q4,Persons aged 15 years and over in Labour Force (Thousand),194.2
+Mid-East,1999Q4,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Mid-East,1999Q4,ILO Participation Rate (15 years and over) (%),66.0
+Mid-East,2000Q1,Persons aged 15 years and over in Employment (Thousand),184.5
+Mid-East,2000Q1,Unemployed Persons aged 15 years and over (Thousand),9.8
+Mid-East,2000Q1,Persons aged 15 years and over in Labour Force (Thousand),194.2
+Mid-East,2000Q1,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Mid-East,2000Q1,ILO Participation Rate (15 years and over) (%),65.8
+Mid-East,2000Q2,Persons aged 15 years and over in Employment (Thousand),187.2
+Mid-East,2000Q2,Unemployed Persons aged 15 years and over (Thousand),9.9
+Mid-East,2000Q2,Persons aged 15 years and over in Labour Force (Thousand),197.1
+Mid-East,2000Q2,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Mid-East,2000Q2,ILO Participation Rate (15 years and over) (%),66.4
+Mid-East,2000Q3,Persons aged 15 years and over in Employment (Thousand),193.7
+Mid-East,2000Q3,Unemployed Persons aged 15 years and over (Thousand),10.1
+Mid-East,2000Q3,Persons aged 15 years and over in Labour Force (Thousand),203.8
+Mid-East,2000Q3,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Mid-East,2000Q3,ILO Participation Rate (15 years and over) (%),67.9
+Mid-East,2000Q4,Persons aged 15 years and over in Employment (Thousand),191.4
+Mid-East,2000Q4,Unemployed Persons aged 15 years and over (Thousand),8.0
+Mid-East,2000Q4,Persons aged 15 years and over in Labour Force (Thousand),199.4
+Mid-East,2000Q4,ILO Unemployment Rate (15 - 74 years) (%),4.0
+Mid-East,2000Q4,ILO Participation Rate (15 years and over) (%),65.6
+Mid-East,2001Q1,Persons aged 15 years and over in Employment (Thousand),194.1
+Mid-East,2001Q1,Unemployed Persons aged 15 years and over (Thousand),7.7
+Mid-East,2001Q1,Persons aged 15 years and over in Labour Force (Thousand),201.8
+Mid-East,2001Q1,ILO Unemployment Rate (15 - 74 years) (%),3.8
+Mid-East,2001Q1,ILO Participation Rate (15 years and over) (%),66.1
+Mid-East,2001Q2,Persons aged 15 years and over in Employment (Thousand),197.5
+Mid-East,2001Q2,Unemployed Persons aged 15 years and over (Thousand),8.1
+Mid-East,2001Q2,Persons aged 15 years and over in Labour Force (Thousand),205.6
+Mid-East,2001Q2,ILO Unemployment Rate (15 - 74 years) (%),3.9
+Mid-East,2001Q2,ILO Participation Rate (15 years and over) (%),66.8
+Mid-East,2001Q3,Persons aged 15 years and over in Employment (Thousand),202.0
+Mid-East,2001Q3,Unemployed Persons aged 15 years and over (Thousand),10.7
+Mid-East,2001Q3,Persons aged 15 years and over in Labour Force (Thousand),212.7
+Mid-East,2001Q3,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Mid-East,2001Q3,ILO Participation Rate (15 years and over) (%),68.6
+Mid-East,2001Q4,Persons aged 15 years and over in Employment (Thousand),200.1
+Mid-East,2001Q4,Unemployed Persons aged 15 years and over (Thousand),7.8
+Mid-East,2001Q4,Persons aged 15 years and over in Labour Force (Thousand),207.9
+Mid-East,2001Q4,ILO Unemployment Rate (15 - 74 years) (%),3.8
+Mid-East,2001Q4,ILO Participation Rate (15 years and over) (%),66.4
+Mid-East,2002Q1,Persons aged 15 years and over in Employment (Thousand),199.0
+Mid-East,2002Q1,Unemployed Persons aged 15 years and over (Thousand),8.7
+Mid-East,2002Q1,Persons aged 15 years and over in Labour Force (Thousand),207.6
+Mid-East,2002Q1,ILO Unemployment Rate (15 - 74 years) (%),4.2
+Mid-East,2002Q1,ILO Participation Rate (15 years and over) (%),66.0
+Mid-East,2002Q2,Persons aged 15 years and over in Employment (Thousand),202.7
+Mid-East,2002Q2,Unemployed Persons aged 15 years and over (Thousand),9.3
+Mid-East,2002Q2,Persons aged 15 years and over in Labour Force (Thousand),212.0
+Mid-East,2002Q2,ILO Unemployment Rate (15 - 74 years) (%),4.4
+Mid-East,2002Q2,ILO Participation Rate (15 years and over) (%),66.9
+Mid-East,2002Q3,Persons aged 15 years and over in Employment (Thousand),210.4
+Mid-East,2002Q3,Unemployed Persons aged 15 years and over (Thousand),10.2
+Mid-East,2002Q3,Persons aged 15 years and over in Labour Force (Thousand),220.7
+Mid-East,2002Q3,ILO Unemployment Rate (15 - 74 years) (%),4.6
+Mid-East,2002Q3,ILO Participation Rate (15 years and over) (%),68.9
+Mid-East,2002Q4,Persons aged 15 years and over in Employment (Thousand),206.3
+Mid-East,2002Q4,Unemployed Persons aged 15 years and over (Thousand),9.6
+Mid-East,2002Q4,Persons aged 15 years and over in Labour Force (Thousand),215.9
+Mid-East,2002Q4,ILO Unemployment Rate (15 - 74 years) (%),4.5
+Mid-East,2002Q4,ILO Participation Rate (15 years and over) (%),66.6
+Mid-East,2003Q1,Persons aged 15 years and over in Employment (Thousand),208.2
+Mid-East,2003Q1,Unemployed Persons aged 15 years and over (Thousand),8.2
+Mid-East,2003Q1,Persons aged 15 years and over in Labour Force (Thousand),216.4
+Mid-East,2003Q1,ILO Unemployment Rate (15 - 74 years) (%),3.8
+Mid-East,2003Q1,ILO Participation Rate (15 years and over) (%),66.3
+Mid-East,2003Q2,Persons aged 15 years and over in Employment (Thousand),213.2
+Mid-East,2003Q2,Unemployed Persons aged 15 years and over (Thousand),9.7
+Mid-East,2003Q2,Persons aged 15 years and over in Labour Force (Thousand),222.9
+Mid-East,2003Q2,ILO Unemployment Rate (15 - 74 years) (%),4.4
+Mid-East,2003Q2,ILO Participation Rate (15 years and over) (%),67.8
+Mid-East,2003Q3,Persons aged 15 years and over in Employment (Thousand),212.5
+Mid-East,2003Q3,Unemployed Persons aged 15 years and over (Thousand),11.0
+Mid-East,2003Q3,Persons aged 15 years and over in Labour Force (Thousand),223.6
+Mid-East,2003Q3,ILO Unemployment Rate (15 - 74 years) (%),4.9
+Mid-East,2003Q3,ILO Participation Rate (15 years and over) (%),67.4
+Mid-East,2003Q4,Persons aged 15 years and over in Employment (Thousand),212.4
+Mid-East,2003Q4,Unemployed Persons aged 15 years and over (Thousand),9.9
+Mid-East,2003Q4,Persons aged 15 years and over in Labour Force (Thousand),222.3
+Mid-East,2003Q4,ILO Unemployment Rate (15 - 74 years) (%),4.5
+Mid-East,2003Q4,ILO Participation Rate (15 years and over) (%),66.3
+Mid-East,2004Q1,Persons aged 15 years and over in Employment (Thousand),213.0
+Mid-East,2004Q1,Unemployed Persons aged 15 years and over (Thousand),9.7
+Mid-East,2004Q1,Persons aged 15 years and over in Labour Force (Thousand),222.7
+Mid-East,2004Q1,ILO Unemployment Rate (15 - 74 years) (%),4.3
+Mid-East,2004Q1,ILO Participation Rate (15 years and over) (%),66.1
+Mid-East,2004Q2,Persons aged 15 years and over in Employment (Thousand),217.1
+Mid-East,2004Q2,Unemployed Persons aged 15 years and over (Thousand),9.7
+Mid-East,2004Q2,Persons aged 15 years and over in Labour Force (Thousand),226.9
+Mid-East,2004Q2,ILO Unemployment Rate (15 - 74 years) (%),4.3
+Mid-East,2004Q2,ILO Participation Rate (15 years and over) (%),66.9
+Mid-East,2004Q3,Persons aged 15 years and over in Employment (Thousand),222.1
+Mid-East,2004Q3,Unemployed Persons aged 15 years and over (Thousand),8.6
+Mid-East,2004Q3,Persons aged 15 years and over in Labour Force (Thousand),230.7
+Mid-East,2004Q3,ILO Unemployment Rate (15 - 74 years) (%),3.7
+Mid-East,2004Q3,ILO Participation Rate (15 years and over) (%),67.3
+Mid-East,2004Q4,Persons aged 15 years and over in Employment (Thousand),222.9
+Mid-East,2004Q4,Unemployed Persons aged 15 years and over (Thousand),8.3
+Mid-East,2004Q4,Persons aged 15 years and over in Labour Force (Thousand),231.1
+Mid-East,2004Q4,ILO Unemployment Rate (15 - 74 years) (%),3.6
+Mid-East,2004Q4,ILO Participation Rate (15 years and over) (%),66.6
+Mid-East,2005Q1,Persons aged 15 years and over in Employment (Thousand),228.7
+Mid-East,2005Q1,Unemployed Persons aged 15 years and over (Thousand),8.8
+Mid-East,2005Q1,Persons aged 15 years and over in Labour Force (Thousand),237.6
+Mid-East,2005Q1,ILO Unemployment Rate (15 - 74 years) (%),3.7
+Mid-East,2005Q1,ILO Participation Rate (15 years and over) (%),67.9
+Mid-East,2005Q2,Persons aged 15 years and over in Employment (Thousand),231.2
+Mid-East,2005Q2,Unemployed Persons aged 15 years and over (Thousand),9.7
+Mid-East,2005Q2,Persons aged 15 years and over in Labour Force (Thousand),241.0
+Mid-East,2005Q2,ILO Unemployment Rate (15 - 74 years) (%),4.1
+Mid-East,2005Q2,ILO Participation Rate (15 years and over) (%),68.3
+Mid-East,2005Q3,Persons aged 15 years and over in Employment (Thousand),236.9
+Mid-East,2005Q3,Unemployed Persons aged 15 years and over (Thousand),12.1
+Mid-East,2005Q3,Persons aged 15 years and over in Labour Force (Thousand),249.0
+Mid-East,2005Q3,ILO Unemployment Rate (15 - 74 years) (%),4.9
+Mid-East,2005Q3,ILO Participation Rate (15 years and over) (%),69.7
+Mid-East,2005Q4,Persons aged 15 years and over in Employment (Thousand),237.0
+Mid-East,2005Q4,Unemployed Persons aged 15 years and over (Thousand),8.9
+Mid-East,2005Q4,Persons aged 15 years and over in Labour Force (Thousand),245.9
+Mid-East,2005Q4,ILO Unemployment Rate (15 - 74 years) (%),3.6
+Mid-East,2005Q4,ILO Participation Rate (15 years and over) (%),68.0
+Mid-East,2006Q1,Persons aged 15 years and over in Employment (Thousand),240.3
+Mid-East,2006Q1,Unemployed Persons aged 15 years and over (Thousand),10.7
+Mid-East,2006Q1,Persons aged 15 years and over in Labour Force (Thousand),251.1
+Mid-East,2006Q1,ILO Unemployment Rate (15 - 74 years) (%),4.3
+Mid-East,2006Q1,ILO Participation Rate (15 years and over) (%),68.8
+Mid-East,2006Q2,Persons aged 15 years and over in Employment (Thousand),243.4
+Mid-East,2006Q2,Unemployed Persons aged 15 years and over (Thousand),11.2
+Mid-East,2006Q2,Persons aged 15 years and over in Labour Force (Thousand),254.6
+Mid-East,2006Q2,ILO Unemployment Rate (15 - 74 years) (%),4.4
+Mid-East,2006Q2,ILO Participation Rate (15 years and over) (%),68.6
+Mid-East,2006Q3,Persons aged 15 years and over in Employment (Thousand),247.2
+Mid-East,2006Q3,Unemployed Persons aged 15 years and over (Thousand),12.0
+Mid-East,2006Q3,Persons aged 15 years and over in Labour Force (Thousand),259.2
+Mid-East,2006Q3,ILO Unemployment Rate (15 - 74 years) (%),4.6
+Mid-East,2006Q3,ILO Participation Rate (15 years and over) (%),69.2
+Mid-East,2006Q4,Persons aged 15 years and over in Employment (Thousand),248.9
+Mid-East,2006Q4,Unemployed Persons aged 15 years and over (Thousand),9.5
+Mid-East,2006Q4,Persons aged 15 years and over in Labour Force (Thousand),258.4
+Mid-East,2006Q4,ILO Unemployment Rate (15 - 74 years) (%),3.7
+Mid-East,2006Q4,ILO Participation Rate (15 years and over) (%),68.3
+Mid-East,2007Q1,Persons aged 15 years and over in Employment (Thousand),255.1
+Mid-East,2007Q1,Unemployed Persons aged 15 years and over (Thousand),13.1
+Mid-East,2007Q1,Persons aged 15 years and over in Labour Force (Thousand),268.2
+Mid-East,2007Q1,ILO Unemployment Rate (15 - 74 years) (%),4.9
+Mid-East,2007Q1,ILO Participation Rate (15 years and over) (%),70.4
+Mid-East,2007Q2,Persons aged 15 years and over in Employment (Thousand),259.3
+Mid-East,2007Q2,Unemployed Persons aged 15 years and over (Thousand),14.3
+Mid-East,2007Q2,Persons aged 15 years and over in Labour Force (Thousand),273.6
+Mid-East,2007Q2,ILO Unemployment Rate (15 - 74 years) (%),5.2
+Mid-East,2007Q2,ILO Participation Rate (15 years and over) (%),71.2
+Mid-East,2007Q3,Persons aged 15 years and over in Employment (Thousand),265.0
+Mid-East,2007Q3,Unemployed Persons aged 15 years and over (Thousand),14.1
+Mid-East,2007Q3,Persons aged 15 years and over in Labour Force (Thousand),279.1
+Mid-East,2007Q3,ILO Unemployment Rate (15 - 74 years) (%),5.0
+Mid-East,2007Q3,ILO Participation Rate (15 years and over) (%),72.0
+Mid-East,2007Q4,Persons aged 15 years and over in Employment (Thousand),260.6
+Mid-East,2007Q4,Unemployed Persons aged 15 years and over (Thousand),12.4
+Mid-East,2007Q4,Persons aged 15 years and over in Labour Force (Thousand),273.0
+Mid-East,2007Q4,ILO Unemployment Rate (15 - 74 years) (%),4.6
+Mid-East,2007Q4,ILO Participation Rate (15 years and over) (%),69.8
+Mid-East,2008Q1,Persons aged 15 years and over in Employment (Thousand),263.0
+Mid-East,2008Q1,Unemployed Persons aged 15 years and over (Thousand),12.5
+Mid-East,2008Q1,Persons aged 15 years and over in Labour Force (Thousand),275.5
+Mid-East,2008Q1,ILO Unemployment Rate (15 - 74 years) (%),4.5
+Mid-East,2008Q1,ILO Participation Rate (15 years and over) (%),69.9
+Mid-East,2008Q2,Persons aged 15 years and over in Employment (Thousand),261.1
+Mid-East,2008Q2,Unemployed Persons aged 15 years and over (Thousand),16.1
+Mid-East,2008Q2,Persons aged 15 years and over in Labour Force (Thousand),277.2
+Mid-East,2008Q2,ILO Unemployment Rate (15 - 74 years) (%),5.8
+Mid-East,2008Q2,ILO Participation Rate (15 years and over) (%),70.0
+Mid-East,2008Q3,Persons aged 15 years and over in Employment (Thousand),254.9
+Mid-East,2008Q3,Unemployed Persons aged 15 years and over (Thousand),20.2
+Mid-East,2008Q3,Persons aged 15 years and over in Labour Force (Thousand),275.1
+Mid-East,2008Q3,ILO Unemployment Rate (15 - 74 years) (%),7.4
+Mid-East,2008Q3,ILO Participation Rate (15 years and over) (%),69.3
+Mid-East,2008Q4,Persons aged 15 years and over in Employment (Thousand),251.8
+Mid-East,2008Q4,Unemployed Persons aged 15 years and over (Thousand),20.9
+Mid-East,2008Q4,Persons aged 15 years and over in Labour Force (Thousand),272.6
+Mid-East,2008Q4,ILO Unemployment Rate (15 - 74 years) (%),7.7
+Mid-East,2008Q4,ILO Participation Rate (15 years and over) (%),68.5
+Mid-East,2009Q1,Persons aged 15 years and over in Employment (Thousand),238.7
+Mid-East,2009Q1,Unemployed Persons aged 15 years and over (Thousand),30.8
+Mid-East,2009Q1,Persons aged 15 years and over in Labour Force (Thousand),269.5
+Mid-East,2009Q1,ILO Unemployment Rate (15 - 74 years) (%),11.4
+Mid-East,2009Q1,ILO Participation Rate (15 years and over) (%),67.6
+Mid-East,2009Q2,Persons aged 15 years and over in Employment (Thousand),239.1
+Mid-East,2009Q2,Unemployed Persons aged 15 years and over (Thousand),37.6
+Mid-East,2009Q2,Persons aged 15 years and over in Labour Force (Thousand),276.7
+Mid-East,2009Q2,ILO Unemployment Rate (15 - 74 years) (%),13.6
+Mid-East,2009Q2,ILO Participation Rate (15 years and over) (%),69.3
+Mid-East,2009Q3,Persons aged 15 years and over in Employment (Thousand),237.1
+Mid-East,2009Q3,Unemployed Persons aged 15 years and over (Thousand),41.6
+Mid-East,2009Q3,Persons aged 15 years and over in Labour Force (Thousand),278.7
+Mid-East,2009Q3,ILO Unemployment Rate (15 - 74 years) (%),14.9
+Mid-East,2009Q3,ILO Participation Rate (15 years and over) (%),69.6
+Mid-East,2009Q4,Persons aged 15 years and over in Employment (Thousand),238.0
+Mid-East,2009Q4,Unemployed Persons aged 15 years and over (Thousand),39.0
+Mid-East,2009Q4,Persons aged 15 years and over in Labour Force (Thousand),277.0
+Mid-East,2009Q4,ILO Unemployment Rate (15 - 74 years) (%),14.1
+Mid-East,2009Q4,ILO Participation Rate (15 years and over) (%),69.0
+Mid-East,2010Q1,Persons aged 15 years and over in Employment (Thousand),233.7
+Mid-East,2010Q1,Unemployed Persons aged 15 years and over (Thousand),44.6
+Mid-East,2010Q1,Persons aged 15 years and over in Labour Force (Thousand),278.3
+Mid-East,2010Q1,ILO Unemployment Rate (15 - 74 years) (%),16.1
+Mid-East,2010Q1,ILO Participation Rate (15 years and over) (%),69.2
+Mid-East,2010Q2,Persons aged 15 years and over in Employment (Thousand),233.2
+Mid-East,2010Q2,Unemployed Persons aged 15 years and over (Thousand),44.2
+Mid-East,2010Q2,Persons aged 15 years and over in Labour Force (Thousand),277.4
+Mid-East,2010Q2,ILO Unemployment Rate (15 - 74 years) (%),16.0
+Mid-East,2010Q2,ILO Participation Rate (15 years and over) (%),68.9
+Mid-East,2010Q3,Persons aged 15 years and over in Employment (Thousand),233.6
+Mid-East,2010Q3,Unemployed Persons aged 15 years and over (Thousand),40.8
+Mid-East,2010Q3,Persons aged 15 years and over in Labour Force (Thousand),274.4
+Mid-East,2010Q3,ILO Unemployment Rate (15 - 74 years) (%),14.9
+Mid-East,2010Q3,ILO Participation Rate (15 years and over) (%),68.0
+Mid-East,2010Q4,Persons aged 15 years and over in Employment (Thousand),231.0
+Mid-East,2010Q4,Unemployed Persons aged 15 years and over (Thousand),42.8
+Mid-East,2010Q4,Persons aged 15 years and over in Labour Force (Thousand),273.8
+Mid-East,2010Q4,ILO Unemployment Rate (15 - 74 years) (%),15.7
+Mid-East,2010Q4,ILO Participation Rate (15 years and over) (%),67.8
+Mid-East,2011Q1,Persons aged 15 years and over in Employment (Thousand),227.1
+Mid-East,2011Q1,Unemployed Persons aged 15 years and over (Thousand),42.4
+Mid-East,2011Q1,Persons aged 15 years and over in Labour Force (Thousand),269.5
+Mid-East,2011Q1,ILO Unemployment Rate (15 - 74 years) (%),15.8
+Mid-East,2011Q1,ILO Participation Rate (15 years and over) (%),66.7
+Mid-East,2011Q2,Persons aged 15 years and over in Employment (Thousand),228.1
+Mid-East,2011Q2,Unemployed Persons aged 15 years and over (Thousand),41.2
+Mid-East,2011Q2,Persons aged 15 years and over in Labour Force (Thousand),269.3
+Mid-East,2011Q2,ILO Unemployment Rate (15 - 74 years) (%),15.3
+Mid-East,2011Q2,ILO Participation Rate (15 years and over) (%),66.6
+Mid-East,2011Q3,Persons aged 15 years and over in Employment (Thousand),231.4
+Mid-East,2011Q3,Unemployed Persons aged 15 years and over (Thousand),43.4
+Mid-East,2011Q3,Persons aged 15 years and over in Labour Force (Thousand),274.7
+Mid-East,2011Q3,ILO Unemployment Rate (15 - 74 years) (%),15.8
+Mid-East,2011Q3,ILO Participation Rate (15 years and over) (%),67.7
+Mid-East,2011Q4,Persons aged 15 years and over in Employment (Thousand),235.0
+Mid-East,2011Q4,Unemployed Persons aged 15 years and over (Thousand),42.4
+Mid-East,2011Q4,Persons aged 15 years and over in Labour Force (Thousand),277.4
+Mid-East,2011Q4,ILO Unemployment Rate (15 - 74 years) (%),15.3
+Mid-East,2011Q4,ILO Participation Rate (15 years and over) (%),68.1
+Mid-West,1998Q1,Persons aged 15 years and over in Employment (Thousand),134.6
+Mid-West,1998Q1,Unemployed Persons aged 15 years and over (Thousand),14.1
+Mid-West,1998Q1,Persons aged 15 years and over in Labour Force (Thousand),148.7
+Mid-West,1998Q1,ILO Unemployment Rate (15 - 74 years) (%),9.5
+Mid-West,1998Q1,ILO Participation Rate (15 years and over) (%),60.2
+Mid-West,1998Q2,Persons aged 15 years and over in Employment (Thousand),137.4
+Mid-West,1998Q2,Unemployed Persons aged 15 years and over (Thousand),12.5
+Mid-West,1998Q2,Persons aged 15 years and over in Labour Force (Thousand),149.9
+Mid-West,1998Q2,ILO Unemployment Rate (15 - 74 years) (%),8.4
+Mid-West,1998Q2,ILO Participation Rate (15 years and over) (%),60.3
+Mid-West,1998Q3,Persons aged 15 years and over in Employment (Thousand),144.6
+Mid-West,1998Q3,Unemployed Persons aged 15 years and over (Thousand),11.4
+Mid-West,1998Q3,Persons aged 15 years and over in Labour Force (Thousand),156.0
+Mid-West,1998Q3,ILO Unemployment Rate (15 - 74 years) (%),7.3
+Mid-West,1998Q3,ILO Participation Rate (15 years and over) (%),62.4
+Mid-West,1998Q4,Persons aged 15 years and over in Employment (Thousand),140.5
+Mid-West,1998Q4,Unemployed Persons aged 15 years and over (Thousand),9.9
+Mid-West,1998Q4,Persons aged 15 years and over in Labour Force (Thousand),150.5
+Mid-West,1998Q4,ILO Unemployment Rate (15 - 74 years) (%),6.6
+Mid-West,1998Q4,ILO Participation Rate (15 years and over) (%),59.9
+Mid-West,1999Q1,Persons aged 15 years and over in Employment (Thousand),143.3
+Mid-West,1999Q1,Unemployed Persons aged 15 years and over (Thousand),10.9
+Mid-West,1999Q1,Persons aged 15 years and over in Labour Force (Thousand),154.2
+Mid-West,1999Q1,ILO Unemployment Rate (15 - 74 years) (%),7.1
+Mid-West,1999Q1,ILO Participation Rate (15 years and over) (%),61.2
+Mid-West,1999Q2,Persons aged 15 years and over in Employment (Thousand),146.2
+Mid-West,1999Q2,Unemployed Persons aged 15 years and over (Thousand),11.4
+Mid-West,1999Q2,Persons aged 15 years and over in Labour Force (Thousand),157.6
+Mid-West,1999Q2,ILO Unemployment Rate (15 - 74 years) (%),7.3
+Mid-West,1999Q2,ILO Participation Rate (15 years and over) (%),62.3
+Mid-West,1999Q3,Persons aged 15 years and over in Employment (Thousand),156.8
+Mid-West,1999Q3,Unemployed Persons aged 15 years and over (Thousand),11.0
+Mid-West,1999Q3,Persons aged 15 years and over in Labour Force (Thousand),167.8
+Mid-West,1999Q3,ILO Unemployment Rate (15 - 74 years) (%),6.6
+Mid-West,1999Q3,ILO Participation Rate (15 years and over) (%),66.0
+Mid-West,1999Q4,Persons aged 15 years and over in Employment (Thousand),152.4
+Mid-West,1999Q4,Unemployed Persons aged 15 years and over (Thousand),9.3
+Mid-West,1999Q4,Persons aged 15 years and over in Labour Force (Thousand),161.7
+Mid-West,1999Q4,ILO Unemployment Rate (15 - 74 years) (%),5.8
+Mid-West,1999Q4,ILO Participation Rate (15 years and over) (%),63.2
+Mid-West,2000Q1,Persons aged 15 years and over in Employment (Thousand),152.3
+Mid-West,2000Q1,Unemployed Persons aged 15 years and over (Thousand),9.3
+Mid-West,2000Q1,Persons aged 15 years and over in Labour Force (Thousand),161.6
+Mid-West,2000Q1,ILO Unemployment Rate (15 - 74 years) (%),5.8
+Mid-West,2000Q1,ILO Participation Rate (15 years and over) (%),63.0
+Mid-West,2000Q2,Persons aged 15 years and over in Employment (Thousand),152.8
+Mid-West,2000Q2,Unemployed Persons aged 15 years and over (Thousand),9.8
+Mid-West,2000Q2,Persons aged 15 years and over in Labour Force (Thousand),162.6
+Mid-West,2000Q2,ILO Unemployment Rate (15 - 74 years) (%),6.1
+Mid-West,2000Q2,ILO Participation Rate (15 years and over) (%),63.1
+Mid-West,2000Q3,Persons aged 15 years and over in Employment (Thousand),160.2
+Mid-West,2000Q3,Unemployed Persons aged 15 years and over (Thousand),8.9
+Mid-West,2000Q3,Persons aged 15 years and over in Labour Force (Thousand),169.1
+Mid-West,2000Q3,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Mid-West,2000Q3,ILO Participation Rate (15 years and over) (%),65.2
+Mid-West,2000Q4,Persons aged 15 years and over in Employment (Thousand),154.2
+Mid-West,2000Q4,Unemployed Persons aged 15 years and over (Thousand),7.7
+Mid-West,2000Q4,Persons aged 15 years and over in Labour Force (Thousand),161.9
+Mid-West,2000Q4,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Mid-West,2000Q4,ILO Participation Rate (15 years and over) (%),61.9
+Mid-West,2001Q1,Persons aged 15 years and over in Employment (Thousand),151.4
+Mid-West,2001Q1,Unemployed Persons aged 15 years and over (Thousand),8.1
+Mid-West,2001Q1,Persons aged 15 years and over in Labour Force (Thousand),159.4
+Mid-West,2001Q1,ILO Unemployment Rate (15 - 74 years) (%),5.1
+Mid-West,2001Q1,ILO Participation Rate (15 years and over) (%),60.8
+Mid-West,2001Q2,Persons aged 15 years and over in Employment (Thousand),153.3
+Mid-West,2001Q2,Unemployed Persons aged 15 years and over (Thousand),7.8
+Mid-West,2001Q2,Persons aged 15 years and over in Labour Force (Thousand),161.0
+Mid-West,2001Q2,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Mid-West,2001Q2,ILO Participation Rate (15 years and over) (%),61.2
+Mid-West,2001Q3,Persons aged 15 years and over in Employment (Thousand),161.2
+Mid-West,2001Q3,Unemployed Persons aged 15 years and over (Thousand),10.3
+Mid-West,2001Q3,Persons aged 15 years and over in Labour Force (Thousand),171.5
+Mid-West,2001Q3,ILO Unemployment Rate (15 - 74 years) (%),6.0
+Mid-West,2001Q3,ILO Participation Rate (15 years and over) (%),64.8
+Mid-West,2001Q4,Persons aged 15 years and over in Employment (Thousand),158.5
+Mid-West,2001Q4,Unemployed Persons aged 15 years and over (Thousand),8.1
+Mid-West,2001Q4,Persons aged 15 years and over in Labour Force (Thousand),166.6
+Mid-West,2001Q4,ILO Unemployment Rate (15 - 74 years) (%),4.9
+Mid-West,2001Q4,ILO Participation Rate (15 years and over) (%),62.7
+Mid-West,2002Q1,Persons aged 15 years and over in Employment (Thousand),158.1
+Mid-West,2002Q1,Unemployed Persons aged 15 years and over (Thousand),8.6
+Mid-West,2002Q1,Persons aged 15 years and over in Labour Force (Thousand),166.6
+Mid-West,2002Q1,ILO Unemployment Rate (15 - 74 years) (%),5.2
+Mid-West,2002Q1,ILO Participation Rate (15 years and over) (%),62.4
+Mid-West,2002Q2,Persons aged 15 years and over in Employment (Thousand),159.0
+Mid-West,2002Q2,Unemployed Persons aged 15 years and over (Thousand),7.7
+Mid-West,2002Q2,Persons aged 15 years and over in Labour Force (Thousand),166.8
+Mid-West,2002Q2,ILO Unemployment Rate (15 - 74 years) (%),4.7
+Mid-West,2002Q2,ILO Participation Rate (15 years and over) (%),62.3
+Mid-West,2002Q3,Persons aged 15 years and over in Employment (Thousand),163.3
+Mid-West,2002Q3,Unemployed Persons aged 15 years and over (Thousand),8.1
+Mid-West,2002Q3,Persons aged 15 years and over in Labour Force (Thousand),171.5
+Mid-West,2002Q3,ILO Unemployment Rate (15 - 74 years) (%),4.8
+Mid-West,2002Q3,ILO Participation Rate (15 years and over) (%),63.9
+Mid-West,2002Q4,Persons aged 15 years and over in Employment (Thousand),157.1
+Mid-West,2002Q4,Unemployed Persons aged 15 years and over (Thousand),8.8
+Mid-West,2002Q4,Persons aged 15 years and over in Labour Force (Thousand),165.9
+Mid-West,2002Q4,ILO Unemployment Rate (15 - 74 years) (%),5.3
+Mid-West,2002Q4,ILO Participation Rate (15 years and over) (%),61.6
+Mid-West,2003Q1,Persons aged 15 years and over in Employment (Thousand),158.9
+Mid-West,2003Q1,Unemployed Persons aged 15 years and over (Thousand),9.1
+Mid-West,2003Q1,Persons aged 15 years and over in Labour Force (Thousand),168.0
+Mid-West,2003Q1,ILO Unemployment Rate (15 - 74 years) (%),5.4
+Mid-West,2003Q1,ILO Participation Rate (15 years and over) (%),62.3
+Mid-West,2003Q2,Persons aged 15 years and over in Employment (Thousand),160.6
+Mid-West,2003Q2,Unemployed Persons aged 15 years and over (Thousand),10.6
+Mid-West,2003Q2,Persons aged 15 years and over in Labour Force (Thousand),171.2
+Mid-West,2003Q2,ILO Unemployment Rate (15 - 74 years) (%),6.2
+Mid-West,2003Q2,ILO Participation Rate (15 years and over) (%),63.4
+Mid-West,2003Q3,Persons aged 15 years and over in Employment (Thousand),164.8
+Mid-West,2003Q3,Unemployed Persons aged 15 years and over (Thousand),12.4
+Mid-West,2003Q3,Persons aged 15 years and over in Labour Force (Thousand),177.2
+Mid-West,2003Q3,ILO Unemployment Rate (15 - 74 years) (%),7.0
+Mid-West,2003Q3,ILO Participation Rate (15 years and over) (%),65.4
+Mid-West,2003Q4,Persons aged 15 years and over in Employment (Thousand),160.3
+Mid-West,2003Q4,Unemployed Persons aged 15 years and over (Thousand),10.4
+Mid-West,2003Q4,Persons aged 15 years and over in Labour Force (Thousand),170.7
+Mid-West,2003Q4,ILO Unemployment Rate (15 - 74 years) (%),6.1
+Mid-West,2003Q4,ILO Participation Rate (15 years and over) (%),62.8
+Mid-West,2004Q1,Persons aged 15 years and over in Employment (Thousand),163.8
+Mid-West,2004Q1,Unemployed Persons aged 15 years and over (Thousand),11.5
+Mid-West,2004Q1,Persons aged 15 years and over in Labour Force (Thousand),175.3
+Mid-West,2004Q1,ILO Unemployment Rate (15 - 74 years) (%),6.6
+Mid-West,2004Q1,ILO Participation Rate (15 years and over) (%),64.3
+Mid-West,2004Q2,Persons aged 15 years and over in Employment (Thousand),166.7
+Mid-West,2004Q2,Unemployed Persons aged 15 years and over (Thousand),11.4
+Mid-West,2004Q2,Persons aged 15 years and over in Labour Force (Thousand),178.1
+Mid-West,2004Q2,ILO Unemployment Rate (15 - 74 years) (%),6.4
+Mid-West,2004Q2,ILO Participation Rate (15 years and over) (%),65.2
+Mid-West,2004Q3,Persons aged 15 years and over in Employment (Thousand),169.5
+Mid-West,2004Q3,Unemployed Persons aged 15 years and over (Thousand),12.7
+Mid-West,2004Q3,Persons aged 15 years and over in Labour Force (Thousand),182.2
+Mid-West,2004Q3,ILO Unemployment Rate (15 - 74 years) (%),7.0
+Mid-West,2004Q3,ILO Participation Rate (15 years and over) (%),66.2
+Mid-West,2004Q4,Persons aged 15 years and over in Employment (Thousand),168.3
+Mid-West,2004Q4,Unemployed Persons aged 15 years and over (Thousand),11.2
+Mid-West,2004Q4,Persons aged 15 years and over in Labour Force (Thousand),179.5
+Mid-West,2004Q4,ILO Unemployment Rate (15 - 74 years) (%),6.3
+Mid-West,2004Q4,ILO Participation Rate (15 years and over) (%),64.8
+Mid-West,2005Q1,Persons aged 15 years and over in Employment (Thousand),169.8
+Mid-West,2005Q1,Unemployed Persons aged 15 years and over (Thousand),11.0
+Mid-West,2005Q1,Persons aged 15 years and over in Labour Force (Thousand),180.8
+Mid-West,2005Q1,ILO Unemployment Rate (15 - 74 years) (%),6.1
+Mid-West,2005Q1,ILO Participation Rate (15 years and over) (%),64.9
+Mid-West,2005Q2,Persons aged 15 years and over in Employment (Thousand),173.9
+Mid-West,2005Q2,Unemployed Persons aged 15 years and over (Thousand),12.1
+Mid-West,2005Q2,Persons aged 15 years and over in Labour Force (Thousand),186.0
+Mid-West,2005Q2,ILO Unemployment Rate (15 - 74 years) (%),6.5
+Mid-West,2005Q2,ILO Participation Rate (15 years and over) (%),66.4
+Mid-West,2005Q3,Persons aged 15 years and over in Employment (Thousand),180.7
+Mid-West,2005Q3,Unemployed Persons aged 15 years and over (Thousand),12.1
+Mid-West,2005Q3,Persons aged 15 years and over in Labour Force (Thousand),192.8
+Mid-West,2005Q3,ILO Unemployment Rate (15 - 74 years) (%),6.3
+Mid-West,2005Q3,ILO Participation Rate (15 years and over) (%),68.3
+Mid-West,2005Q4,Persons aged 15 years and over in Employment (Thousand),181.0
+Mid-West,2005Q4,Unemployed Persons aged 15 years and over (Thousand),9.3
+Mid-West,2005Q4,Persons aged 15 years and over in Labour Force (Thousand),190.3
+Mid-West,2005Q4,ILO Unemployment Rate (15 - 74 years) (%),4.9
+Mid-West,2005Q4,ILO Participation Rate (15 years and over) (%),66.9
+Mid-West,2006Q1,Persons aged 15 years and over in Employment (Thousand),182.0
+Mid-West,2006Q1,Unemployed Persons aged 15 years and over (Thousand),10.4
+Mid-West,2006Q1,Persons aged 15 years and over in Labour Force (Thousand),192.4
+Mid-West,2006Q1,ILO Unemployment Rate (15 - 74 years) (%),5.4
+Mid-West,2006Q1,ILO Participation Rate (15 years and over) (%),67.3
+Mid-West,2006Q2,Persons aged 15 years and over in Employment (Thousand),183.2
+Mid-West,2006Q2,Unemployed Persons aged 15 years and over (Thousand),10.5
+Mid-West,2006Q2,Persons aged 15 years and over in Labour Force (Thousand),193.7
+Mid-West,2006Q2,ILO Unemployment Rate (15 - 74 years) (%),5.4
+Mid-West,2006Q2,ILO Participation Rate (15 years and over) (%),68.0
+Mid-West,2006Q3,Persons aged 15 years and over in Employment (Thousand),181.9
+Mid-West,2006Q3,Unemployed Persons aged 15 years and over (Thousand),14.2
+Mid-West,2006Q3,Persons aged 15 years and over in Labour Force (Thousand),196.1
+Mid-West,2006Q3,ILO Unemployment Rate (15 - 74 years) (%),7.2
+Mid-West,2006Q3,ILO Participation Rate (15 years and over) (%),68.3
+Mid-West,2006Q4,Persons aged 15 years and over in Employment (Thousand),179.8
+Mid-West,2006Q4,Unemployed Persons aged 15 years and over (Thousand),11.8
+Mid-West,2006Q4,Persons aged 15 years and over in Labour Force (Thousand),191.7
+Mid-West,2006Q4,ILO Unemployment Rate (15 - 74 years) (%),6.2
+Mid-West,2006Q4,ILO Participation Rate (15 years and over) (%),66.3
+Mid-West,2007Q1,Persons aged 15 years and over in Employment (Thousand),180.6
+Mid-West,2007Q1,Unemployed Persons aged 15 years and over (Thousand),14.2
+Mid-West,2007Q1,Persons aged 15 years and over in Labour Force (Thousand),194.9
+Mid-West,2007Q1,ILO Unemployment Rate (15 - 74 years) (%),7.3
+Mid-West,2007Q1,ILO Participation Rate (15 years and over) (%),67.1
+Mid-West,2007Q2,Persons aged 15 years and over in Employment (Thousand),183.5
+Mid-West,2007Q2,Unemployed Persons aged 15 years and over (Thousand),13.8
+Mid-West,2007Q2,Persons aged 15 years and over in Labour Force (Thousand),197.2
+Mid-West,2007Q2,ILO Unemployment Rate (15 - 74 years) (%),7.0
+Mid-West,2007Q2,ILO Participation Rate (15 years and over) (%),67.6
+Mid-West,2007Q3,Persons aged 15 years and over in Employment (Thousand),182.2
+Mid-West,2007Q3,Unemployed Persons aged 15 years and over (Thousand),14.2
+Mid-West,2007Q3,Persons aged 15 years and over in Labour Force (Thousand),196.5
+Mid-West,2007Q3,ILO Unemployment Rate (15 - 74 years) (%),7.3
+Mid-West,2007Q3,ILO Participation Rate (15 years and over) (%),66.9
+Mid-West,2007Q4,Persons aged 15 years and over in Employment (Thousand),181.6
+Mid-West,2007Q4,Unemployed Persons aged 15 years and over (Thousand),12.8
+Mid-West,2007Q4,Persons aged 15 years and over in Labour Force (Thousand),194.4
+Mid-West,2007Q4,ILO Unemployment Rate (15 - 74 years) (%),6.6
+Mid-West,2007Q4,ILO Participation Rate (15 years and over) (%),65.7
+Mid-West,2008Q1,Persons aged 15 years and over in Employment (Thousand),181.3
+Mid-West,2008Q1,Unemployed Persons aged 15 years and over (Thousand),13.3
+Mid-West,2008Q1,Persons aged 15 years and over in Labour Force (Thousand),194.6
+Mid-West,2008Q1,ILO Unemployment Rate (15 - 74 years) (%),6.9
+Mid-West,2008Q1,ILO Participation Rate (15 years and over) (%),65.4
+Mid-West,2008Q2,Persons aged 15 years and over in Employment (Thousand),182.3
+Mid-West,2008Q2,Unemployed Persons aged 15 years and over (Thousand),15.8
+Mid-West,2008Q2,Persons aged 15 years and over in Labour Force (Thousand),198.1
+Mid-West,2008Q2,ILO Unemployment Rate (15 - 74 years) (%),8.0
+Mid-West,2008Q2,ILO Participation Rate (15 years and over) (%),66.4
+Mid-West,2008Q3,Persons aged 15 years and over in Employment (Thousand),175.5
+Mid-West,2008Q3,Unemployed Persons aged 15 years and over (Thousand),20.4
+Mid-West,2008Q3,Persons aged 15 years and over in Labour Force (Thousand),195.9
+Mid-West,2008Q3,ILO Unemployment Rate (15 - 74 years) (%),10.5
+Mid-West,2008Q3,ILO Participation Rate (15 years and over) (%),65.6
+Mid-West,2008Q4,Persons aged 15 years and over in Employment (Thousand),175.7
+Mid-West,2008Q4,Unemployed Persons aged 15 years and over (Thousand),21.6
+Mid-West,2008Q4,Persons aged 15 years and over in Labour Force (Thousand),197.3
+Mid-West,2008Q4,ILO Unemployment Rate (15 - 74 years) (%),11.0
+Mid-West,2008Q4,ILO Participation Rate (15 years and over) (%),66.1
+Mid-West,2009Q1,Persons aged 15 years and over in Employment (Thousand),166.9
+Mid-West,2009Q1,Unemployed Persons aged 15 years and over (Thousand),27.6
+Mid-West,2009Q1,Persons aged 15 years and over in Labour Force (Thousand),194.5
+Mid-West,2009Q1,ILO Unemployment Rate (15 - 74 years) (%),14.3
+Mid-West,2009Q1,ILO Participation Rate (15 years and over) (%),65.1
+Mid-West,2009Q2,Persons aged 15 years and over in Employment (Thousand),164.5
+Mid-West,2009Q2,Unemployed Persons aged 15 years and over (Thousand),31.8
+Mid-West,2009Q2,Persons aged 15 years and over in Labour Force (Thousand),196.4
+Mid-West,2009Q2,ILO Unemployment Rate (15 - 74 years) (%),16.3
+Mid-West,2009Q2,ILO Participation Rate (15 years and over) (%),65.8
+Mid-West,2009Q3,Persons aged 15 years and over in Employment (Thousand),162.2
+Mid-West,2009Q3,Unemployed Persons aged 15 years and over (Thousand),33.9
+Mid-West,2009Q3,Persons aged 15 years and over in Labour Force (Thousand),196.0
+Mid-West,2009Q3,ILO Unemployment Rate (15 - 74 years) (%),17.4
+Mid-West,2009Q3,ILO Participation Rate (15 years and over) (%),65.6
+Mid-West,2009Q4,Persons aged 15 years and over in Employment (Thousand),161.3
+Mid-West,2009Q4,Unemployed Persons aged 15 years and over (Thousand),34.9
+Mid-West,2009Q4,Persons aged 15 years and over in Labour Force (Thousand),196.2
+Mid-West,2009Q4,ILO Unemployment Rate (15 - 74 years) (%),17.9
+Mid-West,2009Q4,ILO Participation Rate (15 years and over) (%),65.6
+Mid-West,2010Q1,Persons aged 15 years and over in Employment (Thousand),155.8
+Mid-West,2010Q1,Unemployed Persons aged 15 years and over (Thousand),35.4
+Mid-West,2010Q1,Persons aged 15 years and over in Labour Force (Thousand),191.2
+Mid-West,2010Q1,ILO Unemployment Rate (15 - 74 years) (%),18.6
+Mid-West,2010Q1,ILO Participation Rate (15 years and over) (%),63.9
+Mid-West,2010Q2,Persons aged 15 years and over in Employment (Thousand),156.7
+Mid-West,2010Q2,Unemployed Persons aged 15 years and over (Thousand),39.6
+Mid-West,2010Q2,Persons aged 15 years and over in Labour Force (Thousand),196.2
+Mid-West,2010Q2,ILO Unemployment Rate (15 - 74 years) (%),20.2
+Mid-West,2010Q2,ILO Participation Rate (15 years and over) (%),65.5
+Mid-West,2010Q3,Persons aged 15 years and over in Employment (Thousand),157.6
+Mid-West,2010Q3,Unemployed Persons aged 15 years and over (Thousand),40.0
+Mid-West,2010Q3,Persons aged 15 years and over in Labour Force (Thousand),197.6
+Mid-West,2010Q3,ILO Unemployment Rate (15 - 74 years) (%),20.3
+Mid-West,2010Q3,ILO Participation Rate (15 years and over) (%),66.0
+Mid-West,2010Q4,Persons aged 15 years and over in Employment (Thousand),156.2
+Mid-West,2010Q4,Unemployed Persons aged 15 years and over (Thousand),41.0
+Mid-West,2010Q4,Persons aged 15 years and over in Labour Force (Thousand),197.2
+Mid-West,2010Q4,ILO Unemployment Rate (15 - 74 years) (%),20.9
+Mid-West,2010Q4,ILO Participation Rate (15 years and over) (%),66.1
+Mid-West,2011Q1,Persons aged 15 years and over in Employment (Thousand),159.1
+Mid-West,2011Q1,Unemployed Persons aged 15 years and over (Thousand),37.6
+Mid-West,2011Q1,Persons aged 15 years and over in Labour Force (Thousand),196.7
+Mid-West,2011Q1,ILO Unemployment Rate (15 - 74 years) (%),19.2
+Mid-West,2011Q1,ILO Participation Rate (15 years and over) (%),66.0
+Mid-West,2011Q2,Persons aged 15 years and over in Employment (Thousand),161.9
+Mid-West,2011Q2,Unemployed Persons aged 15 years and over (Thousand),39.6
+Mid-West,2011Q2,Persons aged 15 years and over in Labour Force (Thousand),201.5
+Mid-West,2011Q2,ILO Unemployment Rate (15 - 74 years) (%),19.8
+Mid-West,2011Q2,ILO Participation Rate (15 years and over) (%),67.8
+Mid-West,2011Q3,Persons aged 15 years and over in Employment (Thousand),159.3
+Mid-West,2011Q3,Unemployed Persons aged 15 years and over (Thousand),41.7
+Mid-West,2011Q3,Persons aged 15 years and over in Labour Force (Thousand),201.0
+Mid-West,2011Q3,ILO Unemployment Rate (15 - 74 years) (%),20.8
+Mid-West,2011Q3,ILO Participation Rate (15 years and over) (%),67.5
+Mid-West,2011Q4,Persons aged 15 years and over in Employment (Thousand),160.1
+Mid-West,2011Q4,Unemployed Persons aged 15 years and over (Thousand),38.6
+Mid-West,2011Q4,Persons aged 15 years and over in Labour Force (Thousand),198.7
+Mid-West,2011Q4,ILO Unemployment Rate (15 - 74 years) (%),19.5
+Mid-West,2011Q4,ILO Participation Rate (15 years and over) (%),66.5
+South-East,1998Q1,Persons aged 15 years and over in Employment (Thousand),158.4
+South-East,1998Q1,Unemployed Persons aged 15 years and over (Thousand),15.3
+South-East,1998Q1,Persons aged 15 years and over in Labour Force (Thousand),173.7
+South-East,1998Q1,ILO Unemployment Rate (15 - 74 years) (%),8.9
+South-East,1998Q1,ILO Participation Rate (15 years and over) (%),57.0
+South-East,1998Q2,Persons aged 15 years and over in Employment (Thousand),159.8
+South-East,1998Q2,Unemployed Persons aged 15 years and over (Thousand),14.9
+South-East,1998Q2,Persons aged 15 years and over in Labour Force (Thousand),174.7
+South-East,1998Q2,ILO Unemployment Rate (15 - 74 years) (%),8.6
+South-East,1998Q2,ILO Participation Rate (15 years and over) (%),57.0
+South-East,1998Q3,Persons aged 15 years and over in Employment (Thousand),166.7
+South-East,1998Q3,Unemployed Persons aged 15 years and over (Thousand),15.1
+South-East,1998Q3,Persons aged 15 years and over in Labour Force (Thousand),181.9
+South-East,1998Q3,ILO Unemployment Rate (15 - 74 years) (%),8.4
+South-East,1998Q3,ILO Participation Rate (15 years and over) (%),58.9
+South-East,1998Q4,Persons aged 15 years and over in Employment (Thousand),165.7
+South-East,1998Q4,Unemployed Persons aged 15 years and over (Thousand),12.7
+South-East,1998Q4,Persons aged 15 years and over in Labour Force (Thousand),178.4
+South-East,1998Q4,ILO Unemployment Rate (15 - 74 years) (%),7.2
+South-East,1998Q4,ILO Participation Rate (15 years and over) (%),57.5
+South-East,1999Q1,Persons aged 15 years and over in Employment (Thousand),166.9
+South-East,1999Q1,Unemployed Persons aged 15 years and over (Thousand),13.5
+South-East,1999Q1,Persons aged 15 years and over in Labour Force (Thousand),180.3
+South-East,1999Q1,ILO Unemployment Rate (15 - 74 years) (%),7.5
+South-East,1999Q1,ILO Participation Rate (15 years and over) (%),58.0
+South-East,1999Q2,Persons aged 15 years and over in Employment (Thousand),171.4
+South-East,1999Q2,Unemployed Persons aged 15 years and over (Thousand),13.9
+South-East,1999Q2,Persons aged 15 years and over in Labour Force (Thousand),185.3
+South-East,1999Q2,ILO Unemployment Rate (15 - 74 years) (%),7.5
+South-East,1999Q2,ILO Participation Rate (15 years and over) (%),59.4
+South-East,1999Q3,Persons aged 15 years and over in Employment (Thousand),181.0
+South-East,1999Q3,Unemployed Persons aged 15 years and over (Thousand),12.3
+South-East,1999Q3,Persons aged 15 years and over in Labour Force (Thousand),193.3
+South-East,1999Q3,ILO Unemployment Rate (15 - 74 years) (%),6.4
+South-East,1999Q3,ILO Participation Rate (15 years and over) (%),61.7
+South-East,1999Q4,Persons aged 15 years and over in Employment (Thousand),178.1
+South-East,1999Q4,Unemployed Persons aged 15 years and over (Thousand),10.5
+South-East,1999Q4,Persons aged 15 years and over in Labour Force (Thousand),188.7
+South-East,1999Q4,ILO Unemployment Rate (15 - 74 years) (%),5.6
+South-East,1999Q4,ILO Participation Rate (15 years and over) (%),59.9
+South-East,2000Q1,Persons aged 15 years and over in Employment (Thousand),176.6
+South-East,2000Q1,Unemployed Persons aged 15 years and over (Thousand),9.4
+South-East,2000Q1,Persons aged 15 years and over in Labour Force (Thousand),186.0
+South-East,2000Q1,ILO Unemployment Rate (15 - 74 years) (%),5.1
+South-East,2000Q1,ILO Participation Rate (15 years and over) (%),59.0
+South-East,2000Q2,Persons aged 15 years and over in Employment (Thousand),180.8
+South-East,2000Q2,Unemployed Persons aged 15 years and over (Thousand),8.8
+South-East,2000Q2,Persons aged 15 years and over in Labour Force (Thousand),189.6
+South-East,2000Q2,ILO Unemployment Rate (15 - 74 years) (%),4.7
+South-East,2000Q2,ILO Participation Rate (15 years and over) (%),59.9
+South-East,2000Q3,Persons aged 15 years and over in Employment (Thousand),187.6
+South-East,2000Q3,Unemployed Persons aged 15 years and over (Thousand),8.6
+South-East,2000Q3,Persons aged 15 years and over in Labour Force (Thousand),196.2
+South-East,2000Q3,ILO Unemployment Rate (15 - 74 years) (%),4.4
+South-East,2000Q3,ILO Participation Rate (15 years and over) (%),61.6
+South-East,2000Q4,Persons aged 15 years and over in Employment (Thousand),182.2
+South-East,2000Q4,Unemployed Persons aged 15 years and over (Thousand),7.5
+South-East,2000Q4,Persons aged 15 years and over in Labour Force (Thousand),189.7
+South-East,2000Q4,ILO Unemployment Rate (15 - 74 years) (%),4.0
+South-East,2000Q4,ILO Participation Rate (15 years and over) (%),59.0
+South-East,2001Q1,Persons aged 15 years and over in Employment (Thousand),181.6
+South-East,2001Q1,Unemployed Persons aged 15 years and over (Thousand),8.0
+South-East,2001Q1,Persons aged 15 years and over in Labour Force (Thousand),189.6
+South-East,2001Q1,ILO Unemployment Rate (15 - 74 years) (%),4.2
+South-East,2001Q1,ILO Participation Rate (15 years and over) (%),58.8
+South-East,2001Q2,Persons aged 15 years and over in Employment (Thousand),185.7
+South-East,2001Q2,Unemployed Persons aged 15 years and over (Thousand),8.0
+South-East,2001Q2,Persons aged 15 years and over in Labour Force (Thousand),193.7
+South-East,2001Q2,ILO Unemployment Rate (15 - 74 years) (%),4.2
+South-East,2001Q2,ILO Participation Rate (15 years and over) (%),59.8
+South-East,2001Q3,Persons aged 15 years and over in Employment (Thousand),196.4
+South-East,2001Q3,Unemployed Persons aged 15 years and over (Thousand),8.0
+South-East,2001Q3,Persons aged 15 years and over in Labour Force (Thousand),204.4
+South-East,2001Q3,ILO Unemployment Rate (15 - 74 years) (%),3.9
+South-East,2001Q3,ILO Participation Rate (15 years and over) (%),62.8
+South-East,2001Q4,Persons aged 15 years and over in Employment (Thousand),191.2
+South-East,2001Q4,Unemployed Persons aged 15 years and over (Thousand),7.3
+South-East,2001Q4,Persons aged 15 years and over in Labour Force (Thousand),198.6
+South-East,2001Q4,ILO Unemployment Rate (15 - 74 years) (%),3.7
+South-East,2001Q4,ILO Participation Rate (15 years and over) (%),60.6
+South-East,2002Q1,Persons aged 15 years and over in Employment (Thousand),191.6
+South-East,2002Q1,Unemployed Persons aged 15 years and over (Thousand),7.9
+South-East,2002Q1,Persons aged 15 years and over in Labour Force (Thousand),199.4
+South-East,2002Q1,ILO Unemployment Rate (15 - 74 years) (%),4.0
+South-East,2002Q1,ILO Participation Rate (15 years and over) (%),60.7
+South-East,2002Q2,Persons aged 15 years and over in Employment (Thousand),192.9
+South-East,2002Q2,Unemployed Persons aged 15 years and over (Thousand),8.6
+South-East,2002Q2,Persons aged 15 years and over in Labour Force (Thousand),201.6
+South-East,2002Q2,ILO Unemployment Rate (15 - 74 years) (%),4.3
+South-East,2002Q2,ILO Participation Rate (15 years and over) (%),61.0
+South-East,2002Q3,Persons aged 15 years and over in Employment (Thousand),199.4
+South-East,2002Q3,Unemployed Persons aged 15 years and over (Thousand),8.9
+South-East,2002Q3,Persons aged 15 years and over in Labour Force (Thousand),208.3
+South-East,2002Q3,ILO Unemployment Rate (15 - 74 years) (%),4.3
+South-East,2002Q3,ILO Participation Rate (15 years and over) (%),62.8
+South-East,2002Q4,Persons aged 15 years and over in Employment (Thousand),193.6
+South-East,2002Q4,Unemployed Persons aged 15 years and over (Thousand),10.9
+South-East,2002Q4,Persons aged 15 years and over in Labour Force (Thousand),204.5
+South-East,2002Q4,ILO Unemployment Rate (15 - 74 years) (%),5.3
+South-East,2002Q4,ILO Participation Rate (15 years and over) (%),61.3
+South-East,2003Q1,Persons aged 15 years and over in Employment (Thousand),195.5
+South-East,2003Q1,Unemployed Persons aged 15 years and over (Thousand),10.4
+South-East,2003Q1,Persons aged 15 years and over in Labour Force (Thousand),205.9
+South-East,2003Q1,ILO Unemployment Rate (15 - 74 years) (%),5.0
+South-East,2003Q1,ILO Participation Rate (15 years and over) (%),61.4
+South-East,2003Q2,Persons aged 15 years and over in Employment (Thousand),196.1
+South-East,2003Q2,Unemployed Persons aged 15 years and over (Thousand),11.3
+South-East,2003Q2,Persons aged 15 years and over in Labour Force (Thousand),207.4
+South-East,2003Q2,ILO Unemployment Rate (15 - 74 years) (%),5.5
+South-East,2003Q2,ILO Participation Rate (15 years and over) (%),61.7
+South-East,2003Q3,Persons aged 15 years and over in Employment (Thousand),203.3
+South-East,2003Q3,Unemployed Persons aged 15 years and over (Thousand),10.9
+South-East,2003Q3,Persons aged 15 years and over in Labour Force (Thousand),214.2
+South-East,2003Q3,ILO Unemployment Rate (15 - 74 years) (%),5.1
+South-East,2003Q3,ILO Participation Rate (15 years and over) (%),63.4
+South-East,2003Q4,Persons aged 15 years and over in Employment (Thousand),198.4
+South-East,2003Q4,Unemployed Persons aged 15 years and over (Thousand),9.2
+South-East,2003Q4,Persons aged 15 years and over in Labour Force (Thousand),207.6
+South-East,2003Q4,ILO Unemployment Rate (15 - 74 years) (%),4.5
+South-East,2003Q4,ILO Participation Rate (15 years and over) (%),61.0
+South-East,2004Q1,Persons aged 15 years and over in Employment (Thousand),196.4
+South-East,2004Q1,Unemployed Persons aged 15 years and over (Thousand),11.0
+South-East,2004Q1,Persons aged 15 years and over in Labour Force (Thousand),207.5
+South-East,2004Q1,ILO Unemployment Rate (15 - 74 years) (%),5.3
+South-East,2004Q1,ILO Participation Rate (15 years and over) (%),60.8
+South-East,2004Q2,Persons aged 15 years and over in Employment (Thousand),200.9
+South-East,2004Q2,Unemployed Persons aged 15 years and over (Thousand),10.3
+South-East,2004Q2,Persons aged 15 years and over in Labour Force (Thousand),211.2
+South-East,2004Q2,ILO Unemployment Rate (15 - 74 years) (%),4.9
+South-East,2004Q2,ILO Participation Rate (15 years and over) (%),61.6
+South-East,2004Q3,Persons aged 15 years and over in Employment (Thousand),203.0
+South-East,2004Q3,Unemployed Persons aged 15 years and over (Thousand),10.5
+South-East,2004Q3,Persons aged 15 years and over in Labour Force (Thousand),213.5
+South-East,2004Q3,ILO Unemployment Rate (15 - 74 years) (%),5.0
+South-East,2004Q3,ILO Participation Rate (15 years and over) (%),61.8
+South-East,2004Q4,Persons aged 15 years and over in Employment (Thousand),204.4
+South-East,2004Q4,Unemployed Persons aged 15 years and over (Thousand),9.8
+South-East,2004Q4,Persons aged 15 years and over in Labour Force (Thousand),214.2
+South-East,2004Q4,ILO Unemployment Rate (15 - 74 years) (%),4.6
+South-East,2004Q4,ILO Participation Rate (15 years and over) (%),61.5
+South-East,2005Q1,Persons aged 15 years and over in Employment (Thousand),206.0
+South-East,2005Q1,Unemployed Persons aged 15 years and over (Thousand),10.4
+South-East,2005Q1,Persons aged 15 years and over in Labour Force (Thousand),216.4
+South-East,2005Q1,ILO Unemployment Rate (15 - 74 years) (%),4.8
+South-East,2005Q1,ILO Participation Rate (15 years and over) (%),61.8
+South-East,2005Q2,Persons aged 15 years and over in Employment (Thousand),206.9
+South-East,2005Q2,Unemployed Persons aged 15 years and over (Thousand),12.6
+South-East,2005Q2,Persons aged 15 years and over in Labour Force (Thousand),219.5
+South-East,2005Q2,ILO Unemployment Rate (15 - 74 years) (%),5.8
+South-East,2005Q2,ILO Participation Rate (15 years and over) (%),62.3
+South-East,2005Q3,Persons aged 15 years and over in Employment (Thousand),212.3
+South-East,2005Q3,Unemployed Persons aged 15 years and over (Thousand),12.8
+South-East,2005Q3,Persons aged 15 years and over in Labour Force (Thousand),225.1
+South-East,2005Q3,ILO Unemployment Rate (15 - 74 years) (%),5.7
+South-East,2005Q3,ILO Participation Rate (15 years and over) (%),63.3
+South-East,2005Q4,Persons aged 15 years and over in Employment (Thousand),212.1
+South-East,2005Q4,Unemployed Persons aged 15 years and over (Thousand),10.4
+South-East,2005Q4,Persons aged 15 years and over in Labour Force (Thousand),222.5
+South-East,2005Q4,ILO Unemployment Rate (15 - 74 years) (%),4.7
+South-East,2005Q4,ILO Participation Rate (15 years and over) (%),62.0
+South-East,2006Q1,Persons aged 15 years and over in Employment (Thousand),213.7
+South-East,2006Q1,Unemployed Persons aged 15 years and over (Thousand),11.9
+South-East,2006Q1,Persons aged 15 years and over in Labour Force (Thousand),225.6
+South-East,2006Q1,ILO Unemployment Rate (15 - 74 years) (%),5.3
+South-East,2006Q1,ILO Participation Rate (15 years and over) (%),62.5
+South-East,2006Q2,Persons aged 15 years and over in Employment (Thousand),223.1
+South-East,2006Q2,Unemployed Persons aged 15 years and over (Thousand),11.0
+South-East,2006Q2,Persons aged 15 years and over in Labour Force (Thousand),234.1
+South-East,2006Q2,ILO Unemployment Rate (15 - 74 years) (%),4.7
+South-East,2006Q2,ILO Participation Rate (15 years and over) (%),64.3
+South-East,2006Q3,Persons aged 15 years and over in Employment (Thousand),228.8
+South-East,2006Q3,Unemployed Persons aged 15 years and over (Thousand),11.6
+South-East,2006Q3,Persons aged 15 years and over in Labour Force (Thousand),240.3
+South-East,2006Q3,ILO Unemployment Rate (15 - 74 years) (%),4.8
+South-East,2006Q3,ILO Participation Rate (15 years and over) (%),65.4
+South-East,2006Q4,Persons aged 15 years and over in Employment (Thousand),227.2
+South-East,2006Q4,Unemployed Persons aged 15 years and over (Thousand),9.6
+South-East,2006Q4,Persons aged 15 years and over in Labour Force (Thousand),236.8
+South-East,2006Q4,ILO Unemployment Rate (15 - 74 years) (%),4.1
+South-East,2006Q4,ILO Participation Rate (15 years and over) (%),63.9
+South-East,2007Q1,Persons aged 15 years and over in Employment (Thousand),228.4
+South-East,2007Q1,Unemployed Persons aged 15 years and over (Thousand),10.7
+South-East,2007Q1,Persons aged 15 years and over in Labour Force (Thousand),239.0
+South-East,2007Q1,ILO Unemployment Rate (15 - 74 years) (%),4.5
+South-East,2007Q1,ILO Participation Rate (15 years and over) (%),64.0
+South-East,2007Q2,Persons aged 15 years and over in Employment (Thousand),233.7
+South-East,2007Q2,Unemployed Persons aged 15 years and over (Thousand),11.1
+South-East,2007Q2,Persons aged 15 years and over in Labour Force (Thousand),244.8
+South-East,2007Q2,ILO Unemployment Rate (15 - 74 years) (%),4.5
+South-East,2007Q2,ILO Participation Rate (15 years and over) (%),65.1
+South-East,2007Q3,Persons aged 15 years and over in Employment (Thousand),235.9
+South-East,2007Q3,Unemployed Persons aged 15 years and over (Thousand),11.6
+South-East,2007Q3,Persons aged 15 years and over in Labour Force (Thousand),247.5
+South-East,2007Q3,ILO Unemployment Rate (15 - 74 years) (%),4.7
+South-East,2007Q3,ILO Participation Rate (15 years and over) (%),65.3
+South-East,2007Q4,Persons aged 15 years and over in Employment (Thousand),236.2
+South-East,2007Q4,Unemployed Persons aged 15 years and over (Thousand),11.0
+South-East,2007Q4,Persons aged 15 years and over in Labour Force (Thousand),247.2
+South-East,2007Q4,ILO Unemployment Rate (15 - 74 years) (%),4.5
+South-East,2007Q4,ILO Participation Rate (15 years and over) (%),64.7
+South-East,2008Q1,Persons aged 15 years and over in Employment (Thousand),232.3
+South-East,2008Q1,Unemployed Persons aged 15 years and over (Thousand),12.8
+South-East,2008Q1,Persons aged 15 years and over in Labour Force (Thousand),245.1
+South-East,2008Q1,ILO Unemployment Rate (15 - 74 years) (%),5.2
+South-East,2008Q1,ILO Participation Rate (15 years and over) (%),63.7
+South-East,2008Q2,Persons aged 15 years and over in Employment (Thousand),236.2
+South-East,2008Q2,Unemployed Persons aged 15 years and over (Thousand),13.6
+South-East,2008Q2,Persons aged 15 years and over in Labour Force (Thousand),249.7
+South-East,2008Q2,ILO Unemployment Rate (15 - 74 years) (%),5.5
+South-East,2008Q2,ILO Participation Rate (15 years and over) (%),64.6
+South-East,2008Q3,Persons aged 15 years and over in Employment (Thousand),236.1
+South-East,2008Q3,Unemployed Persons aged 15 years and over (Thousand),16.8
+South-East,2008Q3,Persons aged 15 years and over in Labour Force (Thousand),252.9
+South-East,2008Q3,ILO Unemployment Rate (15 - 74 years) (%),6.7
+South-East,2008Q3,ILO Participation Rate (15 years and over) (%),65.3
+South-East,2008Q4,Persons aged 15 years and over in Employment (Thousand),227.8
+South-East,2008Q4,Unemployed Persons aged 15 years and over (Thousand),19.5
+South-East,2008Q4,Persons aged 15 years and over in Labour Force (Thousand),247.3
+South-East,2008Q4,ILO Unemployment Rate (15 - 74 years) (%),7.9
+South-East,2008Q4,ILO Participation Rate (15 years and over) (%),63.7
+South-East,2009Q1,Persons aged 15 years and over in Employment (Thousand),219.9
+South-East,2009Q1,Unemployed Persons aged 15 years and over (Thousand),24.0
+South-East,2009Q1,Persons aged 15 years and over in Labour Force (Thousand),243.9
+South-East,2009Q1,ILO Unemployment Rate (15 - 74 years) (%),9.9
+South-East,2009Q1,ILO Participation Rate (15 years and over) (%),62.7
+South-East,2009Q2,Persons aged 15 years and over in Employment (Thousand),211.0
+South-East,2009Q2,Unemployed Persons aged 15 years and over (Thousand),31.9
+South-East,2009Q2,Persons aged 15 years and over in Labour Force (Thousand),243.0
+South-East,2009Q2,ILO Unemployment Rate (15 - 74 years) (%),13.2
+South-East,2009Q2,ILO Participation Rate (15 years and over) (%),62.3
+South-East,2009Q3,Persons aged 15 years and over in Employment (Thousand),209.5
+South-East,2009Q3,Unemployed Persons aged 15 years and over (Thousand),32.6
+South-East,2009Q3,Persons aged 15 years and over in Labour Force (Thousand),242.2
+South-East,2009Q3,ILO Unemployment Rate (15 - 74 years) (%),13.5
+South-East,2009Q3,ILO Participation Rate (15 years and over) (%),62.1
+South-East,2009Q4,Persons aged 15 years and over in Employment (Thousand),200.2
+South-East,2009Q4,Unemployed Persons aged 15 years and over (Thousand),32.5
+South-East,2009Q4,Persons aged 15 years and over in Labour Force (Thousand),232.6
+South-East,2009Q4,ILO Unemployment Rate (15 - 74 years) (%),14.0
+South-East,2009Q4,ILO Participation Rate (15 years and over) (%),59.6
+South-East,2010Q1,Persons aged 15 years and over in Employment (Thousand),195.1
+South-East,2010Q1,Unemployed Persons aged 15 years and over (Thousand),35.2
+South-East,2010Q1,Persons aged 15 years and over in Labour Force (Thousand),230.3
+South-East,2010Q1,ILO Unemployment Rate (15 - 74 years) (%),15.3
+South-East,2010Q1,ILO Participation Rate (15 years and over) (%),59.0
+South-East,2010Q2,Persons aged 15 years and over in Employment (Thousand),196.6
+South-East,2010Q2,Unemployed Persons aged 15 years and over (Thousand),38.4
+South-East,2010Q2,Persons aged 15 years and over in Labour Force (Thousand),235.0
+South-East,2010Q2,ILO Unemployment Rate (15 - 74 years) (%),16.4
+South-East,2010Q2,ILO Participation Rate (15 years and over) (%),60.2
+South-East,2010Q3,Persons aged 15 years and over in Employment (Thousand),197.6
+South-East,2010Q3,Unemployed Persons aged 15 years and over (Thousand),36.9
+South-East,2010Q3,Persons aged 15 years and over in Labour Force (Thousand),234.5
+South-East,2010Q3,ILO Unemployment Rate (15 - 74 years) (%),15.8
+South-East,2010Q3,ILO Participation Rate (15 years and over) (%),60.1
+South-East,2010Q4,Persons aged 15 years and over in Employment (Thousand),191.0
+South-East,2010Q4,Unemployed Persons aged 15 years and over (Thousand),36.8
+South-East,2010Q4,Persons aged 15 years and over in Labour Force (Thousand),227.8
+South-East,2010Q4,ILO Unemployment Rate (15 - 74 years) (%),16.2
+South-East,2010Q4,ILO Participation Rate (15 years and over) (%),58.4
+South-East,2011Q1,Persons aged 15 years and over in Employment (Thousand),190.4
+South-East,2011Q1,Unemployed Persons aged 15 years and over (Thousand),34.5
+South-East,2011Q1,Persons aged 15 years and over in Labour Force (Thousand),224.9
+South-East,2011Q1,ILO Unemployment Rate (15 - 74 years) (%),15.4
+South-East,2011Q1,ILO Participation Rate (15 years and over) (%),57.6
+South-East,2011Q2,Persons aged 15 years and over in Employment (Thousand),189.5
+South-East,2011Q2,Unemployed Persons aged 15 years and over (Thousand),37.6
+South-East,2011Q2,Persons aged 15 years and over in Labour Force (Thousand),227.1
+South-East,2011Q2,ILO Unemployment Rate (15 - 74 years) (%),16.6
+South-East,2011Q2,ILO Participation Rate (15 years and over) (%),58.2
+South-East,2011Q3,Persons aged 15 years and over in Employment (Thousand),188.8
+South-East,2011Q3,Unemployed Persons aged 15 years and over (Thousand),38.8
+South-East,2011Q3,Persons aged 15 years and over in Labour Force (Thousand),227.6
+South-East,2011Q3,ILO Unemployment Rate (15 - 74 years) (%),17.2
+South-East,2011Q3,ILO Participation Rate (15 years and over) (%),58.4
+South-East,2011Q4,Persons aged 15 years and over in Employment (Thousand),187.8
+South-East,2011Q4,Unemployed Persons aged 15 years and over (Thousand),38.5
+South-East,2011Q4,Persons aged 15 years and over in Labour Force (Thousand),226.3
+South-East,2011Q4,ILO Unemployment Rate (15 - 74 years) (%),17.1
+South-East,2011Q4,ILO Participation Rate (15 years and over) (%),58.0
+South-West,1998Q1,Persons aged 15 years and over in Employment (Thousand),229.7
+South-West,1998Q1,Unemployed Persons aged 15 years and over (Thousand),22.5
+South-West,1998Q1,Persons aged 15 years and over in Labour Force (Thousand),252.3
+South-West,1998Q1,ILO Unemployment Rate (15 - 74 years) (%),9.0
+South-West,1998Q1,ILO Participation Rate (15 years and over) (%),58.8
+South-West,1998Q2,Persons aged 15 years and over in Employment (Thousand),231.8
+South-West,1998Q2,Unemployed Persons aged 15 years and over (Thousand),21.8
+South-West,1998Q2,Persons aged 15 years and over in Labour Force (Thousand),253.6
+South-West,1998Q2,ILO Unemployment Rate (15 - 74 years) (%),8.6
+South-West,1998Q2,ILO Participation Rate (15 years and over) (%),58.8
+South-West,1998Q3,Persons aged 15 years and over in Employment (Thousand),241.8
+South-West,1998Q3,Unemployed Persons aged 15 years and over (Thousand),20.5
+South-West,1998Q3,Persons aged 15 years and over in Labour Force (Thousand),262.4
+South-West,1998Q3,ILO Unemployment Rate (15 - 74 years) (%),7.9
+South-West,1998Q3,ILO Participation Rate (15 years and over) (%),60.4
+South-West,1998Q4,Persons aged 15 years and over in Employment (Thousand),237.3
+South-West,1998Q4,Unemployed Persons aged 15 years and over (Thousand),17.1
+South-West,1998Q4,Persons aged 15 years and over in Labour Force (Thousand),254.4
+South-West,1998Q4,ILO Unemployment Rate (15 - 74 years) (%),6.7
+South-West,1998Q4,ILO Participation Rate (15 years and over) (%),58.3
+South-West,1999Q1,Persons aged 15 years and over in Employment (Thousand),240.5
+South-West,1999Q1,Unemployed Persons aged 15 years and over (Thousand),15.8
+South-West,1999Q1,Persons aged 15 years and over in Labour Force (Thousand),256.3
+South-West,1999Q1,ILO Unemployment Rate (15 - 74 years) (%),6.2
+South-West,1999Q1,ILO Participation Rate (15 years and over) (%),58.6
+South-West,1999Q2,Persons aged 15 years and over in Employment (Thousand),245.0
+South-West,1999Q2,Unemployed Persons aged 15 years and over (Thousand),17.3
+South-West,1999Q2,Persons aged 15 years and over in Labour Force (Thousand),262.4
+South-West,1999Q2,ILO Unemployment Rate (15 - 74 years) (%),6.6
+South-West,1999Q2,ILO Participation Rate (15 years and over) (%),59.8
+South-West,1999Q3,Persons aged 15 years and over in Employment (Thousand),255.6
+South-West,1999Q3,Unemployed Persons aged 15 years and over (Thousand),15.6
+South-West,1999Q3,Persons aged 15 years and over in Labour Force (Thousand),271.2
+South-West,1999Q3,ILO Unemployment Rate (15 - 74 years) (%),5.8
+South-West,1999Q3,ILO Participation Rate (15 years and over) (%),61.6
+South-West,1999Q4,Persons aged 15 years and over in Employment (Thousand),251.4
+South-West,1999Q4,Unemployed Persons aged 15 years and over (Thousand),12.9
+South-West,1999Q4,Persons aged 15 years and over in Labour Force (Thousand),264.3
+South-West,1999Q4,ILO Unemployment Rate (15 - 74 years) (%),4.9
+South-West,1999Q4,ILO Participation Rate (15 years and over) (%),59.8
+South-West,2000Q1,Persons aged 15 years and over in Employment (Thousand),251.2
+South-West,2000Q1,Unemployed Persons aged 15 years and over (Thousand),12.5
+South-West,2000Q1,Persons aged 15 years and over in Labour Force (Thousand),263.8
+South-West,2000Q1,ILO Unemployment Rate (15 - 74 years) (%),4.8
+South-West,2000Q1,ILO Participation Rate (15 years and over) (%),59.5
+South-West,2000Q2,Persons aged 15 years and over in Employment (Thousand),259.8
+South-West,2000Q2,Unemployed Persons aged 15 years and over (Thousand),12.4
+South-West,2000Q2,Persons aged 15 years and over in Labour Force (Thousand),272.2
+South-West,2000Q2,ILO Unemployment Rate (15 - 74 years) (%),4.6
+South-West,2000Q2,ILO Participation Rate (15 years and over) (%),61.3
+South-West,2000Q3,Persons aged 15 years and over in Employment (Thousand),267.4
+South-West,2000Q3,Unemployed Persons aged 15 years and over (Thousand),11.8
+South-West,2000Q3,Persons aged 15 years and over in Labour Force (Thousand),279.2
+South-West,2000Q3,ILO Unemployment Rate (15 - 74 years) (%),4.2
+South-West,2000Q3,ILO Participation Rate (15 years and over) (%),62.6
+South-West,2000Q4,Persons aged 15 years and over in Employment (Thousand),259.2
+South-West,2000Q4,Unemployed Persons aged 15 years and over (Thousand),11.0
+South-West,2000Q4,Persons aged 15 years and over in Labour Force (Thousand),270.3
+South-West,2000Q4,ILO Unemployment Rate (15 - 74 years) (%),4.1
+South-West,2000Q4,ILO Participation Rate (15 years and over) (%),60.2
+South-West,2001Q1,Persons aged 15 years and over in Employment (Thousand),254.9
+South-West,2001Q1,Unemployed Persons aged 15 years and over (Thousand),11.8
+South-West,2001Q1,Persons aged 15 years and over in Labour Force (Thousand),266.7
+South-West,2001Q1,ILO Unemployment Rate (15 - 74 years) (%),4.4
+South-West,2001Q1,ILO Participation Rate (15 years and over) (%),59.2
+South-West,2001Q2,Persons aged 15 years and over in Employment (Thousand),264.7
+South-West,2001Q2,Unemployed Persons aged 15 years and over (Thousand),11.3
+South-West,2001Q2,Persons aged 15 years and over in Labour Force (Thousand),276.0
+South-West,2001Q2,ILO Unemployment Rate (15 - 74 years) (%),4.1
+South-West,2001Q2,ILO Participation Rate (15 years and over) (%),61.1
+South-West,2001Q3,Persons aged 15 years and over in Employment (Thousand),272.9
+South-West,2001Q3,Unemployed Persons aged 15 years and over (Thousand),12.6
+South-West,2001Q3,Persons aged 15 years and over in Labour Force (Thousand),285.5
+South-West,2001Q3,ILO Unemployment Rate (15 - 74 years) (%),4.4
+South-West,2001Q3,ILO Participation Rate (15 years and over) (%),62.9
+South-West,2001Q4,Persons aged 15 years and over in Employment (Thousand),263.5
+South-West,2001Q4,Unemployed Persons aged 15 years and over (Thousand),13.0
+South-West,2001Q4,Persons aged 15 years and over in Labour Force (Thousand),276.5
+South-West,2001Q4,ILO Unemployment Rate (15 - 74 years) (%),4.7
+South-West,2001Q4,ILO Participation Rate (15 years and over) (%),60.5
+South-West,2002Q1,Persons aged 15 years and over in Employment (Thousand),263.3
+South-West,2002Q1,Unemployed Persons aged 15 years and over (Thousand),13.4
+South-West,2002Q1,Persons aged 15 years and over in Labour Force (Thousand),276.7
+South-West,2002Q1,ILO Unemployment Rate (15 - 74 years) (%),4.9
+South-West,2002Q1,ILO Participation Rate (15 years and over) (%),60.4
+South-West,2002Q2,Persons aged 15 years and over in Employment (Thousand),266.3
+South-West,2002Q2,Unemployed Persons aged 15 years and over (Thousand),13.9
+South-West,2002Q2,Persons aged 15 years and over in Labour Force (Thousand),280.2
+South-West,2002Q2,ILO Unemployment Rate (15 - 74 years) (%),5.0
+South-West,2002Q2,ILO Participation Rate (15 years and over) (%),60.9
+South-West,2002Q3,Persons aged 15 years and over in Employment (Thousand),274.8
+South-West,2002Q3,Unemployed Persons aged 15 years and over (Thousand),13.4
+South-West,2002Q3,Persons aged 15 years and over in Labour Force (Thousand),288.2
+South-West,2002Q3,ILO Unemployment Rate (15 - 74 years) (%),4.7
+South-West,2002Q3,ILO Participation Rate (15 years and over) (%),62.3
+South-West,2002Q4,Persons aged 15 years and over in Employment (Thousand),265.3
+South-West,2002Q4,Unemployed Persons aged 15 years and over (Thousand),14.7
+South-West,2002Q4,Persons aged 15 years and over in Labour Force (Thousand),280.0
+South-West,2002Q4,ILO Unemployment Rate (15 - 74 years) (%),5.3
+South-West,2002Q4,ILO Participation Rate (15 years and over) (%),60.3
+South-West,2003Q1,Persons aged 15 years and over in Employment (Thousand),266.2
+South-West,2003Q1,Unemployed Persons aged 15 years and over (Thousand),13.5
+South-West,2003Q1,Persons aged 15 years and over in Labour Force (Thousand),279.7
+South-West,2003Q1,ILO Unemployment Rate (15 - 74 years) (%),4.8
+South-West,2003Q1,ILO Participation Rate (15 years and over) (%),60.0
+South-West,2003Q2,Persons aged 15 years and over in Employment (Thousand),267.5
+South-West,2003Q2,Unemployed Persons aged 15 years and over (Thousand),14.5
+South-West,2003Q2,Persons aged 15 years and over in Labour Force (Thousand),282.0
+South-West,2003Q2,ILO Unemployment Rate (15 - 74 years) (%),5.1
+South-West,2003Q2,ILO Participation Rate (15 years and over) (%),60.3
+South-West,2003Q3,Persons aged 15 years and over in Employment (Thousand),280.5
+South-West,2003Q3,Unemployed Persons aged 15 years and over (Thousand),14.3
+South-West,2003Q3,Persons aged 15 years and over in Labour Force (Thousand),294.8
+South-West,2003Q3,ILO Unemployment Rate (15 - 74 years) (%),4.9
+South-West,2003Q3,ILO Participation Rate (15 years and over) (%),62.8
+South-West,2003Q4,Persons aged 15 years and over in Employment (Thousand),274.5
+South-West,2003Q4,Unemployed Persons aged 15 years and over (Thousand),12.5
+South-West,2003Q4,Persons aged 15 years and over in Labour Force (Thousand),287.0
+South-West,2003Q4,ILO Unemployment Rate (15 - 74 years) (%),4.3
+South-West,2003Q4,ILO Participation Rate (15 years and over) (%),60.8
+South-West,2004Q1,Persons aged 15 years and over in Employment (Thousand),276.5
+South-West,2004Q1,Unemployed Persons aged 15 years and over (Thousand),14.9
+South-West,2004Q1,Persons aged 15 years and over in Labour Force (Thousand),291.4
+South-West,2004Q1,ILO Unemployment Rate (15 - 74 years) (%),5.1
+South-West,2004Q1,ILO Participation Rate (15 years and over) (%),61.5
+South-West,2004Q2,Persons aged 15 years and over in Employment (Thousand),280.7
+South-West,2004Q2,Unemployed Persons aged 15 years and over (Thousand),14.7
+South-West,2004Q2,Persons aged 15 years and over in Labour Force (Thousand),295.4
+South-West,2004Q2,ILO Unemployment Rate (15 - 74 years) (%),5.0
+South-West,2004Q2,ILO Participation Rate (15 years and over) (%),62.2
+South-West,2004Q3,Persons aged 15 years and over in Employment (Thousand),295.6
+South-West,2004Q3,Unemployed Persons aged 15 years and over (Thousand),13.4
+South-West,2004Q3,Persons aged 15 years and over in Labour Force (Thousand),308.9
+South-West,2004Q3,ILO Unemployment Rate (15 - 74 years) (%),4.3
+South-West,2004Q3,ILO Participation Rate (15 years and over) (%),64.6
+South-West,2004Q4,Persons aged 15 years and over in Employment (Thousand),289.0
+South-West,2004Q4,Unemployed Persons aged 15 years and over (Thousand),13.0
+South-West,2004Q4,Persons aged 15 years and over in Labour Force (Thousand),302.0
+South-West,2004Q4,ILO Unemployment Rate (15 - 74 years) (%),4.3
+South-West,2004Q4,ILO Participation Rate (15 years and over) (%),62.7
+South-West,2005Q1,Persons aged 15 years and over in Employment (Thousand),291.5
+South-West,2005Q1,Unemployed Persons aged 15 years and over (Thousand),12.6
+South-West,2005Q1,Persons aged 15 years and over in Labour Force (Thousand),304.1
+South-West,2005Q1,ILO Unemployment Rate (15 - 74 years) (%),4.1
+South-West,2005Q1,ILO Participation Rate (15 years and over) (%),62.8
+South-West,2005Q2,Persons aged 15 years and over in Employment (Thousand),296.7
+South-West,2005Q2,Unemployed Persons aged 15 years and over (Thousand),14.9
+South-West,2005Q2,Persons aged 15 years and over in Labour Force (Thousand),311.6
+South-West,2005Q2,ILO Unemployment Rate (15 - 74 years) (%),4.8
+South-West,2005Q2,ILO Participation Rate (15 years and over) (%),64.0
+South-West,2005Q3,Persons aged 15 years and over in Employment (Thousand),309.8
+South-West,2005Q3,Unemployed Persons aged 15 years and over (Thousand),13.4
+South-West,2005Q3,Persons aged 15 years and over in Labour Force (Thousand),323.2
+South-West,2005Q3,ILO Unemployment Rate (15 - 74 years) (%),4.2
+South-West,2005Q3,ILO Participation Rate (15 years and over) (%),66.0
+South-West,2005Q4,Persons aged 15 years and over in Employment (Thousand),304.7
+South-West,2005Q4,Unemployed Persons aged 15 years and over (Thousand),11.6
+South-West,2005Q4,Persons aged 15 years and over in Labour Force (Thousand),316.3
+South-West,2005Q4,ILO Unemployment Rate (15 - 74 years) (%),3.7
+South-West,2005Q4,ILO Participation Rate (15 years and over) (%),64.1
+South-West,2006Q1,Persons aged 15 years and over in Employment (Thousand),303.2
+South-West,2006Q1,Unemployed Persons aged 15 years and over (Thousand),12.8
+South-West,2006Q1,Persons aged 15 years and over in Labour Force (Thousand),315.9
+South-West,2006Q1,ILO Unemployment Rate (15 - 74 years) (%),4.1
+South-West,2006Q1,ILO Participation Rate (15 years and over) (%),63.8
+South-West,2006Q2,Persons aged 15 years and over in Employment (Thousand),308.7
+South-West,2006Q2,Unemployed Persons aged 15 years and over (Thousand),15.4
+South-West,2006Q2,Persons aged 15 years and over in Labour Force (Thousand),324.0
+South-West,2006Q2,ILO Unemployment Rate (15 - 74 years) (%),4.8
+South-West,2006Q2,ILO Participation Rate (15 years and over) (%),65.4
+South-West,2006Q3,Persons aged 15 years and over in Employment (Thousand),319.5
+South-West,2006Q3,Unemployed Persons aged 15 years and over (Thousand),14.8
+South-West,2006Q3,Persons aged 15 years and over in Labour Force (Thousand),334.4
+South-West,2006Q3,ILO Unemployment Rate (15 - 74 years) (%),4.5
+South-West,2006Q3,ILO Participation Rate (15 years and over) (%),66.8
+South-West,2006Q4,Persons aged 15 years and over in Employment (Thousand),318.2
+South-West,2006Q4,Unemployed Persons aged 15 years and over (Thousand),14.0
+South-West,2006Q4,Persons aged 15 years and over in Labour Force (Thousand),332.2
+South-West,2006Q4,ILO Unemployment Rate (15 - 74 years) (%),4.2
+South-West,2006Q4,ILO Participation Rate (15 years and over) (%),65.8
+South-West,2007Q1,Persons aged 15 years and over in Employment (Thousand),319.8
+South-West,2007Q1,Unemployed Persons aged 15 years and over (Thousand),14.2
+South-West,2007Q1,Persons aged 15 years and over in Labour Force (Thousand),334.0
+South-West,2007Q1,ILO Unemployment Rate (15 - 74 years) (%),4.3
+South-West,2007Q1,ILO Participation Rate (15 years and over) (%),65.7
+South-West,2007Q2,Persons aged 15 years and over in Employment (Thousand),324.3
+South-West,2007Q2,Unemployed Persons aged 15 years and over (Thousand),14.6
+South-West,2007Q2,Persons aged 15 years and over in Labour Force (Thousand),338.9
+South-West,2007Q2,ILO Unemployment Rate (15 - 74 years) (%),4.3
+South-West,2007Q2,ILO Participation Rate (15 years and over) (%),66.2
+South-West,2007Q3,Persons aged 15 years and over in Employment (Thousand),334.4
+South-West,2007Q3,Unemployed Persons aged 15 years and over (Thousand),15.2
+South-West,2007Q3,Persons aged 15 years and over in Labour Force (Thousand),349.6
+South-West,2007Q3,ILO Unemployment Rate (15 - 74 years) (%),4.4
+South-West,2007Q3,ILO Participation Rate (15 years and over) (%),67.8
+South-West,2007Q4,Persons aged 15 years and over in Employment (Thousand),326.5
+South-West,2007Q4,Unemployed Persons aged 15 years and over (Thousand),16.7
+South-West,2007Q4,Persons aged 15 years and over in Labour Force (Thousand),343.2
+South-West,2007Q4,ILO Unemployment Rate (15 - 74 years) (%),4.9
+South-West,2007Q4,ILO Participation Rate (15 years and over) (%),66.0
+South-West,2008Q1,Persons aged 15 years and over in Employment (Thousand),325.5
+South-West,2008Q1,Unemployed Persons aged 15 years and over (Thousand),17.3
+South-West,2008Q1,Persons aged 15 years and over in Labour Force (Thousand),342.8
+South-West,2008Q1,ILO Unemployment Rate (15 - 74 years) (%),5.1
+South-West,2008Q1,ILO Participation Rate (15 years and over) (%),65.6
+South-West,2008Q2,Persons aged 15 years and over in Employment (Thousand),324.2
+South-West,2008Q2,Unemployed Persons aged 15 years and over (Thousand),20.8
+South-West,2008Q2,Persons aged 15 years and over in Labour Force (Thousand),345.0
+South-West,2008Q2,ILO Unemployment Rate (15 - 74 years) (%),6.0
+South-West,2008Q2,ILO Participation Rate (15 years and over) (%),65.7
+South-West,2008Q3,Persons aged 15 years and over in Employment (Thousand),331.8
+South-West,2008Q3,Unemployed Persons aged 15 years and over (Thousand),25.6
+South-West,2008Q3,Persons aged 15 years and over in Labour Force (Thousand),357.4
+South-West,2008Q3,ILO Unemployment Rate (15 - 74 years) (%),7.2
+South-West,2008Q3,ILO Participation Rate (15 years and over) (%),68.0
+South-West,2008Q4,Persons aged 15 years and over in Employment (Thousand),313.8
+South-West,2008Q4,Unemployed Persons aged 15 years and over (Thousand),23.8
+South-West,2008Q4,Persons aged 15 years and over in Labour Force (Thousand),337.6
+South-West,2008Q4,ILO Unemployment Rate (15 - 74 years) (%),7.1
+South-West,2008Q4,ILO Participation Rate (15 years and over) (%),64.2
+South-West,2009Q1,Persons aged 15 years and over in Employment (Thousand),301.8
+South-West,2009Q1,Unemployed Persons aged 15 years and over (Thousand),36.4
+South-West,2009Q1,Persons aged 15 years and over in Labour Force (Thousand),338.1
+South-West,2009Q1,ILO Unemployment Rate (15 - 74 years) (%),10.8
+South-West,2009Q1,ILO Participation Rate (15 years and over) (%),64.2
+South-West,2009Q2,Persons aged 15 years and over in Employment (Thousand),302.3
+South-West,2009Q2,Unemployed Persons aged 15 years and over (Thousand),42.2
+South-West,2009Q2,Persons aged 15 years and over in Labour Force (Thousand),344.5
+South-West,2009Q2,ILO Unemployment Rate (15 - 74 years) (%),12.3
+South-West,2009Q2,ILO Participation Rate (15 years and over) (%),65.3
+South-West,2009Q3,Persons aged 15 years and over in Employment (Thousand),300.4
+South-West,2009Q3,Unemployed Persons aged 15 years and over (Thousand),44.5
+South-West,2009Q3,Persons aged 15 years and over in Labour Force (Thousand),344.9
+South-West,2009Q3,ILO Unemployment Rate (15 - 74 years) (%),12.9
+South-West,2009Q3,ILO Participation Rate (15 years and over) (%),65.5
+South-West,2009Q4,Persons aged 15 years and over in Employment (Thousand),290.1
+South-West,2009Q4,Unemployed Persons aged 15 years and over (Thousand),41.9
+South-West,2009Q4,Persons aged 15 years and over in Labour Force (Thousand),332.0
+South-West,2009Q4,ILO Unemployment Rate (15 - 74 years) (%),12.7
+South-West,2009Q4,ILO Participation Rate (15 years and over) (%),63.1
+South-West,2010Q1,Persons aged 15 years and over in Employment (Thousand),285.6
+South-West,2010Q1,Unemployed Persons aged 15 years and over (Thousand),43.4
+South-West,2010Q1,Persons aged 15 years and over in Labour Force (Thousand),329.0
+South-West,2010Q1,ILO Unemployment Rate (15 - 74 years) (%),13.3
+South-West,2010Q1,ILO Participation Rate (15 years and over) (%),62.6
+South-West,2010Q2,Persons aged 15 years and over in Employment (Thousand),292.5
+South-West,2010Q2,Unemployed Persons aged 15 years and over (Thousand),47.1
+South-West,2010Q2,Persons aged 15 years and over in Labour Force (Thousand),339.6
+South-West,2010Q2,ILO Unemployment Rate (15 - 74 years) (%),13.9
+South-West,2010Q2,ILO Participation Rate (15 years and over) (%),64.6
+South-West,2010Q3,Persons aged 15 years and over in Employment (Thousand),289.6
+South-West,2010Q3,Unemployed Persons aged 15 years and over (Thousand),50.0
+South-West,2010Q3,Persons aged 15 years and over in Labour Force (Thousand),339.7
+South-West,2010Q3,ILO Unemployment Rate (15 - 74 years) (%),14.8
+South-West,2010Q3,ILO Participation Rate (15 years and over) (%),64.7
+South-West,2010Q4,Persons aged 15 years and over in Employment (Thousand),279.2
+South-West,2010Q4,Unemployed Persons aged 15 years and over (Thousand),45.6
+South-West,2010Q4,Persons aged 15 years and over in Labour Force (Thousand),324.8
+South-West,2010Q4,ILO Unemployment Rate (15 - 74 years) (%),14.1
+South-West,2010Q4,ILO Participation Rate (15 years and over) (%),61.9
+South-West,2011Q1,Persons aged 15 years and over in Employment (Thousand),274.1
+South-West,2011Q1,Unemployed Persons aged 15 years and over (Thousand),48.1
+South-West,2011Q1,Persons aged 15 years and over in Labour Force (Thousand),322.2
+South-West,2011Q1,ILO Unemployment Rate (15 - 74 years) (%),15.0
+South-West,2011Q1,ILO Participation Rate (15 years and over) (%),61.4
+South-West,2011Q2,Persons aged 15 years and over in Employment (Thousand),276.1
+South-West,2011Q2,Unemployed Persons aged 15 years and over (Thousand),48.4
+South-West,2011Q2,Persons aged 15 years and over in Labour Force (Thousand),324.5
+South-West,2011Q2,ILO Unemployment Rate (15 - 74 years) (%),14.9
+South-West,2011Q2,ILO Participation Rate (15 years and over) (%),61.9
+South-West,2011Q3,Persons aged 15 years and over in Employment (Thousand),279.9
+South-West,2011Q3,Unemployed Persons aged 15 years and over (Thousand),50.6
+South-West,2011Q3,Persons aged 15 years and over in Labour Force (Thousand),330.4
+South-West,2011Q3,ILO Unemployment Rate (15 - 74 years) (%),15.3
+South-West,2011Q3,ILO Participation Rate (15 years and over) (%),63.0
+South-West,2011Q4,Persons aged 15 years and over in Employment (Thousand),278.9
+South-West,2011Q4,Unemployed Persons aged 15 years and over (Thousand),47.5
+South-West,2011Q4,Persons aged 15 years and over in Labour Force (Thousand),326.4
+South-West,2011Q4,ILO Unemployment Rate (15 - 74 years) (%),14.6
+South-West,2011Q4,ILO Participation Rate (15 years and over) (%),62.1
