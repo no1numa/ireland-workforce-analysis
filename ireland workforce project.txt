@@ -7,9 +7,9 @@ Structural and Sectoral Evolution
 
 Demographic and Social Dynamics
 6. Which gender consistently faces higher unemployment in Ireland, and has this gap narrowed over time?
-7. How does marital status influence unemployment trends in Ireland?
+7. How does marital status affect labour force participation in Ireland? ## How does marital status influence unemployment trends in Ireland?
 8. How does age correlate with employment status across different stages of life?
-9. Do students experience higher unemployment rates compared to non-students?
+9. What are the dominant employment sectors for students, and how do they differ from the general population? ## Do students experience higher unemployment rates compared to non-students?
 10. In which sectors are students most employed today, and how does this differ from pre-pandemic patterns?
 
 Regional Disparities and Labour Geography
@@ -25,7 +25,7 @@ Work Hours, Roles and Intensity
 
 ######
 
-Maybe redesign question 9
-Maybe add QLF28 (Ilo participation rate, Marital Status) and rewrite question 7
-Add QLF15 and merge with the QLF08 to answer the question 12
-Add QES09 to answer question 15
+Maybe redesign question 9 # DONE
+Maybe add QLF28 (Ilo participation rate, Marital Status) and rewrite question 7 ## DONE
+Add QLF15 and merge with the QLF08 to answer the question 12 ## DONE
+Add QES09 to answer question 15 ## DONE

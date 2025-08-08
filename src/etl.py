@@ -1,6 +1,7 @@
 # For extracting and handling data
 import requests
 import time
+import datetime as dt
 import pandas as pd
 from pyjstat import pyjstat
 
@@ -16,3 +17,8 @@ def fetch_data(url, retries=5, wait=15):
             #print(f"Attempt {attempt + 1} failed: {e}")
             time.sleep(wait)
     raise Exception("All attempts failed!")
+
+# Changing Quarter attribute to datetime format
+def quarter_to_dt(df):
+    df['period'] = pd.PeriodIndex(df['Quarter'], freq='Q')
+    df['date'] = df['period'].dt.start_time
